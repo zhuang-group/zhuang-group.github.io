@@ -3,9 +3,6 @@ permalink: /people/
 title: "Monash AI Lab"
 excerpt: "People"
 author_profile: true
-redirect_from: 
-  - /people/
-  - /people.html
 ---
 
 Our Team
