@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /code_data/
 title: "Monash AI Lab"
 excerpt: "Code & Data"
 author_profile: true
@@ -8,4 +8,4 @@ redirect_from:
   - /code_data.html
 ---
 
-Welcome to Monash AI Lab!
+Code and data

@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /people/
 title: "Monash AI Lab"
 excerpt: "People"
 author_profile: true

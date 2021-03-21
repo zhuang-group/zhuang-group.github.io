@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /contact/
 title: "Monash AI Lab"
 excerpt: "Contact"
 author_profile: true
@@ -8,4 +8,4 @@ redirect_from:
   - /contact.html
 ---
 
-Welcome to Monash AI Lab!
+Contact us!
