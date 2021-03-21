@@ -10,13 +10,13 @@ main:
     url: /research/    
     
   - title: "Publication"
-    url: /publication/
+    url: /publications/
         
   - title: "Code & Data"
     url: /code_data/
     
-  # - title: "CV"
-  #   url: /cv/
+  - title: "Contact"
+    url: /contact/
     
   # - title: "Guide"
   #   url: /markdown/
