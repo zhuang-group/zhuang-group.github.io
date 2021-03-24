@@ -1,11 +1,12 @@
 ---
 permalink: /people/
-title: ""
+# title: ""
 excerpt: "People"
 author_profile: true
 ---
+# Lab Members
 
-## Faculty and Staff
+### Faculty and Staff
 
 <table  style="border: none;  margin-top:20px;">
   <tr>
@@ -15,7 +16,7 @@ author_profile: true
   </tr>
  </table>
 
-## PhD Students
+### PhD Students
 
 <table  style="border: none; margin-top:20px;">
   <tr>
