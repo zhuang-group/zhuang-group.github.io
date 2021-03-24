@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Bohan Zhuang"
+  name             : "Monash AI Lab"
   avatar           : "avatar3.jpg"
-  bio              : "666"
-  location         : "Melbourne, Australia"
+  bio              : "Dept. of Data Science and AI, Faculty of Information Technology"
+  location         : "Monash University, Melbourne, Australia"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
