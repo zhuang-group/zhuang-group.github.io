@@ -2,7 +2,7 @@
 permalink: /
 title: "Monash AI Lab"
 excerpt: "Home"
-author_profile: true
+author_profile: false
 redirect_from: 
   - /home/
   - /home.html
