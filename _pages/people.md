@@ -5,20 +5,22 @@ excerpt: "People"
 author_profile: true
 ---
 
-Our Team
+## Faculty and Staff
 
-<img src="../images/bohan.jpg" alt="bohan" style="zoom:33%;" />
+<img src="../images/bohan.jpg" alt="bohan" style="width:400px; height:400px;zoom:33%;border-radius: 50%; zoom:33%;" />
 
-Prof. Bohan Zhuang
+Bohan Zhuang
 
-<img src="../images/bohan.jpg" alt="jing" style="zoom:33%;" />
+## PhD Students
+
+<img src="../images/bohan.jpg" alt="jing" style="width:400px; height:400px;zoom:33%;border-radius: 50%;zoom:33%;" />
 
 Jing Liu
 
-<img src="../images/bohan.jpg" alt="haoyu" style="zoom:33%;" />
+<img src="../images/bohan.jpg" alt="haoyu" style="width:400px; height:400px;zoom:33%;border-radius: 50%;zoom:33%;" />
 
 Haoyu He
 
-<img src="../images/bohan.jpg" alt="zizheng" style="zoom:33%;" />
+<img src="../images/bohan.jpg" alt="zizheng" style="width:400px; height:400px;zoom:33%;border-radius: 50%;zoom:33%;" />
 
 Zizheng Pan
