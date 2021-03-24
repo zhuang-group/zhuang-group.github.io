@@ -4,5 +4,3 @@ permalink: /contact/
 excerpt: "Contact"
 author_profile: true
 ---
-
-# Contact us!

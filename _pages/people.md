@@ -4,7 +4,6 @@ permalink: /people/
 excerpt: "People"
 author_profile: true
 ---
-# Lab Members
 
 ### Faculty and Staff
 

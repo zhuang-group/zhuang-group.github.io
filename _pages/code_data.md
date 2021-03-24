@@ -4,5 +4,3 @@ permalink: /code_data/
 excerpt: "Code & Data"
 author_profile: true
 ---
-
-# Code and data

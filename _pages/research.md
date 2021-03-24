@@ -4,5 +4,3 @@ permalink: /research/
 excerpt: "Research"
 author_profile: true
 ---
-
-# Our Research
