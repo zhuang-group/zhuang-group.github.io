@@ -9,7 +9,7 @@ author_profile: true
 
 <img src="../images/bohan.jpg" alt="bohan" style="width:400px; height:400px;zoom:33%;border-radius: 50%; zoom:33%;" />
 
-Bohan Zhuang
+Prof. Bohan Zhuang
 
 ## PhD Students
 
