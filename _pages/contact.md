@@ -1,6 +1,6 @@
 ---
 permalink: /contact/
-# title: "Monash AI Lab"
+title: "Contact Us"
 excerpt: "Contact"
 author_profile: true
 ---

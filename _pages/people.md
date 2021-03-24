@@ -1,6 +1,6 @@
 ---
 permalink: /people/
-# title: ""
+title: "Lab Members"
 excerpt: "People"
 author_profile: true
 ---

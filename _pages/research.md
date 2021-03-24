@@ -1,6 +1,6 @@
 ---
 permalink: /research/
-# title: "Monash AI Lab"
+title: "Our Research"
 excerpt: "Research"
 author_profile: true
 ---

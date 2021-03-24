@@ -1,6 +1,6 @@
 ---
 permalink: /code_data/
-# title: "Monash AI Lab"
+title: "Code & Data"
 excerpt: "Code & Data"
 author_profile: true
 ---
