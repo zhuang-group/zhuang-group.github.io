@@ -1,11 +1,12 @@
 ---
 permalink: /
 title: "Monash AI Lab"
-excerpt: "Home"
+# excerpt: "Home"
 author_profile: false
+classes: wide
 header:
   overlay_image: ../images/lab_bg.jpg
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  overlay_filter: 0.2 # same as adding an opacity of 0.5 to a black background
   # caption: ""
   # actions:
   #   - label: "More Info"
