@@ -188,8 +188,6 @@ collections:
     output: true
     permalink: /:collection/:path/
 
-header: images/foo-bar-identity.jpg
-
 # Defaults
 defaults:
   # _posts

@@ -3,6 +3,13 @@ permalink: /
 title: "Monash AI Lab"
 excerpt: "Home"
 author_profile: false
+header:
+  overlay_image: ../images/lab_bg.jpg
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  # caption: ""
+  # actions:
+  #   - label: "More Info"
+  #     url: "https://unsplash.com"
 redirect_from: 
   - /home/
   - /home.html
