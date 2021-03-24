@@ -1,6 +1,6 @@
 ---
 permalink: /people/
-title: "Monash AI Lab"
+title: ""
 excerpt: "People"
 author_profile: true
 ---
