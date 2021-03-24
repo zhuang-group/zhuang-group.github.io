@@ -5,7 +5,7 @@ excerpt: "People"
 author_profile: true
 ---
 
-## Faculty and Staff
+### Faculty and Staff
 
 <table  style="border: none;">
   <tr>
@@ -14,8 +14,7 @@ author_profile: true
     </td>
   </tr>
  </table>
-
-## PhD Students
+### PhD Students
 
 <table  style="border: none;">
   <tr>
