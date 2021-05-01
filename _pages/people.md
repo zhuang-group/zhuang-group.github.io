@@ -10,7 +10,7 @@ author_profile: true
 <table  style="border: none; margin-top:20px;">
   <tr>
     <td align="center" valign="top" style="border: none;"><img src="../images/boss.jpg" alt="jing" style="margin-bottom:40px; height:400px;width:400px; zoom:33%;border-radius: 50%;zoom:33%;" />
-    <br>[[Dr. Bohan Zhuang](https://sites.google.com/view/bohanzhuang)]
+    <br><a href="https://sites.google.com/view/bohanzhuang">Dr. Bohan Zhuang</a>
     </td>
   </tr>
  </table>
