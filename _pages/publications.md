@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+- **Scalable Visual Transformers with Hierarchical Pooling**
+
+Zizheng Pan, Bohan Zhuang, Jing Liu, Haoyu He, Jianfei Cai
+
+[[Paper](https://arxiv.org/abs/2103.10619)]
 
 - **LBS: Loss-aware Bit Sharing for Automatic Model Compression**
 
