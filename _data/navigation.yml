@@ -5,12 +5,12 @@ main:
 
   - title: "People"
     url: /people/    
-
-  - title: "Software"
-    url: /research/    
     
   - title: "Publication"
     url: /publications/
+
+  - title: "Software"
+    url: /research/    
         
  # - title: "Code & Data"
  #   url: /code_data/
