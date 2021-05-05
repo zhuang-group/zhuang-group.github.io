@@ -14,7 +14,7 @@ Haoyu He, Jing Zhang, Bohan Zhuang, Jianfei Cai, Dacheng Tao
 
 - **Scalable Visual Transformers with Hierarchical Pooling**
 
-Zizheng Pan, Bohan Zhuang, Jing Liu, Haoyu He, Jianfei Cai
+Zizheng Pan, Bohan Zhuang\#, Jing Liu, Haoyu He, Jianfei Cai
 
 [[Paper](https://arxiv.org/abs/2103.10619)]
 
@@ -37,7 +37,7 @@ Jing Liu\*, Bohan Zhuang\*, Zhuangwei Zhuang\*, Yong Guo, Junzhou Huang, Jinhui 
 
 Peng Chen\*, Jing Liu\*, Bohan Zhuang\#, Mingkui Tan, Chunhua Shen
 
-[[Paper](https://arxiv.org/abs/2007.06919)]  **CVPR2021 oral**
+[[Paper](https://arxiv.org/abs/2007.06919)][[Code](https://github.com/bohanzhuang/model-quantization)]  **CVPR2021 oral**
 
 
 
