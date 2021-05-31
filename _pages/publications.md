@@ -7,7 +7,7 @@ author_profile: true
 
 (\* equal contribution, \# corresponding author)
 
-- **End-to-end One-shot Human Parsing**
+- **Less is More: Pay Less Attention in Vision Transformers**
 
 **Zizheng Pan**, Bohan Zhuang\#, Haoyu He, Jing Liu, Jianfei Cai
 
