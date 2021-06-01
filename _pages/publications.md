@@ -11,7 +11,7 @@ author_profile: true
 
 **Zizheng Pan**, Bohan Zhuang\#, Haoyu He, Jing Liu, Jianfei Cai
 
-[[Paper](https://arxiv.org/abs/)]
+[[Paper](http://arxiv.org/abs/2105.14217)]
 
 
 - **End-to-end One-shot Human Parsing**
