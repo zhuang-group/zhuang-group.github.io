@@ -10,9 +10,6 @@ header:
   # actions:
   #   - label: "More Info"
   #     url: "https://unsplash.com"
-redirect_from: 
-  - /lit/
-  - /lit.html
 ---
 
 test
