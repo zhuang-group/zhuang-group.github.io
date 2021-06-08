@@ -11,7 +11,7 @@ author_profile: true
 
 **Zizheng Pan**, Bohan Zhuang\#, Haoyu He, Jing Liu, Jianfei Cai
 
-[[Paper](http://arxiv.org/abs/2105.14217)]
+[[Paper](http://arxiv.org/abs/2105.14217)] [[Code](https://github.com/MonashAI/LIT)]
 
 
 - **End-to-end One-shot Human Parsing**
