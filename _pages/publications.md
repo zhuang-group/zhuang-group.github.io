@@ -18,7 +18,7 @@ author_profile: true
 
 **Haoyu He**, Jing Zhang, Bohan Zhuang, Jianfei Cai, Dacheng Tao
 
-[[Paper](https://arxiv.org/abs/2105.01241)]
+[[Paper](https://arxiv.org/abs/2105.01241)][[Code](https://github.com/Charleshhy/One-shot-Human-Parsing/stargazers)]
 
 
 - **Scalable Visual Transformers with Hierarchical Pooling**
