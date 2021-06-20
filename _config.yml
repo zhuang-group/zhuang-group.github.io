@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Monash AI Lab"
+title                    : "Monash Green AI Lab"
 title_separator          : "-"
-name                     : &name "Monash AI Lab"
-description              : &description "AI Lab in Monash University"
+name                     : &name "Monash Green AI Lab"
+description              : &description "Green AI Lab in Monash University"
 url                      : https://MonashAI.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "MonashAI/MonashAI.github.io"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Monash AI Lab"
+  name             : "Monash Green AI Lab"
   avatar           : "lab_logo.png"
   bio              : "Dept. of Data Science and AI, Faculty of Information Technology"
   location         : "Melbourne, Australia"
