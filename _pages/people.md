@@ -16,17 +16,6 @@ author_profile: true
  </table>
 
 
-### Secretary
-
-<table  style="border: none; margin-top:20px;">
-  <tr>
-    <td align="center" valign="top" style="border: none;"><img src="../images/scret_v2.jpg" alt="jing" style="margin-bottom:40px; width:400px;height:400px; zoom:33%;border-radius: 50%;zoom:33%;" />
-    <br>Chinami Yoshimasa
-    </td>
-  </tr>
- </table>
-
-
 ### PhD Students
 
 <table  style="border: none; margin-top:20px;">
