@@ -9,7 +9,7 @@ author_profile: true
 
 - **Less is More: Pay Less Attention in Vision Transformers**
 
-**Zizheng Pan**, Bohan Zhuang\#, Haoyu He, Jing Liu, Jianfei Cai
+**Zizheng Pan**, Bohan Zhuang\#, **Haoyu He**, **Jing Liu**, Jianfei Cai
 
 [[Paper](http://arxiv.org/abs/2105.14217)] [[Code](https://github.com/MonashAI/LIT)]
 
@@ -23,14 +23,14 @@ author_profile: true
 
 - **LBS: Loss-aware Bit Sharing for Automatic Model Compression**
 
-**Jing Liu**, Bohan Zhuang\#, Peng Chen, Yong Guo, Chunhua Shen, Jianfei Cai, Mingkui Tan
+**Jing Liu**, Bohan Zhuang\#, **Peng Chen**, Yong Guo, Chunhua Shen, Jianfei Cai, Mingkui Tan
 
 [[Paper](https://arxiv.org/abs/2101.04935)]
 
 
 - **Scalable Visual Transformers with Hierarchical Pooling**
 
-**Zizheng Pan**, Bohan Zhuang\#, Jing Liu, Haoyu He, Jianfei Cai
+**Zizheng Pan**, Bohan Zhuang\#, **Jing Liu**, **Haoyu He**, Jianfei Cai
 
 [[Paper](https://arxiv.org/abs/2103.10619)]
 
@@ -51,9 +51,24 @@ Bohan Zhuang\*, Mingkui Tan\*, **Jing Liu**\*, Ian Reid, Chunhua Shen\#
 
 - **AQD: Towards Accurate Quantized Object Detection**
 
-Peng Chen\*, **Jing Liu**\*, Bohan Zhuang\#, Mingkui Tan, Chunhua Shen
+**Peng Chen**\*, **Jing Liu**\*, Bohan Zhuang\#, Mingkui Tan, Chunhua Shen
 
 [[Paper](https://arxiv.org/abs/2007.06919)][[Code](https://github.com/bohanzhuang/model-quantization)]  **CVPR 2021 (oral presentation)**
+
+
+- **SA-BNN: State-Aware Binary Neural Network**
+
+Chunlei Liu\*, **Peng Chen**\*, Bohan Zhuang\*, Chunhua Shen, Baochang Zhang, Wenrui Ding
+
+[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16306)] **AAAI 2021**
+
+
+- **Fully Quantized Image Super-Resolution Networks**
+
+Hu Wang\*, **Peng Chen**\*, Bohan Zhuang, Chunhua Shen
+
+[[Paper](https://arxiv.org/pdf/2011.14265.pdf)]  **ACM MM 2021**
+
 
 
 
