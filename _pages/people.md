@@ -23,7 +23,7 @@ author_profile: true
     <td align="center" valign="top" style="border: none;"><img src="../images/guanyu.jpg" alt="jing" style="margin-bottom:40px; height:400px;width:400px; zoom:33%;border-radius: 50%;zoom:33%;" />
     <br><a href="https://sites.google.com/view/jing-liu/%E9%A6%96%E9%A1%B5">Jing Liu</a>
     </td>
-    <td align="center" valign="top" style="border: none;"><img src="../images/fish.png
+    <td align="center" valign="top" style="border: none;"><img src="../images/fish.png" alt="jing" style="margin-bottom:40px; width:400px;height:400px; zoom:33%;border-radius: 50%;zoom:33%;" />
     <br><a href="https://scholar.google.com/citations?user=aU1zMhUAAAAJ&hl=en">Haoyu He</a>
     </td>
     <td align="center" valign="top" style="border: none;"><img src="../images/guanyu.jpg" alt="jing" style="margin-bottom:40px; width:400px;height:400px; zoom:33%;border-radius: 50%;zoom:33%;" />
