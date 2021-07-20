@@ -33,7 +33,7 @@ author_profile: true
     <br><a href="https://scholar.google.com/citations?user=RLAgwBkAAAAJ&hl=en">Changlin Li</a>
     </td>
     <td align="center" valign="top" style="border: none;"><img src="../images/1.jpg" alt="jing" style="margin-bottom:40px; width:400px;height:400px; zoom:33%;border-radius: 50%;zoom:33%;" />
-    <br><a href="https://scholar.google.com/citations?user=RLAgwBkAAAAJ&hl=en">Yuetian Weng</a>
+    <br><a href="">Yuetian Weng</a>
     </td>
   </tr>
  </table>
