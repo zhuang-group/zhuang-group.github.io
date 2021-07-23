@@ -28,6 +28,12 @@ author_profile: true
 [[Paper](https://arxiv.org/abs/2101.04935)]
 
 
+- **BossNAS: Exploring hybrid CNN-transformers with block-wisely self-supervised neural architecture search**
+
+**Changlin Li**, Tao Tang, Guangrun Wang, Jiefeng Peng, Bing Wang, Xiaodan Liang, Xiaojun Chang
+[[Paper](https://arxiv.org/pdf/2103.12424.pdf)] **ICCV 2021**
+
+
 - **Scalable Visual Transformers with Hierarchical Pooling**
 
 **Zizheng Pan**, Bohan Zhuang\#, **Jing Liu**, **Haoyu He**, Jianfei Cai
