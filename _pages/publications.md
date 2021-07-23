@@ -31,6 +31,7 @@ author_profile: true
 - **BossNAS: Exploring hybrid CNN-transformers with block-wisely self-supervised neural architecture search**
 
 **Changlin Li**, Tao Tang, Guangrun Wang, Jiefeng Peng, Bing Wang, Xiaodan Liang, Xiaojun Chang
+
 [[Paper](https://arxiv.org/pdf/2103.12424.pdf)] **ICCV 2021**
 
 
@@ -38,7 +39,7 @@ author_profile: true
 
 **Zizheng Pan**, Bohan Zhuang\#, **Jing Liu**, **Haoyu He**, Jianfei Cai
 
-[[Paper](https://arxiv.org/abs/2103.10619)] **ICCV 2021**
+[[Paper](https://arxiv.org/abs/2103.10619)]  **ICCV 2021**
 
 
 - **FATNN: Fast and Accurate Ternary Neural Networks**
