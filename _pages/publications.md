@@ -37,7 +37,7 @@ author_profile: true
 
 - **FATNN: Fast and Accurate Ternary Neural Networks**
 
-Peng Chen\*,  **Bohan Zhuang**\*, Chunhua Shen
+Peng Chen\*,  Bohan Zhuang\*, Chunhua Shen
 
 [[Paper](https://arxiv.org/pdf/2008.05101.pdf)]  **ICCV 2021**
 
