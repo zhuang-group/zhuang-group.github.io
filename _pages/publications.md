@@ -32,7 +32,14 @@ author_profile: true
 
 **Zizheng Pan**, Bohan Zhuang\#, **Jing Liu**, **Haoyu He**, Jianfei Cai
 
-[[Paper](https://arxiv.org/abs/2103.10619)]
+[[Paper](https://arxiv.org/abs/2103.10619)] **ICCV 2021**
+
+
+- **FATNN: Fast and Accurate Ternary Neural Networks**
+
+Peng Chen\*,  **Bohan Zhuang**\*, Chunhua Shen
+
+[[Paper](https://arxiv.org/pdf/2008.05101.pdf)]  **ICCV 2021**
 
 
 - **Effective Training of Convolutional Neural Networks with Low-bitwidth Weights and Activations**
