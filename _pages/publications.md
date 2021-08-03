@@ -7,6 +7,14 @@ author_profile: true
 
 (\* equal contribution, \# corresponding author)
 
+
+- **Elastic Architecture Search for Diverse Tasks with Different Resources**
+
+**Jing Liu**, Bohan Zhuang\#, Mingkui Tan, Xu Liu, Dinh Phung, Yuanqing Li, Jianfei Cai
+
+[[Paper]()]
+
+
 - **Less is More: Pay Less Attention in Vision Transformers**
 
 **Zizheng Pan**, Bohan Zhuang\#, **Haoyu He**, **Jing Liu**, Jianfei Cai
