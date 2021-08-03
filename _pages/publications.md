@@ -8,6 +8,9 @@ author_profile: true
 (\* equal contribution, \# corresponding author)
 
 
+**2021**
+
+
 - **Elastic Architecture Search for Diverse Tasks with Different Resources**
 
 **Jing Liu**, Bohan Zhuang\#, Mingkui Tan, Xu Liu, Dinh Phung, Yuanqing Li, Jianfei Cai
