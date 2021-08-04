@@ -15,7 +15,7 @@ author_profile: true
 
 **Jing Liu**, Bohan Zhuang\#, Mingkui Tan, Xu Liu, Dinh Phung, Yuanqing Li, Jianfei Cai
 
-[[Paper]()]
+[[Paper](https://arxiv.org/abs/2108.01224)]
 
 
 - **Less is More: Pay Less Attention in Vision Transformers**
