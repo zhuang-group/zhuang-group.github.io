@@ -80,6 +80,12 @@ Bohan Zhuang\*, Mingkui Tan\*, **Jing Liu**\*, Ian Reid, Chunhua Shen\#
 
 [[Paper](https://arxiv.org/abs/2007.06919)][[Code](https://github.com/bohanzhuang/model-quantization)]  **CVPR 2021 (oral presentation)**
 
+- **Dynamic Slimmable Network**
+
+**Changlin Li**, Guangrun Wang, Bing Wang, Xiaodan Liang, Zhihui Li, Xiaojun Chang
+
+[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Dynamic_Slimmable_Network_CVPR_2021_paper.pdf)] [[Code](https://github.com/changlin31/DS-Net)] **CVPR 2021 (oral presentation)**
+
 
 - **SA-BNN: State-Aware Binary Neural Network**
 
