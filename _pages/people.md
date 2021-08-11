@@ -16,7 +16,7 @@ author_profile: true
  </table>
 
 
-### PhD Students
+### PhD Students as Main Supervisor
 
 <table  style="border: none; margin-top:20px;">
   <tr>
