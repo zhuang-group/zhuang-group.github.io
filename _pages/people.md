@@ -29,7 +29,7 @@ author_profile: true
     <td align="center" valign="top" style="border: none;"><img src="../images/pzz.jpg" alt="jing" style="margin-bottom:40px; width:400px;height:400px; zoom:33%;border-radius: 50%;zoom:33%;" />
     <br><a href="https://scholar.google.com.au/citations?user=w_VMopoAAAAJ&hl=en">Zizheng Pan</a>
     </td>
-    <td align="center" valign="top" style="border: none;"><img src="../images/guanyu.jpg" alt="jing" style="margin-bottom:40px; width:400px;height:400px; zoom:33%;border-radius: 50%;zoom:33%;" />
+    <td align="center" valign="top" style="border: none;"><img src="../images/images.jpg" alt="jing" style="margin-bottom:40px; width:400px;height:400px; zoom:33%;border-radius: 50%;zoom:33%;" />
     <br><a href="https://scholar.google.com/citations?user=RLAgwBkAAAAJ&hl=en">Changlin Li</a>
     </td>
     <td align="center" valign="top" style="border: none;"><img src="../images/1.jpg" alt="jing" style="margin-bottom:40px; width:400px;height:400px; zoom:33%;border-radius: 50%;zoom:33%;" />
