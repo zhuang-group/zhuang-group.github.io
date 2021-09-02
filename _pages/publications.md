@@ -43,21 +43,21 @@ author_profile: true
 
 **Zizheng Pan**, Bohan Zhuang\#, **Jing Liu**, **Haoyu He**, Jianfei Cai
 
-[[Paper](https://arxiv.org/abs/2103.10619)]  **ICCV 2021**
+[[Paper](https://arxiv.org/abs/2103.10619)][[Code](https://github.com/MonashAI/HVT)]  **ICCV 2021**
 
 
 - **FATNN: Fast and Accurate Ternary Neural Networks**
 
 **Peng Chen**\*,  Bohan Zhuang\*, Chunhua Shen
 
-[[Paper](https://arxiv.org/pdf/2008.05101.pdf)]  **ICCV 2021**
+[[Paper](https://arxiv.org/pdf/2008.05101.pdf)][[Code](https://github.com/MonashAI/QTool)]   **ICCV 2021**
 
 
 - **BossNAS: Exploring hybrid CNN-transformers with block-wisely self-supervised neural architecture search**
 
 **Changlin Li**, Tao Tang, Guangrun Wang, Jiefeng Peng, Bing Wang, Xiaodan Liang, Xiaojun Chang
 
-[[Paper](https://arxiv.org/pdf/2103.12424.pdf)] **ICCV 2021**
+[[Paper](https://arxiv.org/pdf/2103.12424.pdf)][[Code](https://github.com/changlin31/BossNAS)]  **ICCV 2021**
 
 
 - **Effective Training of Convolutional Neural Networks with Low-bitwidth Weights and Activations**
@@ -78,7 +78,7 @@ Bohan Zhuang\*, Mingkui Tan\*, **Jing Liu**\*, Ian Reid, Chunhua Shen\#
 
 **Peng Chen**\*, **Jing Liu**\*, Bohan Zhuang\#, Mingkui Tan, Chunhua Shen
 
-[[Paper](https://arxiv.org/abs/2007.06919)][[Code](https://github.com/bohanzhuang/model-quantization)]  **CVPR 2021 (oral presentation)**
+[[Paper](https://arxiv.org/abs/2007.06919)][[Code](https://github.com/MonashAI/QTool)]  **CVPR 2021 (oral presentation)**
 
 - **Dynamic Slimmable Network**
 
@@ -98,7 +98,7 @@ Chunlei Liu\*, **Peng Chen**\*, Bohan Zhuang\*, Chunhua Shen, Baochang Zhang, We
 
 Hu Wang\*, **Peng Chen**\*, Bohan Zhuang, Chunhua Shen
 
-[[Paper](https://arxiv.org/pdf/2011.14265.pdf)]  **ACM MM 2021**
+[[Paper](https://arxiv.org/pdf/2011.14265.pdf)][[Code](https://github.com/MonashAI/QTool)]  **ACM MM 2021**
 
 
 
