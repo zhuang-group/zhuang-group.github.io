@@ -19,6 +19,14 @@ author_profile: true
 ### Research Fellow
 
 
+<table  style="border: none; margin-top:20px;">
+  <tr>
+    <td align="center" valign="top" style="border: none;"><img src="../images/1.jpeg" alt="jing" style="margin-bottom:40px; height:400px;width:400px; zoom:33%;border-radius: 50%;zoom:33%;" />
+    <br><a href="">Dr. </a>
+    </td>
+  </tr>
+ </table>
+ 
 
 ### PhD Students as Main Supervisor
 
