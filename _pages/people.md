@@ -5,7 +5,7 @@ excerpt: "People"
 author_profile: true
 ---
 
-### Faculty and Staff
+### Staff
 
 <table  style="border: none; margin-top:20px;">
   <tr>
@@ -14,6 +14,10 @@ author_profile: true
     </td>
   </tr>
  </table>
+ 
+ 
+### Research Fellow
+
 
 
 ### PhD Students as Main Supervisor
