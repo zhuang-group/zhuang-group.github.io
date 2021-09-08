@@ -21,8 +21,8 @@ author_profile: true
 
 <table  style="border: none; margin-top:20px;">
   <tr>
-    <td align="center" valign="top" style="border: none;"><img src="../images/profile.png" alt="jing" style="margin-bottom:40px; height:400px;width:400px; zoom:33%;border-radius: 50%;zoom:33%;" />
-    <br><a href="">Dr. </a>
+    <td align="center" valign="top" style="border: none;"><img src="../images/yg.jpg" alt="jing" style="margin-bottom:40px; height:400px;width:400px; zoom:33%;border-radius: 50%;zoom:33%;" />
+    <br><a href="">Dr. Yasmeen George</a>
     </td>
   </tr>
  </table>
