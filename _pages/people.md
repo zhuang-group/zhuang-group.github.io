@@ -5,7 +5,7 @@ excerpt: "People"
 author_profile: true
 ---
 
-### Staff
+### Lead
 
 <table  style="border: none; margin-top:20px;">
   <tr>
