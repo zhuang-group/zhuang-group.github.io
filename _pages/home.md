@@ -5,7 +5,7 @@ title: "Monash Green AI Lab"
 author_profile: false
 classes: wide
 header:
-  overlay_image: ../images/lab_bg.jpg
+  overlay_image: ../images/home.jpg
   overlay_filter: 0.2 # same as adding an opacity of 0.5 to a black background
   # caption: ""
   # actions:
