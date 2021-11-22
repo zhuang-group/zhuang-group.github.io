@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zhuang AI Lab"
+title: "Zhuang AI Group"
 excerpt: "About"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to Zhuang AI Lab!
+Welcome to Zhuang AI Group!
