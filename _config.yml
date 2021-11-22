@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Monash Green AI Lab"
+title                    : "Zhuang AI Lab"
 title_separator          : "-"
-name                     : &name "Monash Green AI Lab"
-description              : &description "Green AI Lab in Monash University"
-url                      : https://MonashAI.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Zhuang AI Lab"
+description              : &description "Zhuang AI Lab in Monash University"
+url                      : https://zhuang-group.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "MonashAI/MonashAI.github.io"
+repository               : "zhuang-group/zhuang-group.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Monash Green AI Lab"
+  name             : "Zhuang AI Lab"
   avatar           : "lab_logo_2.jpg"
   bio              : "Dept. of Data Science and AI, Faculty of Information Technology"
   location         : "Melbourne, Australia"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "MonashAI"
+  github           : "zhuang-group"
   google_plus      :
   keybase          :
   instagram        :
