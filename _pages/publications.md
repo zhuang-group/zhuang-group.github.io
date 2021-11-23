@@ -10,6 +10,12 @@ author_profile: true
 
 **2021**
 
+- **Mesa: A Memory-saving Training Framework for Transformers**
+
+**Zizheng Pan**, **Peng Chen**, **Haoyu He**, **Jing Liu**, Jianfei Cai, Bohan Zhuang\#
+
+[[Paper](https://arxiv.org/abs/2111.11124)][[Code](https://github.com/zhuang-group/Mesa)]
+
 
 - **Elastic Architecture Search for Diverse Tasks with Different Resources**
 
