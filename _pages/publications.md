@@ -10,9 +10,16 @@ author_profile: true
 
 **2021**
 
+- **Pruning Self-attentions into Convolutional Layers in Single Path**
+
+**Haoyu He**, Jing Liu, Zizheng Pan, Jianfei Cai, Jing Zhang, Dacheng Tao, Bohan Zhuang\#
+
+[[Paper](https://arxiv.org/abs/2111.11802)][[Code](https://github.com/zhuang-group/SPViT)]
+
+
 - **Mesa: A Memory-saving Training Framework for Transformers**
 
-**Zizheng Pan**, **Peng Chen**, **Haoyu He**, **Jing Liu**, Jianfei Cai, Bohan Zhuang\#
+**Zizheng Pan**, Peng Chen, Haoyu He, Jing Liu, Jianfei Cai, Bohan Zhuang\#
 
 [[Paper](https://arxiv.org/abs/2111.11124)][[Code](https://github.com/zhuang-group/Mesa)]
 
@@ -26,7 +33,7 @@ author_profile: true
 
 - **Less is More: Pay Less Attention in Vision Transformers**
 
-**Zizheng Pan**, Bohan Zhuang\#, **Haoyu He**, **Jing Liu**, Jianfei Cai
+**Zizheng Pan**, Bohan Zhuang\#, Haoyu He, Jing Liu, Jianfei Cai
 
 [[Paper](http://arxiv.org/abs/2105.14217)] [[Code](https://github.com/zhuang-group/LIT)]
 
