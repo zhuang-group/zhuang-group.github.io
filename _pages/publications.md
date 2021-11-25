@@ -10,6 +10,12 @@ author_profile: true
 
 **2021**
 
+- **Sharpness-aware Quantization for Deep Neural Networks**
+
+**Jing Liu**, Jianfei Cai, Bohan Zhuang\#
+
+[[Paper](https://arxiv.org/abs/2111.12273)][[Code](https://github.com/zhuang-group/SAQ)]
+
 - **Pruning Self-attentions into Convolutional Layers in Single Path**
 
 **Haoyu He**, Jing Liu, Zizheng Pan, Jianfei Cai, Jing Zhang, Dacheng Tao, Bohan Zhuang\#
