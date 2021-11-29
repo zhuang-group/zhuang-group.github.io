@@ -30,7 +30,7 @@ author_profile: true
 [[Paper](https://arxiv.org/abs/2111.11124)][[Code](https://github.com/zhuang-group/Mesa)]
 
 
-- **Elastic Architecture Search for Diverse Tasks with Different Resources**
+- **Rapid Elastic Architecture Search under Specialized Classes and Resource Constraints**
 
 **Jing Liu**, Bohan Zhuang\#, Mingkui Tan, Xu Liu, Dinh Phung, Yuanqing Li, Jianfei Cai
 
