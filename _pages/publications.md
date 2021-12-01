@@ -7,6 +7,14 @@ author_profile: true
 
 (\* equal contribution, \# corresponding author)
 
+**2022**
+
+- **Less is More: Pay Less Attention in Vision Transformers**
+
+**Zizheng Pan**, Bohan Zhuang\#, Haoyu He, Jing Liu, Jianfei Cai
+
+[[paper](http://arxiv.org/abs/2105.14217)] [[Code](https://github.com/zhuang-group/LIT)] **AAAI 2022**
+
 
 **2021**
 
@@ -15,6 +23,7 @@ author_profile: true
 **Jing Liu**, Jianfei Cai, Bohan Zhuang\#
 
 [[Paper](https://arxiv.org/abs/2111.12273)][[Code](https://github.com/zhuang-group/SAQ)]
+
 
 - **Pruning Self-attentions into Convolutional Layers in Single Path**
 
@@ -35,13 +44,6 @@ author_profile: true
 **Jing Liu**, Bohan Zhuang\#, Mingkui Tan, Xu Liu, Dinh Phung, Yuanqing Li, Jianfei Cai
 
 [[Paper](https://arxiv.org/abs/2108.01224)]
-
-
-- **Less is More: Pay Less Attention in Vision Transformers**
-
-**Zizheng Pan**, Bohan Zhuang\#, Haoyu He, Jing Liu, Jianfei Cai
-
-[[Paper](http://arxiv.org/abs/2105.14217)] [[Code](https://github.com/zhuang-group/LIT)]
 
 
 - **End-to-end One-shot Human Parsing**
