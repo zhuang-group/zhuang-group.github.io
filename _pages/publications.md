@@ -7,16 +7,7 @@ author_profile: true
 
 (\* equal contribution, \# corresponding author)
 
-**2022**
-
-- **Less is More: Pay Less Attention in Vision Transformers**
-
-**Zizheng Pan**, Bohan Zhuang\#, Haoyu He, Jing Liu, Jianfei Cai
-
-[[paper](http://arxiv.org/abs/2105.14217)] [[Code](https://github.com/zhuang-group/LIT)] **AAAI 2022**
-
-
-**2021**
+**Tech report**
 
 - **Sharpness-aware Quantization for Deep Neural Networks**
 
@@ -60,6 +51,18 @@ author_profile: true
 [[Paper](https://arxiv.org/abs/2101.04935)]
 
 
+**2022**
+
+- **Less is More: Pay Less Attention in Vision Transformers**
+
+**Zizheng Pan**, Bohan Zhuang\#, Haoyu He, Jing Liu, Jianfei Cai
+
+[[paper](http://arxiv.org/abs/2105.14217)] [[Code](https://github.com/zhuang-group/LIT)] **AAAI 2022**
+
+
+**2021**
+
+
 - **Scalable Visual Transformers with Hierarchical Pooling**
 
 **Zizheng Pan**, Bohan Zhuang\#, **Jing Liu**, **Haoyu He**, Jianfei Cai
@@ -100,6 +103,7 @@ Bohan Zhuang\*, Mingkui Tan\*, **Jing Liu**\*, Ian Reid, Chunhua Shen\#
 **Peng Chen**\*, **Jing Liu**\*, Bohan Zhuang\#, Mingkui Tan, Chunhua Shen
 
 [[Paper](https://arxiv.org/abs/2007.06919)][[Code](https://github.com/zhuang-group/QTool)]  **CVPR 2021 (oral presentation)**
+
 
 - **Dynamic Slimmable Network**
 
