@@ -3,7 +3,7 @@ permalink: /
 title: "Zhuang AI Group"
 # excerpt: "Home"
 author_profile: false
-classes: wide
+# classes: wide
 header:
   overlay_image: ../images/boji.jpeg
   overlay_filter: 0.2 # same as adding an opacity of 0.5 to a black background
