@@ -44,9 +44,9 @@ author_profile: true
 [[Paper](https://arxiv.org/abs/2105.01241)][[Code](https://github.com/Charleshhy/One-shot-Human-Parsing/stargazers)]
 
 
-- **LBS: Loss-aware Bit Sharing for Automatic Model Compression**
+- **Single-path Bit Sharing for Automatic Loss-aware Model Compression**
 
-**Jing Liu**, Bohan Zhuang\#, **Peng Chen**, Yong Guo, Chunhua Shen, Jianfei Cai, Mingkui Tan
+**Jing Liu**, Bohan Zhuang, **Peng Chen**, Chunhua Shen, Jianfei Cai, Mingkui Tan
 
 [[Paper](https://arxiv.org/abs/2101.04935)]
 
