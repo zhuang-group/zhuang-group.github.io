@@ -7,7 +7,14 @@ author_profile: true
 
 (\* equal contribution, \# corresponding author)
 
-**Tech report**
+**2022**
+
+- **Single-path Bit Sharing for Automatic Loss-aware Model Compression**
+
+**Jing Liu**, Bohan Zhuang, **Peng Chen**, Chunhua Shen, Jianfei Cai, Mingkui Tan
+
+[[Paper](https://arxiv.org/abs/2101.04935)]
+
 
 - **Sharpness-aware Quantization for Deep Neural Networks**
 
@@ -43,15 +50,6 @@ author_profile: true
 
 [[Paper](https://arxiv.org/abs/2105.01241)][[Code](https://github.com/Charleshhy/One-shot-Human-Parsing/stargazers)]
 
-
-- **Single-path Bit Sharing for Automatic Loss-aware Model Compression**
-
-**Jing Liu**, Bohan Zhuang, **Peng Chen**, Chunhua Shen, Jianfei Cai, Mingkui Tan
-
-[[Paper](https://arxiv.org/abs/2101.04935)]
-
-
-**2022**
 
 - **Less is More: Pay Less Attention in Vision Transformers**
 
