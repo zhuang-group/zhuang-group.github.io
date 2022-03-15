@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zhuang AI Group"
+title: "Zhuang Intelligent Processing Group"
 excerpt: "About"
 author_profile: true
 redirect_from: 
