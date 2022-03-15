@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhuang AI Group"
+title                    : "Zhuang Intelligent Processing Group (ZIP Group)"
 title_separator          : "-"
-name                     : &name "Zhuang AI Group"
-description              : &description "Zhuang AI Group in Monash University"
-url                      : https://zhuang-group.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Zhuang Intelligent Processing Group"
+description              : &description "Zhuang Intelligent Processing Group in Monash University"
+url                      : https://zip-group.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zhuang-group/zhuang-group.github.io"
+repository               : "zip-group/zip-group.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhuang AI Group"
+  name             : "Zhuang Intelligent Processing Group"
   avatar           : "girl1.png"
   bio              : "Dept. of Data Science and AI, Faculty of Information Technology"
   location         : "Melbourne, Australia"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zhuang-group"
+  github           : "zip-group"
   google_plus      :
   keybase          :
   instagram        :
