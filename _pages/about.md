@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to Zhuang AI Group!
+Welcome to Zhuang Intelligent Processing Group!
