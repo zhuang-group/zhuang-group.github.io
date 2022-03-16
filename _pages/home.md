@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zhuang Intelligent Processing Group"
+title: "Zhuang Intelligent Processing Group (ZIP Group)"
 # excerpt: "Home"
 author_profile: false
 classes: wide
@@ -16,7 +16,7 @@ redirect_from:
   - /home.html
 ---
 
-Welcome to Zhuang Intelligent Processing Group!
+Welcome to ZIP Group!
 
 Efficiency matters! The main research topic of our group is developing efficient deep learning for green AI and resource constrained edge devices. 
 We are waiting for you if you have solid Machine Learning, Computer Vision and/or embedded platforms development background.
