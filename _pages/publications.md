@@ -9,6 +9,12 @@ author_profile: true
 
 **2022**
 
+- **Automated Progressive Learning for Efficient Training of Vision Transformers**
+
+**Changlin Li**, Bohan Zhuang\#, Guangrun Wang, Xiaodan Liang, Xiaojun Chang, Yi Yang
+
+[Paper][Code]  **CVPR 2022**
+
 - **Single-path Bit Sharing for Automatic Loss-aware Model Compression**
 
 **Jing Liu**, Bohan Zhuang, **Peng Chen**, Chunhua Shen, Jianfei Cai, Mingkui Tan
