@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zhuang Intelligent Processing Group"
+title: "ZIP Group"
 excerpt: "About"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to Zhuang Intelligent Processing Group!
+Welcome to ZIP Group!
