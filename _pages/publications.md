@@ -15,6 +15,7 @@ author_profile: true
 
 [Paper][Code]  **CVPR 2022**
 
+
 - **Single-path Bit Sharing for Automatic Loss-aware Model Compression**
 
 **Jing Liu**, Bohan Zhuang, **Peng Chen**, Chunhua Shen, Jianfei Cai, Mingkui Tan
@@ -81,13 +82,6 @@ author_profile: true
 [[Paper](https://arxiv.org/pdf/2008.05101.pdf)][[Code](https://github.com/zhuang-group/QTool)]   **ICCV 2021**
 
 
-- **BossNAS: Exploring hybrid CNN-transformers with block-wisely self-supervised neural architecture search**
-
-**Changlin Li**, Tao Tang, Guangrun Wang, Jiefeng Peng, Bing Wang, Xiaodan Liang, Xiaojun Chang
-
-[[Paper](https://arxiv.org/pdf/2103.12424.pdf)][[Code](https://github.com/changlin31/BossNAS)]  **ICCV 2021**
-
-
 - **Effective Training of Convolutional Neural Networks with Low-bitwidth Weights and Activations**
 
 Bohan Zhuang\*, Mingkui Tan\*, **Jing Liu**\*, Ian Reid, Chunhua Shen\#
@@ -107,13 +101,6 @@ Bohan Zhuang\*, Mingkui Tan\*, **Jing Liu**\*, Ian Reid, Chunhua Shen\#
 **Peng Chen**\*, **Jing Liu**\*, Bohan Zhuang\#, Mingkui Tan, Chunhua Shen
 
 [[Paper](https://arxiv.org/abs/2007.06919)][[Code](https://github.com/zhuang-group/QTool)]  **CVPR 2021 (oral presentation)**
-
-
-- **Dynamic Slimmable Network**
-
-**Changlin Li**, Guangrun Wang, Bing Wang, Xiaodan Liang, Zhihui Li, Xiaojun Chang
-
-[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Dynamic_Slimmable_Network_CVPR_2021_paper.pdf)] [[Code](https://github.com/changlin31/DS-Net)] **CVPR 2021 (oral presentation)**
 
 
 - **SA-BNN: State-Aware Binary Neural Network**
