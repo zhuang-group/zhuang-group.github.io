@@ -13,7 +13,7 @@ author_profile: true
 
 **Changlin Li**, Bohan Zhuang\#, Guangrun Wang, Xiaodan Liang, Xiaojun Chang, Yi Yang
 
-[[Paper] https://arxiv.org/abs/2203.14509)][[Code](https://github.com/changlin31/AutoProg)]  **CVPR 2022**
+[[Paper](https://arxiv.org/abs/2203.14509)][[Code](https://github.com/changlin31/AutoProg)]  **CVPR 2022**
 
 
 - **Single-path Bit Sharing for Automatic Loss-aware Model Compression**
