@@ -7,13 +7,14 @@ author_profile: true
 
 (\* equal contribution, \# corresponding author)
 
+
 **2022**
 
-- **Automated Progressive Learning for Efficient Training of Vision Transformers**
+- **Dynamic Focus-aware Positional Queries for Semantic Segmentation**
 
-**Changlin Li**, Bohan Zhuang\#, Guangrun Wang, Xiaodan Liang, Xiaojun Chang, Yi Yang
+**Haoyu He**, Jianfei Cai, Zizheng Pan, Jing Liu, Jing Zhang, Dacheng Tao, Bohan Zhuang\#
 
-[[Paper](https://arxiv.org/abs/2203.14509)][[Code](https://github.com/changlin31/AutoProg)]  **CVPR 2022**
+[Paper][[Code](https://github.com/zip-group/FASeg)]
 
 
 - **Single-path Bit Sharing for Automatic Loss-aware Model Compression**
@@ -27,21 +28,21 @@ author_profile: true
 
 **Jing Liu**, Jianfei Cai, Bohan Zhuang\#
 
-[[Paper](https://arxiv.org/abs/2111.12273)][[Code](https://github.com/zhuang-group/SAQ)]
+[[Paper](https://arxiv.org/abs/2111.12273)][[Code](https://github.com/zip-group/SAQ)]
 
 
 - **Pruning Self-attentions into Convolutional Layers in Single Path**
 
 **Haoyu He**, Jing Liu, Zizheng Pan, Jianfei Cai, Jing Zhang, Dacheng Tao, Bohan Zhuang\#
 
-[[Paper](https://arxiv.org/abs/2111.11802)][[Code](https://github.com/zhuang-group/SPViT)]
+[[Paper](https://arxiv.org/abs/2111.11802)][[Code](https://github.com/zip-group/SPViT)]
 
 
 - **Mesa: A Memory-saving Training Framework for Transformers**
 
 **Zizheng Pan**, Peng Chen, Haoyu He, Jing Liu, Jianfei Cai, Bohan Zhuang\#
 
-[[Paper](https://arxiv.org/abs/2111.11124)][[Code](https://github.com/zhuang-group/Mesa)]
+[[Paper](https://arxiv.org/abs/2111.11124)][[Code](https://github.com/zip-group/Mesa)]
 
 
 - **Rapid Elastic Architecture Search under Specialized Classes and Resource Constraints**
@@ -56,6 +57,13 @@ author_profile: true
 **Haoyu He**, Jing Zhang, Bohan Zhuang, Jianfei Cai, Dacheng Tao
 
 [[Paper](https://arxiv.org/abs/2105.01241)][[Code](https://github.com/Charleshhy/One-shot-Human-Parsing/stargazers)]
+
+
+- **Automated Progressive Learning for Efficient Training of Vision Transformers**
+
+**Changlin Li**, Bohan Zhuang\#, Guangrun Wang, Xiaodan Liang, Xiaojun Chang, Yi Yang
+
+[[Paper](https://arxiv.org/abs/2203.14509)][[Code](https://github.com/changlin31/AutoProg)]  **CVPR 2022**
 
 
 - **Less is More: Pay Less Attention in Vision Transformers**
