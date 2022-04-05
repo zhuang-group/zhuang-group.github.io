@@ -14,7 +14,7 @@ author_profile: true
 
 **Haoyu He**, Jianfei Cai, Zizheng Pan, Jing Liu, Jing Zhang, Dacheng Tao, Bohan Zhuang\#
 
-[Paper][[Code](https://github.com/zip-group/FASeg)]
+[Paper(https://arxiv.org/abs/2204.01244)][[Code](https://github.com/zip-group/FASeg)]
 
 
 - **Single-path Bit Sharing for Automatic Loss-aware Model Compression**
