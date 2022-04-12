@@ -5,7 +5,7 @@ title: "Zhuang Intelligent Processing Group (ZIP Group)"
 author_profile: false
 classes: wide
 header:
-  overlay_image: ../images/girl2.jpeg
+  overlay_image: ../images/home.jpg
   overlay_filter: 0.2 # same as adding an opacity of 0.5 to a black background
   # caption: ""
   # actions:
