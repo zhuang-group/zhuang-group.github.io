@@ -10,6 +10,12 @@ author_profile: true
 
 **2022**
 
+- **Fast Vision Transformers with HiLo Attention**
+
+**Zizheng Pan**, Jianfei Cai, Bohan Zhuang\#
+
+[[Paper](https://arxiv.org/abs/2205.13213)][[Code](https://github.com/zip-group/LITv2)]
+
 - **Dynamic Focus-aware Positional Queries for Semantic Segmentation**
 
 **Haoyu He**, Jianfei Cai, Zizheng Pan, Jing Liu, Jing Zhang, Dacheng Tao, Bohan Zhuang\#
