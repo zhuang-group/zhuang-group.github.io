@@ -84,7 +84,7 @@ author_profile: true
 
 **Bohan Zhuang**, Chunhua Shen, Mingkui Tan, Peng Chen, Lingqiao Liu, Ian Reid
 
-[[paper](https://arxiv.org/abs/1909.09934)]
+[[paper](https://arxiv.org/abs/1909.09934)]  **IJCV 2022**
 
 
 **2021**
