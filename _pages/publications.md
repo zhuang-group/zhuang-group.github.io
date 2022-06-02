@@ -79,6 +79,14 @@ author_profile: true
 [[paper](http://arxiv.org/abs/2105.14217)] [[Code](https://github.com/zhuang-group/LIT)] **AAAI 2022**
 
 
+
+- **Structured Binary Neural Networks for Image Recognition**
+
+**Bohan Zhuang**, Chunhua Shen, Mingkui Tan, Peng Chen, Lingqiao Liu, Ian Reid
+
+[[paper](https://arxiv.org/abs/1909.09934)]
+
+
 **2021**
 
 
