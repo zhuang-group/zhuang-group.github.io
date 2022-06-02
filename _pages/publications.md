@@ -14,7 +14,7 @@ author_profile: true
 
 **Zizheng Pan**, Jianfei Cai, Bohan Zhuang\#
 
-[[Paper](https://arxiv.org/abs/2205.13213)][[Code](https://github.com/zip-group/LITv2)]
+[[Paper](https://arxiv.org/abs/2205.13213)]
 
 - **Dynamic Focus-aware Positional Queries for Semantic Segmentation**
 
