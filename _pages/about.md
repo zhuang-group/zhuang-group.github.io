@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "ZIP Group"
+title: "ZIP Lab"
 excerpt: "About"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to ZIP Group!
+Welcome to ZIP Lab!
