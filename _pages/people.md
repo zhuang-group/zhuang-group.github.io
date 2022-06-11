@@ -19,5 +19,5 @@ author_profile: true
 
 ### Allumini
 <br><a href="https://scholar.google.com/citations?user=URHQRGwAAAAJ&hl=en">Dr. Yasmeen George</a>  Now Lecturer at Monash University
-<br><a href="https://scholar.google.com/citations?user=Hoh9p_kAAAAJ&hl=en">Peng Chen</a>
+<br><a href="https://scholar.google.com/citations?user=Hoh9p_kAAAAJ&hl=en">Peng Chen</a>  Now research scientist @ Motovis
 
