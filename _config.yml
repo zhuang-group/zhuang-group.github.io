@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhuang Intelligent Processing Lab"
+  name             : "ZIP Lab"
   avatar           : "boji_1.jpg"
-  bio              : "Dept. of Data Science and AI, Faculty of Information Technology"
+  bio              : "Dept of Data Science & AI, Monash University"
   location         : "Melbourne, Australia"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
