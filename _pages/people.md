@@ -5,10 +5,10 @@ excerpt: "People"
 author_profile: true
 ---
 
-### Lead
+## Lead
 <br><a href="https://bohanzhuang.github.io/">Dr. Bohan Zhuang</a>
 
-### PhD Students
+## PhD Students
 <br><a href="https://www.jing-liu.com/">Jing Liu</a>
 <br><a href="https://scholar.google.com/citations?user=aU1zMhUAAAAJ&hl=en">Haoyu He</a>
 <br><a href="https://scholar.google.com.au/citations?user=w_VMopoAAAAJ&hl=en">Zizheng Pan</a>
@@ -18,7 +18,7 @@ author_profile: true
 <br><a href="https://yejin0111.github.io/">Jin Ye</a> (with Munawar Hayat)
 
 
-### Allumini
+## Allumini
 <br><a href="https://scholar.google.com/citations?user=URHQRGwAAAAJ&hl=en">Dr. Yasmeen George</a>  Now Lecturer at Monash University
 <br><a href="https://scholar.google.com/citations?user=Hoh9p_kAAAAJ&hl=en">Peng Chen</a>  Now research scientist @ Motovis
 
