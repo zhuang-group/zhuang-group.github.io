@@ -64,6 +64,12 @@ author_profile: true
 
 [[Paper](https://arxiv.org/abs/2105.01241)][[Code](https://github.com/Charleshhy/One-shot-Human-Parsing/stargazers)]
 
+- **An Efficient Spatio-Temporal Pyramid Transformer for Action Detection**
+
+**Yuetian Weng**, Zizheng Pan, Mingfei Han, Xiaojun Chang, Bohan Zhuang
+
+[[Paper]()][[Code]()]   **ECCV 2022**
+
 
 - **Automated Progressive Learning for Efficient Training of Vision Transformers**
 
