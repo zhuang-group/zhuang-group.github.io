@@ -68,7 +68,7 @@ author_profile: true
 
 **Yuetian Weng**, Zizheng Pan, Mingfei Han, Xiaojun Chang, Bohan Zhuang
 
-[[Paper]()][[Code]()]   **ECCV 2022**
+[[Paper](https://arxiv.org/abs/2207.10448)][[Code](https://github.com/ziplab/STPT)]   **ECCV 2022**
 
 
 - **Automated Progressive Learning for Efficient Training of Vision Transformers**
