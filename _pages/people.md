@@ -13,7 +13,6 @@ author_profile: true
 <br><a href="https://scholar.google.com.au/citations?user=w_VMopoAAAAJ&hl=en">Zizheng Pan</a>
 <br><a href="https://scholar.google.com/citations?user=aU1zMhUAAAAJ&hl=en">Haoyu He</a>
 <br><a href="https://www.linkedin.com/in/yuetian-weng-b2a077199/?originalSubdomain=au">Yuetian Weng</a>
-<br><a href="https://chaojieji.github.io">Chaojie Ji</a>
 <br><a href="https://scholar.google.com/citations?user=RLAgwBkAAAAJ&hl=en">Changlin Li</a> (with UTS)
 <br><a href="https://yejin0111.github.io/">Jin Ye</a> (with Munawar Hayat)
 
