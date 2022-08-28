@@ -75,7 +75,7 @@ author_profile: true
 
 - **An Efficient Spatio-Temporal Pyramid Transformer for Action Detection**
 
-**Yuetian Weng**, Zizheng Pan, Mingfei Han, Xiaojun Chang, Bohan Zhuang
+**Yuetian Weng**, Zizheng Pan, Mingfei Han, Xiaojun Chang, Bohan Zhuang\#
 
 [[Paper](https://arxiv.org/abs/2207.10448)][[Code](https://github.com/ziplab/STPT)]   **ECCV 2022**
 
