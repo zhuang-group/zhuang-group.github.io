@@ -147,13 +147,6 @@ Chunlei Liu\*, **Peng Chen**\*, Bohan Zhuang\*, Chunhua Shen, Baochang Zhang, We
 [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16306)] **AAAI 2021**
 
 
-- **Fully Quantized Image Super-Resolution Networks**
-
-Hu Wang\*, **Peng Chen**\*, Bohan Zhuang, Chunhua Shen
-
-[[Paper](https://arxiv.org/pdf/2011.14265.pdf)][[Code](https://github.com/zhuang-group/QTool)]  **ACM MM 2021**
-
-
 
 
 
