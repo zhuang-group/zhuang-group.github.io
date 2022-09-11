@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "ZIP Lab"
 title_separator          : "-"
 name                     : &name "Zhuang Intelligent Processing Lab (ZIP Lab)"
-description              : &description "Zhuang Intelligent Processing Lab in Monash University"
+description              : &description "Zhuang Intelligent Processing Lab"
 url                      : https://ziplab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ziplab/ziplab.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "ZIP Lab"
   avatar           : "boji_1.jpg"
-  bio              : "Dept of Data Science & AI, Monash University"
+  bio              : 
   location         : "Melbourne, Australia"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
