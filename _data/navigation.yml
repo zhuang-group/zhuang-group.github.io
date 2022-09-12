@@ -15,8 +15,8 @@ main:
  # - title: "Code & Data"
  #   url: /code_data/
     
-  - title: "Contact"
-    url: /contact/
+ # - title: "Contact"
+ #   url: /contact/
     
   # - title: "Guide"
   #   url: /markdown/
