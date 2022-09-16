@@ -5,16 +5,53 @@ permalink: /publications/
 author_profile: true
 ---
 
-(\* equal contribution, \# corresponding author)
+(Only ZipLab students' papers are listed. \* equal contribution, \# corresponding author)
 
 
 **2022**
+
+- **EcoFormer: Energy-Saving Attention with Linear Complexity**
+
+**Jing Liu\***, **Zizheng Pan\***, Haoyu He, Jianfei Cai, Bohan Zhuang\#
+
+[Paper][[Code](https://github.com/ziplab/EcoFormer)]  **NeurIPS 2022**
+
 
 - **Fast Vision Transformers with HiLo Attention**
 
 **Zizheng Pan**, Jianfei Cai, Bohan Zhuang\#
 
-[[Paper](https://arxiv.org/abs/2205.13213)][[Code](https://github.com/ziplab/LITv2)]
+[[Paper](https://arxiv.org/abs/2205.13213)][[Code](https://github.com/ziplab/LITv2)]  **NeurIPS 2022**
+
+
+- **An Efficient Spatio-Temporal Pyramid Transformer for Action Detection**
+
+**Yuetian Weng**, Zizheng Pan, Mingfei Han, Xiaojun Chang, Bohan Zhuang\#
+
+[[Paper](https://arxiv.org/abs/2207.10448)][[Code](https://github.com/ziplab/STPT)]   **ECCV 2022**
+
+
+
+- **Automated Progressive Learning for Efficient Training of Vision Transformers**
+
+**Changlin Li**, Bohan Zhuang\#, Guangrun Wang, Xiaodan Liang, Xiaojun Chang, Yi Yang
+
+[[Paper](https://arxiv.org/abs/2203.14509)][[Code](https://github.com/changlin31/AutoProg)]  **CVPR 2022**
+
+
+- **Less is More: Pay Less Attention in Vision Transformers**
+
+**Zizheng Pan**, Bohan Zhuang\#, Haoyu He, Jing Liu, Jianfei Cai
+
+[[paper](http://arxiv.org/abs/2105.14217)] [[Code](https://github.com/zhuang-group/LIT)] **AAAI 2022**
+
+
+
+- **Structured Binary Neural Networks for Image Recognition**
+
+**Bohan Zhuang**, Chunhua Shen, Mingkui Tan, Peng Chen, Lingqiao Liu, Ian Reid
+
+[[paper](https://arxiv.org/abs/1909.09934)]  **IJCV 2022**
 
 
 - **FocusFormer: Focusing on What We Need via Architecture Sampler**
@@ -71,35 +108,6 @@ author_profile: true
 **Haoyu He**, Jing Zhang, Bohan Zhuang, Jianfei Cai, Dacheng Tao
 
 [[Paper](https://arxiv.org/abs/2105.01241)][[Code](https://github.com/Charleshhy/One-shot-Human-Parsing/stargazers)]
-
-
-- **An Efficient Spatio-Temporal Pyramid Transformer for Action Detection**
-
-**Yuetian Weng**, Zizheng Pan, Mingfei Han, Xiaojun Chang, Bohan Zhuang\#
-
-[[Paper](https://arxiv.org/abs/2207.10448)][[Code](https://github.com/ziplab/STPT)]   **ECCV 2022**
-
-
-- **Automated Progressive Learning for Efficient Training of Vision Transformers**
-
-**Changlin Li**, Bohan Zhuang\#, Guangrun Wang, Xiaodan Liang, Xiaojun Chang, Yi Yang
-
-[[Paper](https://arxiv.org/abs/2203.14509)][[Code](https://github.com/changlin31/AutoProg)]  **CVPR 2022**
-
-
-- **Less is More: Pay Less Attention in Vision Transformers**
-
-**Zizheng Pan**, Bohan Zhuang\#, Haoyu He, Jing Liu, Jianfei Cai
-
-[[paper](http://arxiv.org/abs/2105.14217)] [[Code](https://github.com/zhuang-group/LIT)] **AAAI 2022**
-
-
-
-- **Structured Binary Neural Networks for Image Recognition**
-
-**Bohan Zhuang**, Chunhua Shen, Mingkui Tan, Peng Chen, Lingqiao Liu, Ian Reid
-
-[[paper](https://arxiv.org/abs/1909.09934)]  **IJCV 2022**
 
 
 **2021**
