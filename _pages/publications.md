@@ -24,13 +24,6 @@ author_profile: true
 [[Paper](https://arxiv.org/abs/2205.13213)][[Code](https://github.com/ziplab/LITv2)]  **NeurIPS 2022**
 
 
-- **Single-path Bit Sharing for Automatic Loss-aware Model Compression**
-
-**Jing Liu**, Bohan Zhuang, **Peng Chen**, Chunhua Shen, Jianfei Cai, Mingkui Tan
-
-[[Paper](https://arxiv.org/abs/2101.04935)]
-
-
 - **Pruning Self-attentions into Convolutional Layers in Single Path**
 
 **Haoyu He**, Jing Liu, Zizheng Pan, Jianfei Cai, Jing Zhang, Dacheng Tao, Bohan Zhuang\#
@@ -43,6 +36,13 @@ author_profile: true
 **Zizheng Pan**, Peng Chen, Haoyu He, Jing Liu, Jianfei Cai, Bohan Zhuang\#
 
 [[Paper](https://arxiv.org/abs/2111.11124)][[Code](https://github.com/zip-group/Mesa)]
+
+
+- **Single-path Bit Sharing for Automatic Loss-aware Model Compression**
+
+**Jing Liu**, Bohan Zhuang, **Peng Chen**, Chunhua Shen, Jianfei Cai, Mingkui Tan
+
+[[Paper](https://arxiv.org/abs/2101.04935)]
 
 
 - **End-to-end One-shot Human Parsing**
