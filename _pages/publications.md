@@ -24,6 +24,62 @@ author_profile: true
 [[Paper](https://arxiv.org/abs/2205.13213)][[Code](https://github.com/ziplab/LITv2)]  **NeurIPS 2022**
 
 
+- **Single-path Bit Sharing for Automatic Loss-aware Model Compression**
+
+**Jing Liu**, Bohan Zhuang, **Peng Chen**, Chunhua Shen, Jianfei Cai, Mingkui Tan
+
+[[Paper](https://arxiv.org/abs/2101.04935)]
+
+
+- **Pruning Self-attentions into Convolutional Layers in Single Path**
+
+**Haoyu He**, Jing Liu, Zizheng Pan, Jianfei Cai, Jing Zhang, Dacheng Tao, Bohan Zhuang\#
+
+[[Paper](https://arxiv.org/abs/2111.11802)][[Code](https://github.com/zip-group/SPViT)]
+
+
+- **Mesa: A Memory-saving Training Framework for Transformers**
+
+**Zizheng Pan**, Peng Chen, Haoyu He, Jing Liu, Jianfei Cai, Bohan Zhuang\#
+
+[[Paper](https://arxiv.org/abs/2111.11124)][[Code](https://github.com/zip-group/Mesa)]
+
+
+- **End-to-end One-shot Human Parsing**
+
+**Haoyu He**, Jing Zhang, Bohan Zhuang, Jianfei Cai, Dacheng Tao
+
+[[Paper](https://arxiv.org/abs/2105.01241)][[Code](https://github.com/Charleshhy/One-shot-Human-Parsing/stargazers)]
+
+
+- **Dynamic Focus-aware Positional Queries for Semantic Segmentation**
+
+**Haoyu He**, Jianfei Cai, Zizheng Pan, Jing Liu, Jing Zhang, Dacheng Tao, Bohan Zhuang\#
+
+[[Paper](https://arxiv.org/abs/2204.01244)][[Code](https://github.com/zip-group/FASeg)]
+
+
+- **Sharpness-aware Quantization for Deep Neural Networks**
+
+**Jing Liu**, Jianfei Cai, Bohan Zhuang\#
+
+[[Paper](https://arxiv.org/abs/2111.12273)][[Code](https://github.com/zip-group/SAQ)]
+
+
+- **FocusFormer: Focusing on What We Need via Architecture Sampler**
+
+**Jing Liu**, Jianfei Cai, Bohan Zhuang\#
+
+[[Paper](https://arxiv.org/abs/2208.10861)]
+
+
+- **Rapid Elastic Architecture Search under Specialized Classes and Resource Constraints**
+
+**Jing Liu**, Bohan Zhuang\#, Mingkui Tan, Xu Liu, Dinh Phung, Yuanqing Li, Jianfei Cai
+
+[[Paper](https://arxiv.org/abs/2108.01224)]
+
+
 - **An Efficient Spatio-Temporal Pyramid Transformer for Action Detection**
 
 **Yuetian Weng**, Zizheng Pan, Mingfei Han, Xiaojun Chang, Bohan Zhuang\#
@@ -53,61 +109,6 @@ author_profile: true
 
 [[paper](https://arxiv.org/abs/1909.09934)]  **IJCV 2022**
 
-
-- **FocusFormer: Focusing on What We Need via Architecture Sampler**
-
-**Jing Liu**, Jianfei Cai, Bohan Zhuang\#
-
-[[Paper](https://arxiv.org/abs/2208.10861)]
-
-
-- **Single-path Bit Sharing for Automatic Loss-aware Model Compression**
-
-**Jing Liu**, Bohan Zhuang, **Peng Chen**, Chunhua Shen, Jianfei Cai, Mingkui Tan
-
-[[Paper](https://arxiv.org/abs/2101.04935)]
-
-
-- **Dynamic Focus-aware Positional Queries for Semantic Segmentation**
-
-**Haoyu He**, Jianfei Cai, Zizheng Pan, Jing Liu, Jing Zhang, Dacheng Tao, Bohan Zhuang\#
-
-[[Paper](https://arxiv.org/abs/2204.01244)][[Code](https://github.com/zip-group/FASeg)]
-
-
-- **Sharpness-aware Quantization for Deep Neural Networks**
-
-**Jing Liu**, Jianfei Cai, Bohan Zhuang\#
-
-[[Paper](https://arxiv.org/abs/2111.12273)][[Code](https://github.com/zip-group/SAQ)]
-
-
-- **Pruning Self-attentions into Convolutional Layers in Single Path**
-
-**Haoyu He**, Jing Liu, Zizheng Pan, Jianfei Cai, Jing Zhang, Dacheng Tao, Bohan Zhuang\#
-
-[[Paper](https://arxiv.org/abs/2111.11802)][[Code](https://github.com/zip-group/SPViT)]
-
-
-- **Mesa: A Memory-saving Training Framework for Transformers**
-
-**Zizheng Pan**, Peng Chen, Haoyu He, Jing Liu, Jianfei Cai, Bohan Zhuang\#
-
-[[Paper](https://arxiv.org/abs/2111.11124)][[Code](https://github.com/zip-group/Mesa)]
-
-
-- **Rapid Elastic Architecture Search under Specialized Classes and Resource Constraints**
-
-**Jing Liu**, Bohan Zhuang\#, Mingkui Tan, Xu Liu, Dinh Phung, Yuanqing Li, Jianfei Cai
-
-[[Paper](https://arxiv.org/abs/2108.01224)]
-
-
-- **End-to-end One-shot Human Parsing**
-
-**Haoyu He**, Jing Zhang, Bohan Zhuang, Jianfei Cai, Dacheng Tao
-
-[[Paper](https://arxiv.org/abs/2105.01241)][[Code](https://github.com/Charleshhy/One-shot-Human-Parsing/stargazers)]
 
 
 **2021**
