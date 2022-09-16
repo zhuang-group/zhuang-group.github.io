@@ -12,7 +12,7 @@ author_profile: true
 
 - **EcoFormer: Energy-Saving Attention with Linear Complexity**
 
-**Jing Liu\***, **Zizheng Pan\***, Haoyu He, Jianfei Cai, Bohan Zhuang\#
+**Jing Liu**\*, **Zizheng Pan**\*, Haoyu He, Jianfei Cai, Bohan Zhuang\#
 
 [Paper][[Code](https://github.com/ziplab/EcoFormer)]  **NeurIPS 2022**
 
@@ -40,7 +40,7 @@ author_profile: true
 
 - **Single-path Bit Sharing for Automatic Loss-aware Model Compression**
 
-**Jing Liu**, Bohan Zhuang, **Peng Chen**, Chunhua Shen, Jianfei Cai, Mingkui Tan
+**Jing Liu**, Bohan Zhuang, Peng Chen, Chunhua Shen, Jianfei Cai, Mingkui Tan
 
 [[Paper](https://arxiv.org/abs/2101.04935)]
 
@@ -130,7 +130,7 @@ author_profile: true
 
 - **Effective Training of Convolutional Neural Networks with Low-bitwidth Weights and Activations**
 
-Bohan Zhuang\*, Mingkui Tan\*, **Jing Liu**\*, Ian Reid, Chunhua Shen\#
+**Bohan Zhuang**\*, Mingkui Tan\*, **Jing Liu**\*, Ian Reid, Chunhua Shen\#
 
 [[Paper](https://arxiv.org/pdf/1908.04680.pdf)][[Code](https://github.com/bohanzhuang/Towards-Effective-Low-bitwidth-Convolutional-Neural-Networks)] **TPAMI 2021**
 
