@@ -114,7 +114,7 @@ author_profile: true
 **2021**
 
 
-- **Scalable Visual Transformers with Hierarchical Pooling**
+- **Scalable Vision Transformers with Hierarchical Pooling**
 
 **Zizheng Pan**, Bohan Zhuang\#, **Jing Liu**, **Haoyu He**, Jianfei Cai
 
