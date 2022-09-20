@@ -14,7 +14,7 @@ author_profile: true
 
 **Jing Liu**\*, **Zizheng Pan**\*, Haoyu He, Jianfei Cai, Bohan Zhuang\#
 
-[Paper][[Code](https://github.com/ziplab/EcoFormer)]  **NeurIPS 2022**
+[[Paper](https://arxiv.org/abs/2209.09004)][[Code](https://github.com/ziplab/EcoFormer)]  **NeurIPS 2022**
 
 
 - **Fast Vision Transformers with HiLo Attention**
