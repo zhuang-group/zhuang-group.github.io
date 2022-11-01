@@ -14,14 +14,14 @@ author_profile: true
 
 **Jing Liu**\*, **Zizheng Pan**\*, Haoyu He, Jianfei Cai, Bohan Zhuang\#
 
-[[Paper](https://arxiv.org/abs/2209.09004)][[Code](https://github.com/ziplab/EcoFormer)]  **NeurIPS 2022**
+[[Paper](https://openreview.net/forum?id=MK_130d4Y0)][[Code](https://github.com/ziplab/EcoFormer)]  **NeurIPS 2022**
 
 
 - **Fast Vision Transformers with HiLo Attention**
 
 **Zizheng Pan**, Jianfei Cai, Bohan Zhuang\#
 
-[[Paper](https://arxiv.org/abs/2205.13213)][[Code](https://github.com/ziplab/LITv2)]  **NeurIPS 2022**
+[[Paper](https://openreview.net/forum?id=Pyd6Rh9r1OT)][[Code](https://github.com/ziplab/LITv2)]  **NeurIPS 2022**
 
 
 - **Pruning Self-attentions into Convolutional Layers in Single Path**
@@ -84,7 +84,7 @@ author_profile: true
 
 **Yuetian Weng**, Zizheng Pan, Mingfei Han, Xiaojun Chang, Bohan Zhuang\#
 
-[[Paper](https://arxiv.org/abs/2207.10448)][[Code](https://github.com/ziplab/STPT)]   **ECCV 2022**
+[[Paper](https://link.springer.com/content/pdf/10.1007/978-3-031-19830-4_21.pdf)][[Code](https://github.com/ziplab/STPT)]   **ECCV 2022**
 
 
 
@@ -92,14 +92,14 @@ author_profile: true
 
 **Changlin Li**, Bohan Zhuang\#, Guangrun Wang, Xiaodan Liang, Xiaojun Chang, Yi Yang
 
-[[Paper](https://arxiv.org/abs/2203.14509)][[Code](https://github.com/changlin31/AutoProg)]  **CVPR 2022**
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Automated_Progressive_Learning_for_Efficient_Training_of_Vision_Transformers_CVPR_2022_paper.pdf)][[Code](https://github.com/changlin31/AutoProg)]  **CVPR 2022**
 
 
 - **Less is More: Pay Less Attention in Vision Transformers**
 
 **Zizheng Pan**, Bohan Zhuang\#, Haoyu He, Jing Liu, Jianfei Cai
 
-[[paper](http://arxiv.org/abs/2105.14217)] [[Code](https://github.com/zhuang-group/LIT)] **AAAI 2022**
+[[paper]([http://arxiv.org/abs/2105.14217](https://ojs.aaai.org/index.php/AAAI/article/view/20099))] [[Code](https://github.com/zhuang-group/LIT)] **AAAI 2022**
 
 
 
@@ -107,7 +107,7 @@ author_profile: true
 
 **Bohan Zhuang**, Chunhua Shen, Mingkui Tan, Peng Chen, Lingqiao Liu, Ian Reid
 
-[[paper](https://arxiv.org/abs/1909.09934)]  **IJCV 2022**
+[[paper](https://link.springer.com/article/10.1007/s11263-022-01638-0)]  **IJCV 2022**
 
 
 
@@ -118,21 +118,21 @@ author_profile: true
 
 **Zizheng Pan**, Bohan Zhuang\#, **Jing Liu**, **Haoyu He**, Jianfei Cai
 
-[[Paper](https://arxiv.org/abs/2103.10619)][[Code](https://github.com/zhuang-group/HVT)]  **ICCV 2021**
+[[Paper]([https://arxiv.org/abs/2103.10619](https://openaccess.thecvf.com/content/ICCV2021/papers/Pan_Scalable_Vision_Transformers_With_Hierarchical_Pooling_ICCV_2021_paper.pdf))][[Code](https://github.com/zhuang-group/HVT)]  **ICCV 2021**
 
 
 - **FATNN: Fast and Accurate Ternary Neural Networks**
 
 **Peng Chen**\*,  Bohan Zhuang\*, Chunhua Shen
 
-[[Paper](https://arxiv.org/pdf/2008.05101.pdf)][[Code](https://github.com/zhuang-group/QTool)]   **ICCV 2021**
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_FATNN_Fast_and_Accurate_Ternary_Neural_Networks_ICCV_2021_paper.pdf)][[Code](https://github.com/zhuang-group/QTool)]   **ICCV 2021**
 
 
 - **Effective Training of Convolutional Neural Networks with Low-bitwidth Weights and Activations**
 
 **Bohan Zhuang**\*, Mingkui Tan\*, **Jing Liu**\*, Ian Reid, Chunhua Shen\#
 
-[[Paper](https://arxiv.org/pdf/1908.04680.pdf)][[Code](https://github.com/bohanzhuang/Towards-Effective-Low-bitwidth-Convolutional-Neural-Networks)] **TPAMI 2021**
+[[Paper]([https://arxiv.org/pdf/1908.04680.pdf](https://ieeexplore.ieee.org/document/9454278))][[Code](https://github.com/bohanzhuang/Towards-Effective-Low-bitwidth-Convolutional-Neural-Networks)] **TPAMI 2021**
 
 
 - **Discrimination-aware Network Pruning for Deep Model Compression**
@@ -146,7 +146,7 @@ author_profile: true
 
 **Peng Chen**\*, **Jing Liu**\*, Bohan Zhuang\#, Mingkui Tan, Chunhua Shen
 
-[[Paper](https://arxiv.org/abs/2007.06919)][[Code](https://github.com/zhuang-group/QTool)]  **CVPR 2021 (oral presentation)**
+[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_AQD_Towards_Accurate_Quantized_Object_Detection_CVPR_2021_paper.pdf)][[Code](https://github.com/zhuang-group/QTool)]  **CVPR 2021 (oral presentation)**
 
 
 - **SA-BNN: State-Aware Binary Neural Network**
