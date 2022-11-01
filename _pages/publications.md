@@ -99,7 +99,7 @@ author_profile: true
 
 **Zizheng Pan**, Bohan Zhuang\#, Haoyu He, Jing Liu, Jianfei Cai
 
-[[paper]([http://arxiv.org/abs/2105.14217](https://ojs.aaai.org/index.php/AAAI/article/view/20099))] [[Code](https://github.com/zhuang-group/LIT)] **AAAI 2022**
+[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/20099)] [[Code](https://github.com/zhuang-group/LIT)] **AAAI 2022**
 
 
 
