@@ -10,11 +10,11 @@ author_profile: true
 
 **2022**
 
-- **EcoFormer: Energy-Saving Attention with Linear Complexity**
+- **EcoFormer: Energy-Saving Attention with Linear Complexity**  
 
 **Jing Liu**\*, **Zizheng Pan**\*, Haoyu He, Jianfei Cai, Bohan Zhuang\#
 
-[[Paper](https://openreview.net/forum?id=MK_130d4Y0)][[Code](https://github.com/ziplab/EcoFormer)]  **NeurIPS 2022 (Spotlight)**
+[[Paper](https://openreview.net/forum?id=MK_130d4Y0)][[Code](https://github.com/ziplab/EcoFormer)]  **NeurIPS 2022 (Spotlight)**  <span style="background-color: #FFFF00">General Efficient Attention</span>
 
 
 - **Fast Vision Transformers with HiLo Attention**
