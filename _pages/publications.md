@@ -132,7 +132,7 @@ author_profile: true
 
 **Bohan Zhuang**\*, Mingkui Tan\*, **Jing Liu**\*, Ian Reid, Chunhua Shen\#
 
-[[Paper]([https://arxiv.org/pdf/1908.04680.pdf](https://ieeexplore.ieee.org/document/9454278))][[Code](https://github.com/bohanzhuang/Towards-Effective-Low-bitwidth-Convolutional-Neural-Networks)] **TPAMI 2021**
+[[Paper]([https://arxiv.org/pdf/1908.04680.pdf)][[Code](https://github.com/bohanzhuang/Towards-Effective-Low-bitwidth-Convolutional-Neural-Networks)] **TPAMI 2021**
 
 
 - **Discrimination-aware Network Pruning for Deep Model Compression**
