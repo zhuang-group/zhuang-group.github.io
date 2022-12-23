@@ -118,7 +118,7 @@ author_profile: true
 
 **Zizheng Pan**, Bohan Zhuang\#, **Jing Liu**, **Haoyu He**, Jianfei Cai
 
-[[Paper]([https://arxiv.org/abs/2103.10619](https://openaccess.thecvf.com/content/ICCV2021/papers/Pan_Scalable_Vision_Transformers_With_Hierarchical_Pooling_ICCV_2021_paper.pdf))][[Code](https://github.com/zhuang-group/HVT)]  **ICCV 2021**
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Pan_Scalable_Vision_Transformers_With_Hierarchical_Pooling_ICCV_2021_paper.pdf)][[Code](https://github.com/zhuang-group/HVT)]  **ICCV 2021**
 
 
 - **FATNN: Fast and Accurate Ternary Neural Networks**
