@@ -7,6 +7,13 @@ author_profile: true
 
 (**Only ZipLab students' papers are listed**. \* equal contribution, \# corresponding author)
 
+**2023**
+
+
+
+
+
+
 
 **2022**
 
@@ -42,8 +49,8 @@ author_profile: true
 
 **Jing Liu**, Bohan Zhuang, Peng Chen, Chunhua Shen, Jianfei Cai, Mingkui Tan
 
-[[Paper](https://arxiv.org/abs/2101.04935)]
-
+[[Paper](https://arxiv.org/abs/2101.04935)]  **TPAMI**
+ 
 
 - **End-to-end One-shot Human Parsing**
 
@@ -107,7 +114,7 @@ author_profile: true
 
 **Bohan Zhuang**, Chunhua Shen, Mingkui Tan, Peng Chen, Lingqiao Liu, Ian Reid
 
-[[paper](https://link.springer.com/article/10.1007/s11263-022-01638-0)]  **IJCV 2022**
+[[paper](https://link.springer.com/article/10.1007/s11263-022-01638-0)]  **IJCV**
 
 
 
@@ -132,14 +139,14 @@ author_profile: true
 
 **Bohan Zhuang**\*, Mingkui Tan\*, **Jing Liu**\*, Ian Reid, Chunhua Shen\#
 
-[[Paper](https://arxiv.org/pdf/1908.04680.pdf)][[Code](https://github.com/bohanzhuang/Towards-Effective-Low-bitwidth-Convolutional-Neural-Networks)] **TPAMI 2021**
+[[Paper](https://arxiv.org/pdf/1908.04680.pdf)][[Code](https://github.com/bohanzhuang/Towards-Effective-Low-bitwidth-Convolutional-Neural-Networks)] **TPAMI**
 
 
 - **Discrimination-aware Network Pruning for Deep Model Compression**
 
 **Jing Liu**\*, Bohan Zhuang\*, Zhuangwei Zhuang\*, Yong Guo, Junzhou Huang, Jinhui Zhu, Mingkui Tan\#
 
-[[Paper](https://ieeexplore.ieee.org/document/9384353)][[Code](https://github.com/SCUT-AILab/DCP)] **TPAMI 2021**
+[[Paper](https://ieeexplore.ieee.org/document/9384353)][[Code](https://github.com/SCUT-AILab/DCP)] **TPAMI**
 
 
 - **AQD: Towards Accurate Quantized Object Detection**
