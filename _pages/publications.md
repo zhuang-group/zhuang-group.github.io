@@ -9,7 +9,11 @@ author_profile: true
 
 **2023**
 
+**A Survey on Efficient Training of Transformers**
 
+**Bohan Zhuang**, Jing Liu, Zizheng Pan, Haoyu He, Yuetian Weng, Chunhua Shen
+
+[[Paper](https://arxiv.org/abs/2302.01107)]
 
 
 **2022**
