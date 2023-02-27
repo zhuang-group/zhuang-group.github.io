@@ -9,6 +9,18 @@ author_profile: true
 
 **2023**
 
+**Stitchable Neural Networks**
+
+**Zizheng Pan**, Jianfei Cai, Bohan Zhuang\#
+
+
+- **Dynamic Focus-aware Positional Queries for Semantic Segmentation**
+
+**Haoyu He**, Jianfei Cai, Zizheng Pan, Jing Liu, Jing Zhang, Dacheng Tao, Bohan Zhuang\#
+
+[[Paper](https://arxiv.org/abs/2204.01244)][[Code](https://github.com/zip-group/FASeg)] **CVPR 2023**
+
+
 **A Survey on Efficient Training of Transformers**
 
 **Bohan Zhuang**, Jing Liu, Zizheng Pan, Haoyu He, Yuetian Weng, Chunhua Shen
@@ -58,13 +70,6 @@ author_profile: true
 **Haoyu He**, Jing Zhang, Bohan Zhuang, Jianfei Cai, Dacheng Tao
 
 [[Paper](https://arxiv.org/abs/2105.01241)][[Code](https://github.com/Charleshhy/One-shot-Human-Parsing/stargazers)]
-
-
-- **Dynamic Focus-aware Positional Queries for Semantic Segmentation**
-
-**Haoyu He**, Jianfei Cai, Zizheng Pan, Jing Liu, Jing Zhang, Dacheng Tao, Bohan Zhuang\#
-
-[[Paper](https://arxiv.org/abs/2204.01244)][[Code](https://github.com/zip-group/FASeg)]
 
 
 - **Sharpness-aware Quantization for Deep Neural Networks**
