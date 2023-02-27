@@ -9,7 +9,8 @@ author_profile: true
 
 **2023**
 
-**Stitchable Neural Networks**
+
+- **Stitchable Neural Networks**
 
 **Zizheng Pan**, Jianfei Cai, Bohan Zhuang\#
 
