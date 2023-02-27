@@ -37,14 +37,14 @@ author_profile: true
 
 **Jing Liu**\*, **Zizheng Pan**\*, Haoyu He, Jianfei Cai, Bohan Zhuang\#
 
-[[Paper](https://openreview.net/forum?id=MK_130d4Y0)][[Code](https://github.com/ziplab/EcoFormer)]  **NeurIPS 2022 (Spotlight)**  
+[[Paper](https://openreview.net/forum?id=MK_130d4Y0)][[Code](https://github.com/ziplab/EcoFormer)]  **NeurIPS 2022 (Spotlight oral)**  
 
 
 - **Fast Vision Transformers with HiLo Attention**
 
 **Zizheng Pan**, Jianfei Cai, Bohan Zhuang\#
 
-[[Paper](https://openreview.net/forum?id=Pyd6Rh9r1OT)][[Code](https://github.com/ziplab/LITv2)]  **NeurIPS 2022 (Spotlight)**
+[[Paper](https://openreview.net/forum?id=Pyd6Rh9r1OT)][[Code](https://github.com/ziplab/LITv2)]  **NeurIPS 2022 (Spotlight oral)**
 
 
 - **Pruning Self-attentions into Convolutional Layers in Single Path**
