@@ -24,7 +24,7 @@ author_profile: true
 [[Paper](https://arxiv.org/abs/2204.01244)][[Code](https://github.com/zip-group/FASeg)] **CVPR 2023**
 
 
-**A Survey on Efficient Training of Transformers**
+- **A Survey on Efficient Training of Transformers**
 
 **Bohan Zhuang**, Jing Liu, Zizheng Pan, Haoyu He, Yuetian Weng, Chunhua Shen
 
