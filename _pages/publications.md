@@ -14,6 +14,8 @@ author_profile: true
 
 **Zizheng Pan**, Jianfei Cai, Bohan Zhuang\#
 
+[[Paper](https://arxiv.org/abs/2302.06586)][[Project]([https://arxiv.org/abs/2302.06586](https://snnet.github.io/))][[Code](https://github.com/ziplab/SN-Net)] **CVPR 2023**
+
 
 - **Dynamic Focus-aware Positional Queries for Semantic Segmentation**
 
