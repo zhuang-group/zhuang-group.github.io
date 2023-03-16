@@ -26,9 +26,16 @@ author_profile: true
 
 - **A Survey on Efficient Training of Transformers**
 
-**Bohan Zhuang**, Jing Liu, Zizheng Pan, Haoyu He, Yuetian Weng, Chunhua Shen
+**Bohan Zhuang**\#, Jing Liu, Zizheng Pan, Haoyu He, Yuetian Weng, Chunhua Shen
 
 [[Paper](https://arxiv.org/abs/2302.01107)]
+
+
+- **Sensitivity-Aware Visual Parameter-Efficient Tuning**
+
+**Haoyu He**, Jianfei Cai, Jing Zhang, Dacheng Tao, Bohan Zhuang\#
+
+[[Paper](https://arxiv.org/abs/2303.08566)]
 
 
 **2022**
