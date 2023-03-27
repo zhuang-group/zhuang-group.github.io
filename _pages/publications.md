@@ -14,7 +14,7 @@ author_profile: true
 
 **Zizheng Pan**, Jianfei Cai, Bohan Zhuang\#
 
-[[Paper](https://arxiv.org/abs/2302.06586)][[Project](https://snnet.github.io/)][[Code](https://github.com/ziplab/SN-Net)] **CVPR 2023 (Highlight)** 
+[[Paper](https://arxiv.org/abs/2302.06586)][[Project](https://snnet.github.io/)][[Code](https://github.com/ziplab/SN-Net)] **CVPR 2023 (Highlight, 2.5%)** 
 
 - **Dynamic Focus-aware Positional Queries for Semantic Segmentation**
 
@@ -43,14 +43,14 @@ author_profile: true
 
 **Jing Liu**\*, **Zizheng Pan**\*, Haoyu He, Jianfei Cai, Bohan Zhuang\#
 
-[[Paper](https://openreview.net/forum?id=MK_130d4Y0)][[Code](https://github.com/ziplab/EcoFormer)]  **NeurIPS 2022 (Spotlight oral)**  
+[[Paper](https://openreview.net/forum?id=MK_130d4Y0)][[Code](https://github.com/ziplab/EcoFormer)]  **NeurIPS 2022 (Spotlight, 3%)**  
 
 
 - **Fast Vision Transformers with HiLo Attention**
 
 **Zizheng Pan**, Jianfei Cai, Bohan Zhuang\#
 
-[[Paper](https://openreview.net/forum?id=Pyd6Rh9r1OT)][[Code](https://github.com/ziplab/LITv2)]  **NeurIPS 2022 (Spotlight oral)**
+[[Paper](https://openreview.net/forum?id=Pyd6Rh9r1OT)][[Code](https://github.com/ziplab/LITv2)]  **NeurIPS 2022 (Spotlight, 3%)**
 
 
 - **Pruning Self-attentions into Convolutional Layers in Single Path**
