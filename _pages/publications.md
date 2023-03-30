@@ -23,18 +23,18 @@ author_profile: true
 [[Paper](https://arxiv.org/abs/2204.01244)][[Code](https://github.com/zip-group/FASeg)] **CVPR 2023**
 
 
-- **A Survey on Efficient Training of Transformers**
-
-**Bohan Zhuang**\#, Jing Liu, Zizheng Pan, Haoyu He, Yuetian Weng, Chunhua Shen
-
-[[Paper](https://arxiv.org/abs/2302.01107)]
-
-
 - **Sensitivity-Aware Visual Parameter-Efficient Tuning**
 
 **Haoyu He**, Jianfei Cai, Jing Zhang, Dacheng Tao, Bohan Zhuang\#
 
 [[Paper](https://arxiv.org/abs/2303.08566)]
+
+
+- **A Survey on Efficient Training of Transformers**
+
+**Bohan Zhuang**\#, Jing Liu, Zizheng Pan, Haoyu He, Yuetian Weng, Chunhua Shen
+
+[[Paper](https://arxiv.org/abs/2302.01107)]
 
 
 **2022**
