@@ -34,7 +34,7 @@ author_profile: true
 
 **Bohan Zhuang**\#, Jing Liu, Zizheng Pan, Haoyu He, Yuetian Weng, Chunhua Shen
 
-[[Paper](https://arxiv.org/abs/2302.01107)]
+[[Paper](https://arxiv.org/abs/2302.01107)] **IJCAI 2023 Survey Track**
 
 
 **2022**
