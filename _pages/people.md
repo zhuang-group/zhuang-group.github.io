@@ -10,8 +10,8 @@ author_profile: true
 
 ## PhD Students
 
-<br><a href="https://www.jing-liu.com/">Jing Liu</a>
 <br><a href="https://zizhengpan.github.io/">Zizheng Pan</a>
+<br><a href="https://www.jing-liu.com/">Jing Liu</a>
 <br><a href="https://charles-haoyuhe.github.io/">Haoyu He</a>
 <br><a href="https://openreview.net/profile?id=~Yuetian_Weng1">Yuetian Weng</a>
 <br><a href="https://www.linkedin.com/in/yan-shuo-49888164/?originalSubdomain=au">Shuo Yan</a>
