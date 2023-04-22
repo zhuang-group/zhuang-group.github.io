@@ -22,7 +22,7 @@ author_profile: true
 
 ## Research Fellow
 <br><a href="">Xinyu Wang</a> (with The University of Adelaide)
-<br><a href="">Mingyang Zhang</a> (with The University of Adelaide)
+<br><a href="">Mingyang Zhang</a> (with Zhejiang University)
 
 
 ## Allumini
