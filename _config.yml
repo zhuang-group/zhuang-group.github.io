@@ -83,7 +83,7 @@ author:
   name             : "ZIP Lab"
   avatar           : "boji_1.jpg"
   bio              : 
-  location         : "Melbourne, Australia"
+  location         : # "Melbourne, Australia"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
