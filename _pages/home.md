@@ -20,6 +20,6 @@ Welcome to ZIP Lab!
 
 Efficiency matters! The main research topic of our group is developing new efficient deep learning paradigms edge applications. We are waiting for you if you have solid Machine Learning, Computer Vision and/or embedded platforms development background.
 
-**We are no longer recruting research students from Monash University.**
+**We are no longer recruiting research students from Monash University.**
 
 
