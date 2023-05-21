@@ -15,10 +15,9 @@ author_profile: true
 <br><a href="https://charles-haoyuhe.github.io/">Haoyu He</a>
 <br><a href="https://openreview.net/profile?id=~Yuetian_Weng1">Yuetian Weng</a>
 <br><a href="https://www.linkedin.com/in/yan-shuo-49888164/?originalSubdomain=au">Shuo Yan</a>
+<br><a href="https://github.com/Chenfeng1271">Feng Chen</a> (with The University of Adelaide)
 <br><a href="https://scholar.google.com/citations?user=CTEQwwwAAAAJ&hl=zh-CN&oi=ao">Yefei He</a> (with Zhejiang University)
 <br><a href="https://mechanical.eng.unimelb.edu.au/people/research-students/roboticsoptimisation/haihang-wu">Haihang Wu</a> (with University of Melbourne)
-<br><a href="https://github.com/Chenfeng1271">Feng Chen</a> (with The University of Adelaide)
-<br><a href="">Zeshuai Deng, Haokun Li, Yuxuan Sun, Jiangtao Nie, Yuanxiang Jiao</a> (with mysterious institutions)
 
 
 ## Research Fellow
