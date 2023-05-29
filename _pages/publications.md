@@ -30,6 +30,13 @@ author_profile: true
 [[Paper](https://arxiv.org/abs/2101.04935)]  **TPAMI 2023**
 
 
+- **A Survey on Efficient Training of Transformers**
+
+**Bohan Zhuang**\#, Jing Liu, Zizheng Pan, Haoyu He, Yuetian Weng, Chunhua Shen
+
+[[Paper](https://arxiv.org/abs/2302.01107)] **IJCAI 2023 Survey Track**
+
+
 - **Sensitivity-Aware Visual Parameter-Efficient Tuning**
 
 **Haoyu He**, Jianfei Cai, Jing Zhang, Dacheng Tao, Bohan Zhuang\#
@@ -37,11 +44,17 @@ author_profile: true
 [[Paper](https://arxiv.org/abs/2303.08566)]
 
 
-- **A Survey on Efficient Training of Transformers**
+- **PTQD: Accurate Post-Training Quantization for Diffusion Models**
 
-**Bohan Zhuang**\#, Jing Liu, Zizheng Pan, Haoyu He, Yuetian Weng, Chunhua Shen
+**Yefei He**, Luping Liu, Jing Liu, Weijia Wu, Hong Zhou\#, Bohan Zhuang\#
 
-[[Paper](https://arxiv.org/abs/2302.01107)] **IJCAI 2023 Survey Track**
+[[Paper](https://arxiv.org/pdf/2305.10657.pdf)]
+
+- **BiViT: Extremely Compressed Binary Vision Transformer**
+
+**Yefei He**, Zhenyu Lou, Luoming Zhang, Weijia Wu, Hong Zhou\#, Bohan Zhuang\#
+
+[[Paper](https://arxiv.org/pdf/2211.07091.pdf)]
 
 
 **2022**
