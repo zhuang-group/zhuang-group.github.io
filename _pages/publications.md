@@ -21,7 +21,7 @@ author_profile: true
 
 **Haoyu He**, Jianfei Cai, Zizheng Pan, Jing Liu, Jing Zhang, Dacheng Tao, Bohan Zhuang\#
 
-[[Paper](https://arxiv.org/abs/2204.01244)][[Code](https://github.com/zip-group/FASeg)] **CVPR 2023**
+[[Paper](https://arxiv.org/abs/2204.01244)][[Code](https://github.com/ziplab/FASeg)] **CVPR 2023**
 
 
 - **Single-path Bit Sharing for Automatic Loss-aware Model Compression**
@@ -42,7 +42,7 @@ author_profile: true
 
 **Haoyu He**, Jianfei Cai, Jing Zhang, Dacheng Tao, Bohan Zhuang\#
 
-[[Paper](https://arxiv.org/abs/2303.08566)]
+[[Paper](https://arxiv.org/abs/2303.08566)][[Code](https://github.com/ziplab/SPT)]
 
 
 - **PTQD: Accurate Post-Training Quantization for Diffusion Models**
