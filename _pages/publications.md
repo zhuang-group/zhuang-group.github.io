@@ -16,6 +16,7 @@ author_profile: true
 
 [[Paper](https://arxiv.org/abs/2302.06586)][[Project](https://snnet.github.io/)][[Code](https://github.com/ziplab/SN-Net)] **CVPR 2023 (Highlight, Top 2.5%)** 
 
+
 - **Dynamic Focus-aware Positional Queries for Semantic Segmentation**
 
 **Haoyu He**, Jianfei Cai, Zizheng Pan, Jing Liu, Jing Zhang, Dacheng Tao, Bohan Zhuang\#
@@ -50,11 +51,19 @@ author_profile: true
 
 [[Paper](https://arxiv.org/pdf/2305.10657.pdf)]
 
+
 - **BiViT: Extremely Compressed Binary Vision Transformer**
 
 **Yefei He**, Zhenyu Lou, Luoming Zhang, Weijia Wu, Hong Zhou\#, Bohan Zhuang\#
 
 [[Paper](https://arxiv.org/pdf/2211.07091.pdf)]
+
+
+- **Pruning Meets Low-Rank Parameter-Efficient Fine-Tuning**
+
+**Mingyang Zhang**, Hao Chen, Chunhua Shen, Zhen Yang, Linlin Ou, Xinyi Yu, Bohan Zhuang
+
+[[Paper](https://arxiv.org/abs/2305.18403v2)]
 
 
 **2022**
