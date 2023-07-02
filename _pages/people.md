@@ -8,7 +8,7 @@ author_profile: true
 ## Lead
 <br><a href="https://bohanzhuang.github.io/">Dr. Bohan Zhuang</a>
 
-## PhD Students
+## PhDs & RFs
 
 <br><a href="https://zizhengpan.github.io/">Zizheng Pan</a>
 <br><a href="https://www.jing-liu.com/">Jing Liu</a>
@@ -19,9 +19,6 @@ author_profile: true
 <br><a href="https://sidongfeng.github.io/">Sidong Feng</a> (with Monash University)
 <br><a href="https://scholar.google.com/citations?user=CTEQwwwAAAAJ&hl=zh-CN&oi=ao">Yefei He</a> (with Zhejiang University)
 <br><a href="https://mechanical.eng.unimelb.edu.au/people/research-students/roboticsoptimisation/haihang-wu">Haihang Wu</a> (with University of Melbourne)
-
-
-## Research Fellow
 <br><a href="">Xinyu Wang</a> (with The University of Adelaide)
 <br><a href="">Mingyang Zhang</a> (with Zhejiang University)
 
