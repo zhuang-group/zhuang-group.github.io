@@ -38,6 +38,13 @@ author_profile: true
 [[Paper](https://arxiv.org/abs/2302.01107)] **IJCAI 2023 Survey Track**
 
 
+- **Stitched ViTs are Flexible Vision Backbones**
+  
+**Zizheng Pan**, Jing Liu, Haoyu He, Jianfei Cai, Bohan Zhuang\#
+
+[[Paper](https://arxiv.org/abs/2307.00154)]
+  
+
 - **Sensitivity-Aware Visual Parameter-Efficient Tuning**
 
 **Haoyu He**, Jianfei Cai, Jing Zhang, Dacheng Tao, Bohan Zhuang\#
