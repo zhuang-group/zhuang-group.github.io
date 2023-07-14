@@ -10,6 +10,20 @@ author_profile: true
 **2023**
 
 
+- **Sensitivity-Aware Visual Parameter-Efficient Tuning**
+
+**Haoyu He**, Jianfei Cai, Jing Zhang, Dacheng Tao, Bohan Zhuang\#
+
+[[Paper](https://arxiv.org/abs/2303.08566)][[Code](https://github.com/ziplab/SPT)] **ICCV 2023**
+
+
+- **BiViT: Extremely Compressed Binary Vision Transformer**
+
+**Yefei He**, Zhenyu Lou, Luoming Zhang, Weijia Wu, Hong Zhou\#, Bohan Zhuang\#
+
+[[Paper](https://arxiv.org/pdf/2211.07091.pdf)] **ICCV 2023**
+
+
 - **Stitchable Neural Networks**
 
 **Zizheng Pan**, Jianfei Cai, Bohan Zhuang\#
@@ -43,13 +57,7 @@ author_profile: true
 **Zizheng Pan**, Jing Liu, Haoyu He, Jianfei Cai, Bohan Zhuang\#
 
 [[Paper](https://arxiv.org/abs/2307.00154)]
-  
 
-- **Sensitivity-Aware Visual Parameter-Efficient Tuning**
-
-**Haoyu He**, Jianfei Cai, Jing Zhang, Dacheng Tao, Bohan Zhuang\#
-
-[[Paper](https://arxiv.org/abs/2303.08566)][[Code](https://github.com/ziplab/SPT)] **ICCV 2023**
 
 
 - **PTQD: Accurate Post-Training Quantization for Diffusion Models**
@@ -57,13 +65,6 @@ author_profile: true
 **Yefei He**, Luping Liu, Jing Liu, Weijia Wu, Hong Zhou\#, Bohan Zhuang\#
 
 [[Paper](https://arxiv.org/pdf/2305.10657.pdf)]
-
-
-- **BiViT: Extremely Compressed Binary Vision Transformer**
-
-**Yefei He**, Zhenyu Lou, Luoming Zhang, Weijia Wu, Hong Zhou\#, Bohan Zhuang\#
-
-[[Paper](https://arxiv.org/pdf/2211.07091.pdf)] **ICCV 2023**
 
 
 - **Pruning Meets Low-Rank Parameter-Efficient Fine-Tuning**
