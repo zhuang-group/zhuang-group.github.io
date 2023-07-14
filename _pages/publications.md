@@ -49,7 +49,7 @@ author_profile: true
 
 **Haoyu He**, Jianfei Cai, Jing Zhang, Dacheng Tao, Bohan Zhuang\#
 
-[[Paper](https://arxiv.org/abs/2303.08566)][[Code](https://github.com/ziplab/SPT)]
+[[Paper](https://arxiv.org/abs/2303.08566)][[Code](https://github.com/ziplab/SPT)] **ICCV 2023**
 
 
 - **PTQD: Accurate Post-Training Quantization for Diffusion Models**
@@ -63,7 +63,7 @@ author_profile: true
 
 **Yefei He**, Zhenyu Lou, Luoming Zhang, Weijia Wu, Hong Zhou\#, Bohan Zhuang\#
 
-[[Paper](https://arxiv.org/pdf/2211.07091.pdf)]
+[[Paper](https://arxiv.org/pdf/2211.07091.pdf)] **ICCV 2023**
 
 
 - **Pruning Meets Low-Rank Parameter-Efficient Fine-Tuning**
