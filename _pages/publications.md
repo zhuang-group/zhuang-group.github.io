@@ -45,6 +45,13 @@ author_profile: true
 [[Paper](https://arxiv.org/abs/2101.04935)]  **TPAMI 2023**
 
 
+- **End-to-end One-shot Human Parsing**
+
+**Haoyu He**, Jing Zhang, Bohan Zhuang, Jianfei Cai, Dacheng Tao
+
+[[Paper](https://arxiv.org/abs/2105.01241)][[Code](https://github.com/Charleshhy/One-shot-Human-Parsing/stargazers)] **TPAMI 2023**
+
+
 - **A Survey on Efficient Training of Transformers**
 
 **Bohan Zhuang**\#, Jing Liu, Zizheng Pan, Haoyu He, Yuetian Weng, Chunhua Shen
@@ -157,12 +164,6 @@ author_profile: true
 
 [[Paper](https://arxiv.org/abs/2108.01224)]
 
-
-- **End-to-end One-shot Human Parsing**
-
-**Haoyu He**, Jing Zhang, Bohan Zhuang, Jianfei Cai, Dacheng Tao
-
-[[Paper](https://arxiv.org/abs/2105.01241)][[Code](https://github.com/Charleshhy/One-shot-Human-Parsing/stargazers)]
 
 
 
