@@ -14,7 +14,7 @@ author_profile: true
 
 **Haoyu He**, Jianfei Cai, Jing Zhang, Dacheng Tao, Bohan Zhuang\#
 
-[[Paper](https://arxiv.org/abs/2303.08566)][[Code](https://github.com/ziplab/SPT)] **ICCV 2023**
+[[Paper](https://arxiv.org/abs/2303.08566)][[Code](https://github.com/ziplab/SPT)] **ICCV 2023 (Oral)**
 
 
 - **BiViT: Extremely Compressed Binary Vision Transformer**
@@ -202,7 +202,7 @@ author_profile: true
 
 **Peng Chen**\*, **Jing Liu**\*, Bohan Zhuang\#, Mingkui Tan, Chunhua Shen
 
-[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_AQD_Towards_Accurate_Quantized_Object_Detection_CVPR_2021_paper.pdf)][[Code](https://github.com/zhuang-group/QTool)]  **CVPR 2021 (oral presentation)**
+[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_AQD_Towards_Accurate_Quantized_Object_Detection_CVPR_2021_paper.pdf)][[Code](https://github.com/zhuang-group/QTool)]  **CVPR 2021 (Oral)**
 
 
 - **SA-BNN: State-Aware Binary Neural Network**
