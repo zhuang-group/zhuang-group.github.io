@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-(**Only ZipLab students' papers are listed**. \* equal contribution, \# corresponding author)
+(Selected Publications. \* equal contribution, \# corresponding author)
 
 **2023**
 
