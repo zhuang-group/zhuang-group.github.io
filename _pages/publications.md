@@ -9,8 +9,28 @@ author_profile: true
 
 **2023**
 
+- **Stitched ViTs are Flexible Vision Backbones**
+  
+**Zizheng Pan**, Jing Liu, Haoyu He, Jianfei Cai, Bohan Zhuang\#
 
-- **Sensitivity-Aware Visual Parameter-Efficient Tuning**
+[[Paper](https://arxiv.org/abs/2307.00154)]
+
+
+- **PTQD: Accurate Post-Training Quantization for Diffusion Models**
+
+**Yefei He**, Luping Liu, Jing Liu, Weijia Wu, Hong Zhou\#, Bohan Zhuang\#
+
+[[Paper](https://arxiv.org/pdf/2305.10657.pdf)]
+
+
+- **Pruning Meets Low-Rank Parameter-Efficient Fine-Tuning**
+
+**Mingyang Zhang**, Hao Chen, Chunhua Shen, Zhen Yang, Linlin Ou, Xinyi Yu, Bohan Zhuang
+
+[[Paper](https://arxiv.org/abs/2305.18403v2)]
+
+
+- **Sensitivity-Aware Visual Parameter-Efficient Fine-Tuning**
 
 **Haoyu He**, Jianfei Cai, Jing Zhang, Dacheng Tao, Bohan Zhuang\#
 
@@ -58,27 +78,6 @@ author_profile: true
 
 [[Paper](https://arxiv.org/abs/2302.01107)] **IJCAI 2023 Survey Track**
 
-
-- **Stitched ViTs are Flexible Vision Backbones**
-  
-**Zizheng Pan**, Jing Liu, Haoyu He, Jianfei Cai, Bohan Zhuang\#
-
-[[Paper](https://arxiv.org/abs/2307.00154)]
-
-
-
-- **PTQD: Accurate Post-Training Quantization for Diffusion Models**
-
-**Yefei He**, Luping Liu, Jing Liu, Weijia Wu, Hong Zhou\#, Bohan Zhuang\#
-
-[[Paper](https://arxiv.org/pdf/2305.10657.pdf)]
-
-
-- **Pruning Meets Low-Rank Parameter-Efficient Fine-Tuning**
-
-**Mingyang Zhang**, Hao Chen, Chunhua Shen, Zhen Yang, Linlin Ou, Xinyi Yu, Bohan Zhuang
-
-[[Paper](https://arxiv.org/abs/2305.18403v2)]
 
 
 **2022**
