@@ -22,7 +22,7 @@ author_profile: true
 <br><a href="https://sidongfeng.github.io/">Sidong Feng</a> 
 <br><a href="">Zhen Yang</a> 
 <br><a href="https://scholar.google.com/citations?user=udPURMAAAAAJ&hl=zh-CN">Zeshuai Deng</a> 
-<br><a href="">Mingyang Zhang</a> (with Zhejiang University)
+<br><a href="">Mingyang Zhang</a>
 
 
 ## Allumini
