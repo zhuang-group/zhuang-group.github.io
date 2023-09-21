@@ -9,6 +9,14 @@ author_profile: true
 
 **2023**
 
+
+- **Pruning Meets Low-Rank Parameter-Efficient Fine-Tuning**
+
+**Mingyang Zhang**, Hao Chen, Chunhua Shen, Zhen Yang, Linlin Ou, Xinyi Yu, Bohan Zhuang
+
+[[Paper](https://arxiv.org/abs/2305.18403v2)]
+
+
 - **Stitched ViTs are Flexible Vision Backbones**
   
 **Zizheng Pan**, Jing Liu, Haoyu He, Jianfei Cai, Bohan Zhuang\#
@@ -20,14 +28,20 @@ author_profile: true
 
 **Yefei He**, Luping Liu, Jing Liu, Weijia Wu, Hong Zhou\#, Bohan Zhuang\#
 
-[[Paper](https://arxiv.org/pdf/2305.10657.pdf)]
+[[Paper](https://arxiv.org/pdf/2305.10657.pdf)] **NeurIPS 2023**
 
 
-- **Pruning Meets Low-Rank Parameter-Efficient Fine-Tuning**
+- **Mask Propagation for Efficient Video Semantic Segmentation**
 
-**Mingyang Zhang**, Hao Chen, Chunhua Shen, Zhen Yang, Linlin Ou, Xinyi Yu, Bohan Zhuang
+**Yuetian Weng**, Mingfei Han, Haoyu He, Mingjie Li, Lina Yao, Xiaojun Chang, Bohan Zhuang\#
 
-[[Paper](https://arxiv.org/abs/2305.18403v2)]
+[[Paper]()]  **NeurIPS 2023**
+
+- **Second-Order Degradation and Reconstruction for Test-Time Image Super-Resolution**
+
+**Zeshuai Deng**, Zhuokun Chen, Shuaicheng Niu, Thomas H. Li, Bohan Zhuang, Mingkui Tan
+
+[[Paper]()]  **NeurIPS 2023**
 
 
 - **Sensitivity-Aware Visual Parameter-Efficient Fine-Tuning**
