@@ -10,7 +10,7 @@ author_profile: true
 **2023**
 
 
-- **Pruning Meets Low-Rank Parameter-Efficient Fine-Tuning**
+- **LoRAPrune: Pruning Meets Low-Rank Parameter-Efficient Fine-Tuning**
 
 **Mingyang Zhang**, Hao Chen, Chunhua Shen, Zhen Yang, Linlin Ou, Xinyi Yu, Bohan Zhuang
 
@@ -33,9 +33,10 @@ author_profile: true
 
 - **Mask Propagation for Efficient Video Semantic Segmentation**
 
-**Yuetian Weng**, Mingfei Han, Haoyu He, Mingjie Li, Lina Yao, Xiaojun Chang, Bohan Zhuang\#
+**Yuetian Weng**, Mingfei Han, Haoyu He, Mingjie Li, Xiaojun Chang, Bohan Zhuang\#
 
 [[Paper]()]  **NeurIPS 2023**
+
 
 - **Second-Order Degradation and Reconstruction for Test-Time Image Super-Resolution**
 
