@@ -10,6 +10,13 @@ author_profile: true
 **2023**
 
 
+- **SwitchGPT: Adapting Large Language Models for Non-Text Outputs**
+
+**Xinyu Wang**, Bohan Zhuang, Qi Wu 
+
+[[Paper](https://arxiv.org/abs/2309.07623)]
+
+
 - **LoRAPrune: Pruning Meets Low-Rank Parameter-Efficient Fine-Tuning**
 
 **Mingyang Zhang**, Hao Chen, Chunhua Shen, Zhen Yang, Linlin Ou, Xinyi Yu, Bohan Zhuang
@@ -40,7 +47,7 @@ author_profile: true
 
 - **Second-Order Degradation and Reconstruction for Test-Time Image Super-Resolution**
 
-**Zeshuai Deng**, Zhuokun Chen, Shuaicheng Niu, Thomas H. Li, Bohan Zhuang, Mingkui Tan
+**Zeshuai Deng**, Zhuokun Chen, Shuaicheng Niu, Thomas H. Li, Bohan Zhuang\#, Mingkui Tan\#
 
 [[Paper]()]  **NeurIPS 2023**
 
