@@ -9,6 +9,19 @@ author_profile: true
 
 **2023**
 
+- **QLLM: Accurate and Efficient Low-Bitwidth Quantization for Large Language Models**
+
+**Jing Liu**, Ruihao Gong, Xiuying Wei, Zhiwei Dong, Jianfei Cai, Bohan Zhuang\#
+
+[[Paper](https://arxiv.org/abs/2310.08041)]
+
+
+- **EfficientDM: Efficient Quantization-Aware Fine-Tuning of Low-Bit Diffusion Models**
+
+**Yefei He**, Jing Liu, Weijia Wu, Hong Zhou, Bohan Zhuang
+
+[[Paper](https://arxiv.org/abs/2310.03270)]
+
 
 - **SwitchGPT: Adapting Large Language Models for Non-Text Outputs**
 
