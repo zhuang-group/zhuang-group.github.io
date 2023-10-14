@@ -18,7 +18,7 @@ author_profile: true
 
 - **EfficientDM: Efficient Quantization-Aware Fine-Tuning of Low-Bit Diffusion Models**
 
-**Yefei He**, Jing Liu, Weijia Wu, Hong Zhou, Bohan Zhuang
+**Yefei He**, Jing Liu, Weijia Wu, Hong Zhou\#, Bohan Zhuang\#
 
 [[Paper](https://arxiv.org/abs/2310.03270)]
 
