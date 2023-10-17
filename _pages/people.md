@@ -10,20 +10,6 @@ author_profile: true
 
 ## Members
 
-<br><a href="https://zizhengpan.github.io/">Zizheng Pan</a>
-<br><a href="https://www.jing-liu.com/">Jing Liu</a>
-<br><a href="https://charles-haoyuhe.github.io/">Haoyu He</a>
-<br><a href="https://www.linkedin.com/in/yan-shuo-49888164/?originalSubdomain=au">Shuo Yan</a>
-<br><a href="https://openreview.net/profile?id=~Yuetian_Weng1">Yuetian Weng</a>
-<br><a href="https://github.com/Chenfeng1271">Feng Chen</a> 
-<br><a href="https://yejin0111.github.io/">Jin Ye</a> 
-<br><a href="https://scholar.google.com/citations?user=CTEQwwwAAAAJ&hl=zh-CN&oi=ao">Yefei He</a> 
-<br><a href="https://mechanical.eng.unimelb.edu.au/people/research-students/roboticsoptimisation/haihang-wu">Haihang Wu</a> 
-<br><a href="https://sidongfeng.github.io/">Sidong Feng</a> 
-<br><a href="">Zhen Yang</a> 
-<br><a href="https://scholar.google.com/citations?user=udPURMAAAAAJ&hl=zh-CN">Zeshuai Deng</a> 
-<br><a href="">Mingyang Zhang</a>
-
 
 ## Allumini
 
