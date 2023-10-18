@@ -18,7 +18,6 @@ redirect_from:
 
 Welcome to ZIP Lab!
 
-Efficiency matters! The main research topic of our group is developing new efficient deep learning paradigms for edge applications. We are waiting for you if you have solid Machine Learning, Computer Vision and/or embedded platforms development background.
-
+Our group's primary research focus centers on the development of highly efficient deep learning paradigms for edge applications in Natural Language Processing, Computer Vision, and multi-modality.
 
 
