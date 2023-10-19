@@ -20,7 +20,7 @@ author_profile: true
 
 **Mingyang Zhang**, Hao Chen, Chunhua Shen, Zhen Yang, Linlin Ou, Xinyi Yu, Bohan Zhuang
 
-[[Paper](https://arxiv.org/abs/2305.18403v2)]
+[[Paper](https://arxiv.org/abs/2305.18403v3)]
 
 
 - **EfficientDM: Efficient Quantization-Aware Fine-Tuning of Low-Bit Diffusion Models**
