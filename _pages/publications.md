@@ -30,6 +30,13 @@ author_profile: true
 [[Paper](https://arxiv.org/abs/2310.03270)]
 
 
+- **Object-Aware Inversion and Reassembly for Image Editing**
+
+**Zhen Yang**, Dinggang Gui, Wen Wang, Hao Chen\#, Bohan Zhuang\#, Chunhua Shen
+
+[[Paper](https://arxiv.org/abs/2310.12149)]
+
+
 - **Stitched ViTs are Flexible Vision Backbones**
   
 **Zizheng Pan**, Jing Liu, Haoyu He, Jianfei Cai, Bohan Zhuang\#
