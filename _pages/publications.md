@@ -34,7 +34,7 @@ author_profile: true
 
 **Zhen Yang**, Dinggang Gui, Wen Wang, Hao Chen\#, Bohan Zhuang\#, Chunhua Shen
 
-[[Paper](https://arxiv.org/abs/2310.12149)]
+[[Paper](https://arxiv.org/abs/2310.12149)][[Project](https://github.com/aim-uofa/OIR)]
 
 
 - **Stitched ViTs are Flexible Vision Backbones**
