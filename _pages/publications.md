@@ -23,18 +23,25 @@ author_profile: true
 [[Paper](https://arxiv.org/abs/2305.18403v3)]
 
 
-- **EfficientDM: Efficient Quantization-Aware Fine-Tuning of Low-Bit Diffusion Models**
-
-**Yefei He**, Jing Liu, Weijia Wu, Hong Zhou\#, Bohan Zhuang\#
-
-[[Paper](https://arxiv.org/abs/2310.03270)]
-
-
 - **Object-Aware Inversion and Reassembly for Image Editing**
 
 **Zhen Yang**, Dinggang Gui, Wen Wang, Hao Chen\#, Bohan Zhuang\#, Chunhua Shen
 
 [[Paper](https://arxiv.org/abs/2310.12149)][[Project](https://github.com/aim-uofa/OIR)]
+
+
+- **SwitchGPT: Adapting Large Language Models for Non-Text Outputs**
+
+**Xinyu Wang**, Bohan Zhuang, Qi Wu
+
+[[Paper](https://arxiv.org/abs/2309.07623)]
+
+
+- **EfficientDM: Efficient Quantization-Aware Fine-Tuning of Low-Bit Diffusion Models**
+
+**Yefei He**, Jing Liu, Weijia Wu, Hong Zhou\#, Bohan Zhuang\#
+
+[[Paper](https://arxiv.org/abs/2310.03270)]
 
 
 - **Stitched ViTs are Flexible Vision Backbones**
