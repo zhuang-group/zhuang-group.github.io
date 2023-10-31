@@ -65,7 +65,7 @@ author_profile: true
 [[Paper](https://arxiv.org/abs/2310.18954)]  **NeurIPS 2023**
 
 
-- **Second-Order Degradation and Reconstruction for Test-Time Image Super-Resolution**
+- **Efficient Test-Time Adaptation for Super-Resolution with Second-Order Degradation and Reconstruction**
 
 **Zeshuai Deng**, Zhuokun Chen, Shuaicheng Niu, Thomas H. Li, Bohan Zhuang\#, Mingkui Tan\#
 
