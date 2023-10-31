@@ -62,14 +62,14 @@ author_profile: true
 
 **Yuetian Weng**, Mingfei Han, Haoyu He, Mingjie Li, Xiaojun Chang, Bohan Zhuang\#
 
-[[Paper]()]  **NeurIPS 2023**
+[[Paper](https://arxiv.org/abs/2310.18954)]  **NeurIPS 2023**
 
 
 - **Second-Order Degradation and Reconstruction for Test-Time Image Super-Resolution**
 
 **Zeshuai Deng**, Zhuokun Chen, Shuaicheng Niu, Thomas H. Li, Bohan Zhuang\#, Mingkui Tan\#
 
-[[Paper]()]  **NeurIPS 2023**
+[[Paper](https://arxiv.org/abs/2310.19011)]  **NeurIPS 2023**
 
 
 - **Sensitivity-Aware Visual Parameter-Efficient Fine-Tuning**
