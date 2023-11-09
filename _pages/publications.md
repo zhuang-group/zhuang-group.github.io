@@ -25,7 +25,7 @@ author_profile: true
 
 - **Object-Aware Inversion and Reassembly for Image Editing**
 
-**Zhen Yang**, Dinggang Gui, Wen Wang, Hao Chen\#, Bohan Zhuang\#, Chunhua Shen
+**Zhen Yang**, Ganggui Ding, Wen Wang, Hao Chen\#, Bohan Zhuang\#, Chunhua Shen
 
 [[Paper](https://arxiv.org/abs/2310.12149)][[Project](https://github.com/aim-uofa/OIR)]
 
