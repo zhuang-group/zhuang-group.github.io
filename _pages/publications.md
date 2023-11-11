@@ -16,6 +16,13 @@ author_profile: true
 [[Paper](https://arxiv.org/abs/2310.08041)]
 
 
+- **EfficientDM: Efficient Quantization-Aware Fine-Tuning of Low-Bit Diffusion Models**
+
+**Yefei He**, Jing Liu, Weijia Wu, Hong Zhou\#, Bohan Zhuang\#
+
+[[Paper](https://arxiv.org/abs/2310.03270)]
+
+
 - **LoRAPrune: Pruning Meets Low-Rank Parameter-Efficient Fine-Tuning**
 
 **Mingyang Zhang**, Hao Chen, Chunhua Shen, Zhen Yang, Linlin Ou, Xinyi Yu, Bohan Zhuang
@@ -36,12 +43,6 @@ author_profile: true
 
 [[Paper](https://arxiv.org/abs/2309.07623)]
 
-
-- **EfficientDM: Efficient Quantization-Aware Fine-Tuning of Low-Bit Diffusion Models**
-
-**Yefei He**, Jing Liu, Weijia Wu, Hong Zhou\#, Bohan Zhuang\#
-
-[[Paper](https://arxiv.org/abs/2310.03270)]
 
 
 - **Stitched ViTs are Flexible Vision Backbones**
