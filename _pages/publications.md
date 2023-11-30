@@ -9,6 +9,13 @@ author_profile: true
 
 **2023**
 
+- **Efficient Stitchable Task Adaptation**
+
+**Haoyu He**, Zizheng Pan, Jing Liu, Jianfei Cai, Bohan Zhuang\#
+
+[[Paper](https://arxiv.org/abs/2311.17352)]
+
+
 - **QLLM: Accurate and Efficient Low-Bitwidth Quantization for Large Language Models**
 
 **Jing Liu**, Ruihao Gong, Xiuying Wei, Zhiwei Dong, Jianfei Cai, Bohan Zhuang\#
