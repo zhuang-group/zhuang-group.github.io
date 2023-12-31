@@ -51,7 +51,6 @@ author_profile: true
 [[Paper](https://arxiv.org/abs/2309.07623)]
 
 
-
 - **Stitched ViTs are Flexible Vision Backbones**
   
 **Zizheng Pan**, Jing Liu, Haoyu He, Jianfei Cai, Bohan Zhuang\#
@@ -106,6 +105,13 @@ author_profile: true
 **Haoyu He**, Jianfei Cai, Zizheng Pan, Jing Liu, Jing Zhang, Dacheng Tao, Bohan Zhuang\#
 
 [[Paper](https://arxiv.org/abs/2204.01244)][[Code](https://github.com/ziplab/FASeg)] **CVPR 2023**
+
+
+- **Pruning Self-attentions into Convolutional Layers in Single Path**
+
+**Haoyu He**, Jing Liu, Zizheng Pan, Jianfei Cai, Jing Zhang, Dacheng Tao, Bohan Zhuang\#
+
+[[Paper](https://arxiv.org/abs/2111.11802)][[Code](https://github.com/zip-group/SPViT)] **TPAMI 2023**
 
 
 - **Single-path Bit Sharing for Automatic Loss-aware Model Compression**
@@ -176,13 +182,6 @@ author_profile: true
 **Bohan Zhuang**, Chunhua Shen, Mingkui Tan, Peng Chen, Lingqiao Liu, Ian Reid
 
 [[paper](https://link.springer.com/article/10.1007/s11263-022-01638-0)]  **IJCV 2022**
-
-
-- **Pruning Self-attentions into Convolutional Layers in Single Path**
-
-**Haoyu He**, Jing Liu, Zizheng Pan, Jianfei Cai, Jing Zhang, Dacheng Tao, Bohan Zhuang\#
-
-[[Paper](https://arxiv.org/abs/2111.11802)][[Code](https://github.com/zip-group/SPViT)]
 
 
 - **Mesa: A Memory-saving Training Framework for Transformers**
