@@ -13,28 +13,28 @@ author_profile: true
 
 **Zizheng Pan**, Bohan Zhuang\#, De-An Huang, Weili Nie, Zhiding Yu, Chaowei Xiao, Jianfei Cai, Anima Anandkumar
 
-[[Paper](https://openreview.net/forum?id=rnHqwPH4TZ)] 
+[[OpenReview](https://openreview.net/forum?id=rnHqwPH4TZ)] 
 
 
 - **QLLM: Accurate and Efficient Low-Bitwidth Quantization for Large Language Models**
 
 **Jing Liu**, Ruihao Gong, Xiuying Wei, Zhiwei Dong, Jianfei Cai, Bohan Zhuang\#
 
-[[Paper](https://openreview.net/forum?id=FIplmUWdm3)]  **ICLR 2024**
+[[OpenReview](https://openreview.net/forum?id=FIplmUWdm3)]  **ICLR 2024**
 
 
 - **EfficientDM: Efficient Quantization-Aware Fine-Tuning of Low-Bit Diffusion Models**
 
 **Yefei He**, Jing Liu, Weijia Wu, Hong Zhou\#, Bohan Zhuang\#
 
-[[Paper](https://openreview.net/forum?id=UmMa3UNDAz)] **ICLR 2024 (Spotlight)**
+[[OpenReview](https://openreview.net/forum?id=UmMa3UNDAz)] **ICLR 2024 (Spotlight)**
 
 
 - **Object-Aware Inversion and Reassembly for Image Editing**
 
 **Zhen Yang**, Ganggui Ding, Wen Wang, Hao Chen\#, Bohan Zhuang\#, Chunhua Shen
 
-[[Paper](https://openreview.net/forum?id=dpcVXiMlcv)][[Project](https://github.com/aim-uofa/OIR)] **ICLR 2024**
+[[OpenReview](https://openreview.net/forum?id=dpcVXiMlcv)][[Project](https://github.com/aim-uofa/OIR)] **ICLR 2024**
 
 
 
