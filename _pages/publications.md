@@ -40,20 +40,18 @@ Zizheng Pan, Bohan Zhuang\#, De-An Huang, Weili Nie, Zhiding Yu, Chaowei Xiao, J
 
 **2023**
 
-- **Efficient Stitchable Task Adaptation**
-
-**Haoyu He**, Zizheng Pan, Jing Liu, Jianfei Cai, Bohan Zhuang\#
-
-[[Paper](https://arxiv.org/abs/2311.17352)]
-
-
-
 - **LoRAPrune: Pruning Meets Low-Rank Parameter-Efficient Fine-Tuning**
 
 **Mingyang Zhang**, Hao Chen, Chunhua Shen, Zhen Yang, Linlin Ou, Xinyi Yu, Bohan Zhuang
 
 [[Paper](https://arxiv.org/abs/2305.18403v3)]
 
+
+- **Efficient Stitchable Task Adaptation**
+
+**Haoyu He**, Zizheng Pan, Jing Liu, Jianfei Cai, Bohan Zhuang\#
+
+[[Paper](https://arxiv.org/abs/2311.17352)]
 
 
 - **SwitchGPT: Adapting Large Language Models for Non-Text Outputs**
