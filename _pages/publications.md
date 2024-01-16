@@ -9,6 +9,13 @@ author_profile: true
 
 **2024**
 
+- **T-Stitch: Accelerating Sampling in Pre-Trained Diffusion Models with Trajectory Stitching**
+
+**Zizheng Pan**, Bohan Zhuang\#, De-An Huang, Weili Nie, Zhiding Yu, Chaowei Xiao, Jianfei Cai, Anima Anandkumar
+
+[[Paper](https://openreview.net/forum?id=rnHqwPH4TZ)] 
+
+
 - **QLLM: Accurate and Efficient Low-Bitwidth Quantization for Large Language Models**
 
 **Jing Liu**, Ruihao Gong, Xiuying Wei, Zhiwei Dong, Jianfei Cai, Bohan Zhuang\#
@@ -29,12 +36,6 @@ author_profile: true
 
 [[Paper](https://openreview.net/forum?id=dpcVXiMlcv)][[Project](https://github.com/aim-uofa/OIR)] **ICLR 2024**
 
-
-- **T-Stitch: Accelerating Sampling in Pre-Trained Diffusion Models with Trajectory Stitching**
-
-Zizheng Pan, Bohan Zhuang\#, De-An Huang, Weili Nie, Zhiding Yu, Chaowei Xiao, Jianfei Cai, Anima Anandkumar
-
-[[Paper](https://openreview.net/forum?id=rnHqwPH4TZ)] 
 
 
 
