@@ -27,7 +27,7 @@ author_profile: true
 
 **Yefei He**, Jing Liu, Weijia Wu, Hong Zhou\#, Bohan Zhuang\#
 
-[[OpenReview](https://openreview.net/forum?id=UmMa3UNDAz)] **ICLR 2024 (Spotlight)**
+[[OpenReview](https://openreview.net/forum?id=UmMa3UNDAz)] **ICLR 2024 (Spotlight, Top 5%)**
 
 
 - **Object-Aware Inversion and Reassembly for Image Editing**
