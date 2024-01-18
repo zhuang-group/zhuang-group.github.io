@@ -79,7 +79,7 @@ author_profile: true
 
 **Yefei He**, Luping Liu, Jing Liu, Weijia Wu, Hong Zhou\#, Bohan Zhuang\#
 
-[[OpenReview](https://openreview.net/forum?id=Y3g1PV5R9l)] **NeurIPS 2023**
+[[OpenReview](https://openreview.net/forum?id=Y3g1PV5R9l)][[Code](https://github.com/ziplab/PTQD)] **NeurIPS 2023**
 
 
 - **Mask Propagation for Efficient Video Semantic Segmentation**
@@ -93,7 +93,7 @@ author_profile: true
 
 **Zeshuai Deng**, Zhuokun Chen, Shuaicheng Niu, Thomas H. Li, Bohan Zhuang\#, Mingkui Tan\#
 
-[[OpenReview](https://openreview.net/forum?id=IZRlMABK4l)]  **NeurIPS 2023**
+[[OpenReview](https://openreview.net/forum?id=IZRlMABK4l)][[Code](https://github.com/dengzeshuai/srtta)]  **NeurIPS 2023**
 
 
 - **Sensitivity-Aware Visual Parameter-Efficient Fine-Tuning**
