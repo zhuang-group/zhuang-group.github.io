@@ -37,6 +37,12 @@ author_profile: true
 [[OpenReview](https://openreview.net/forum?id=dpcVXiMlcv)][[Project](https://github.com/aim-uofa/OIR)] **ICLR 2024**
 
 
+- **ModaVerse: Efficiently Transforming Modalities with LLMs**
+
+**Xinyu Wang**, Bohan Zhuang, Qi Wu 
+
+[[Paper](https://arxiv.org/abs/2401.06395)]
+
 
 
 **2023**
@@ -73,49 +79,49 @@ author_profile: true
 
 **Yefei He**, Luping Liu, Jing Liu, Weijia Wu, Hong Zhou\#, Bohan Zhuang\#
 
-[[Paper](https://arxiv.org/pdf/2305.10657.pdf)] **NeurIPS 2023**
+[[OpenReview](https://openreview.net/forum?id=Y3g1PV5R9l)] **NeurIPS 2023**
 
 
 - **Mask Propagation for Efficient Video Semantic Segmentation**
 
 **Yuetian Weng**, Mingfei Han, Haoyu He, Mingjie Li, Xiaojun Chang, Bohan Zhuang\#
 
-[[Paper](https://arxiv.org/abs/2310.18954)]  **NeurIPS 2023**
+[[OpenReview](https://openreview.net/forum?id=6ljXBlojde)]  **NeurIPS 2023**
 
 
 - **Efficient Test-Time Adaptation for Super-Resolution with Second-Order Degradation and Reconstruction**
 
 **Zeshuai Deng**, Zhuokun Chen, Shuaicheng Niu, Thomas H. Li, Bohan Zhuang\#, Mingkui Tan\#
 
-[[Paper](https://arxiv.org/abs/2310.19011)]  **NeurIPS 2023**
+[[OpenReview](https://openreview.net/forum?id=IZRlMABK4l)]  **NeurIPS 2023**
 
 
 - **Sensitivity-Aware Visual Parameter-Efficient Fine-Tuning**
 
 **Haoyu He**, Jianfei Cai, Jing Zhang, Dacheng Tao, Bohan Zhuang\#
 
-[[Paper](https://arxiv.org/abs/2303.08566)][[Code](https://github.com/ziplab/SPT)] **ICCV 2023 (Oral)**
+[[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/He_Sensitivity-Aware_Visual_Parameter-Efficient_Fine-Tuning_ICCV_2023_paper.pdf)][[Code](https://github.com/ziplab/SPT)] **ICCV 2023 (Oral)**
 
 
 - **BiViT: Extremely Compressed Binary Vision Transformer**
 
 **Yefei He**, Zhenyu Lou, Luoming Zhang, Weijia Wu, Hong Zhou\#, Bohan Zhuang\#
 
-[[Paper](https://arxiv.org/pdf/2211.07091.pdf)] **ICCV 2023**
+[[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/He_BiViT_Extremely_Compressed_Binary_Vision_Transformers_ICCV_2023_paper.pdf)] **ICCV 2023**
 
 
 - **Stitchable Neural Networks**
 
 **Zizheng Pan**, Jianfei Cai, Bohan Zhuang\#
 
-[[Paper](https://arxiv.org/abs/2302.06586)][[Project](https://snnet.github.io/)][[Code](https://github.com/ziplab/SN-Net)] **CVPR 2023 (Highlight, Top 2.5%)** 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Pan_Stitchable_Neural_Networks_CVPR_2023_paper.pdf)][[Project](https://snnet.github.io/)][[Code](https://github.com/ziplab/SN-Net)] **CVPR 2023 (Highlight, Top 2.5%)** 
 
 
 - **Dynamic Focus-aware Positional Queries for Semantic Segmentation**
 
 **Haoyu He**, Jianfei Cai, Zizheng Pan, Jing Liu, Jing Zhang, Dacheng Tao, Bohan Zhuang\#
 
-[[Paper](https://arxiv.org/abs/2204.01244)][[Code](https://github.com/ziplab/FASeg)] **CVPR 2023**
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/He_Dynamic_Focus-Aware_Positional_Queries_for_Semantic_Segmentation_CVPR_2023_paper.pdf)][[Code](https://github.com/ziplab/FASeg)] **CVPR 2023**
 
 
 - **Pruning Self-attentions into Convolutional Layers in Single Path**
@@ -153,15 +159,14 @@ author_profile: true
 
 **Jing Liu**\*, **Zizheng Pan**\*, Haoyu He, Jianfei Cai, Bohan Zhuang\#
 
-[[Paper](https://openreview.net/forum?id=MK_130d4Y0)][[Code](https://github.com/ziplab/EcoFormer)]  **NeurIPS 2022 (Spotlight, Top 3%)**  
+[[OpenReview](https://openreview.net/forum?id=MK_130d4Y0)][[Code](https://github.com/ziplab/EcoFormer)]  **NeurIPS 2022 (Spotlight, Top 3%)**  
 
 
 - **Fast Vision Transformers with HiLo Attention**
 
 **Zizheng Pan**, Jianfei Cai, Bohan Zhuang\#
 
-[[Paper](https://openreview.net/forum?id=Pyd6Rh9r1OT)][[Code](https://github.com/ziplab/LITv2)]  **NeurIPS 2022 (Spotlight, Top 3%)**
-
+[[OpenReview](https://openreview.net/forum?id=Pyd6Rh9r1OT)][[Code](https://github.com/ziplab/LITv2)]  **NeurIPS 2022 (Spotlight, Top 3%)**
 
 
 
