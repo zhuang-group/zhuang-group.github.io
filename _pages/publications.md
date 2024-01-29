@@ -54,6 +54,13 @@ author_profile: true
 [[Paper](https://arxiv.org/abs/2305.18403v3)]
 
 
+- **Stitched ViTs are Flexible Vision Backbones** (SN-Net v2)
+  
+**Zizheng Pan**, Jing Liu, Haoyu He, Jianfei Cai, Bohan Zhuang\#
+
+[[Paper](https://arxiv.org/abs/2307.00154)]
+
+
 - **Efficient Stitchable Task Adaptation**
 
 **Haoyu He**, Zizheng Pan, Jing Liu, Jianfei Cai, Bohan Zhuang\#
@@ -67,12 +74,6 @@ author_profile: true
 
 [[Paper](https://arxiv.org/abs/2309.07623)]
 
-
-- **Stitched ViTs are Flexible Vision Backbones**
-  
-**Zizheng Pan**, Jing Liu, Haoyu He, Jianfei Cai, Bohan Zhuang\#
-
-[[Paper](https://arxiv.org/abs/2307.00154)]
 
 
 - **PTQD: Accurate Post-Training Quantization for Diffusion Models**
