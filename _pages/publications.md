@@ -263,7 +263,7 @@ author_profile: true
 [[Paper](https://ieeexplore.ieee.org/document/9384353)][[Code](https://github.com/SCUT-AILab/DCP)] **TPAMI**
 
 
-- **AQD: Towards Accurate Quantized Object Detection**
+- **AQD: Towards Accurate Fully-Quantized Object Detection**
 
 **Peng Chen**\*, **Jing Liu**\*, Bohan Zhuang\#, Mingkui Tan, Chunhua Shen
 
