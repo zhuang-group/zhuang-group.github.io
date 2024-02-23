@@ -13,7 +13,7 @@ author_profile: true
 
 **Zizheng Pan**, Bohan Zhuang\#, De-An Huang, Weili Nie, Zhiding Yu, Chaowei Xiao, Jianfei Cai, Anima Anandkumar
 
-[[OpenReview](https://openreview.net/forum?id=rnHqwPH4TZ)] 
+[[Paper](https://arxiv.org/abs/2402.14167)] 
 
 
 - **QLLM: Accurate and Efficient Low-Bitwidth Quantization for Large Language Models**
