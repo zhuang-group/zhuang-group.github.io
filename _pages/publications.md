@@ -37,15 +37,19 @@ author_profile: true
 [[OpenReview](https://openreview.net/forum?id=dpcVXiMlcv)][[Project](https://github.com/aim-uofa/OIR)] **ICLR 2024**
 
 
+- **Efficient Stitchable Task Adaptation**
+
+**Haoyu He**, Zizheng Pan, Jing Liu, Jianfei Cai, Bohan Zhuang\#
+
+[[Paper](https://arxiv.org/abs/2311.17352)]  **CVPR 2024**
+
+
 - **ModaVerse: Efficiently Transforming Modalities with LLMs**
 
 **Xinyu Wang**, Bohan Zhuang, Qi Wu 
 
-[[Paper](https://arxiv.org/abs/2401.06395)]
+[[Paper](https://arxiv.org/abs/2401.06395)]  **CVPR 2024**
 
-
-
-**2023**
 
 - **LoRAPrune: Pruning Meets Low-Rank Parameter-Efficient Fine-Tuning**
 
@@ -61,11 +65,7 @@ author_profile: true
 [[Paper](https://arxiv.org/abs/2307.00154)]
 
 
-- **Efficient Stitchable Task Adaptation**
-
-**Haoyu He**, Zizheng Pan, Jing Liu, Jianfei Cai, Bohan Zhuang\#
-
-[[Paper](https://arxiv.org/abs/2311.17352)]
+**2023**
 
 
 - **SwitchGPT: Adapting Large Language Models for Non-Text Outputs**
