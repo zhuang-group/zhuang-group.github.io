@@ -106,7 +106,7 @@ author_profile: true
 
 - **BiViT: Extremely Compressed Binary Vision Transformer**
 
-**Yefei He**, Zhenyu Lou, Luoming Zhang, Weijia Wu, Hong Zhou\#, Bohan Zhuang\#
+**Yefei He**, Zhenyu Lou, Luoming Zhang, Jing Liu, Weijia Wu, Hong Zhou\#, Bohan Zhuang\#
 
 [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/He_BiViT_Extremely_Compressed_Binary_Vision_Transformers_ICCV_2023_paper.pdf)] **ICCV 2023**
 
