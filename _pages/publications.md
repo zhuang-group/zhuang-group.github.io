@@ -41,7 +41,7 @@ author_profile: true
 
 **Haoyu He**, Zizheng Pan, Jing Liu, Jianfei Cai, Bohan Zhuang\#
 
-[[Paper](https://arxiv.org/abs/2311.17352)]  **CVPR 2024**
+[[Paper](https://arxiv.org/abs/2311.17352)][[Code](https://github.com/ziplab/Stitched_LLaMA)]  **CVPR 2024**
 
 
 - **ModaVerse: Efficiently Transforming Modalities with LLMs**
