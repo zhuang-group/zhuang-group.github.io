@@ -21,7 +21,7 @@ author_profile: true
 
 **Zizheng Pan**, Bohan Zhuang\#, De-An Huang, Weili Nie, Zhiding Yu, Chaowei Xiao, Jianfei Cai, Anima Anandkumar
 
-[[Paper](https://arxiv.org/abs/2402.14167)][[Code](https://github.com/NVlabs/T-Stitch)]
+[[Paper](https://arxiv.org/abs/2402.14167)][[Project](https://t-stitch.github.io/)][[Code](https://github.com/NVlabs/T-Stitch)]
 
 
 - **Motion Mamba: Efficient and Long Sequence Motion Generation with Hierarchical and Bidirectional Selective SSM**
@@ -42,14 +42,14 @@ author_profile: true
   
 **Zizheng Pan**, Jing Liu, Haoyu He, Jianfei Cai, Bohan Zhuang\#
 
-[[Paper](https://arxiv.org/abs/2307.00154)]
+[[Paper](https://arxiv.org/abs/2307.00154)][[HuggingFace](https://huggingface.co/ziplab)][[Code](https://github.com/ziplab/SN-Netv2)]
 
 
 - **QLLM: Accurate and Efficient Low-Bitwidth Quantization for Large Language Models**
 
 **Jing Liu**, Ruihao Gong, Xiuying Wei, Zhiwei Dong, Jianfei Cai, Bohan Zhuang\#
 
-[[OpenReview](https://openreview.net/forum?id=FIplmUWdm3)]  **ICLR 2024**
+[[OpenReview](https://openreview.net/forum?id=FIplmUWdm3)][[Code-1](https://github.com/ModelTC/QLLM)][[Code-2](https://github.com/ziplab/QLLM)]  **ICLR 2024**
 
 
 - **EfficientDM: Efficient Quantization-Aware Fine-Tuning of Low-Bit Diffusion Models**
@@ -85,12 +85,11 @@ author_profile: true
 **2023**
 
 
-- **SwitchGPT: Adapting Large Language Models for Non-Text Outputs**
+- **Stitchable Neural Networks**
 
-**Xinyu Wang**, Bohan Zhuang, Qi Wu
+**Zizheng Pan**, Jianfei Cai, Bohan Zhuang\#
 
-[[Paper](https://arxiv.org/abs/2309.07623)]
-
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Pan_Stitchable_Neural_Networks_CVPR_2023_paper.pdf)][[Project](https://snnet.github.io/)][[Code](https://github.com/ziplab/SN-Net)] **CVPR 2023 (Highlight, Top 2.5%)** 
 
 
 - **PTQD: Accurate Post-Training Quantization for Diffusion Models**
@@ -104,7 +103,7 @@ author_profile: true
 
 **Yuetian Weng**, Mingfei Han, Haoyu He, Mingjie Li, Xiaojun Chang, Bohan Zhuang\#
 
-[[OpenReview](https://openreview.net/forum?id=6ljXBlojde)]  **NeurIPS 2023**
+[[OpenReview](https://openreview.net/forum?id=6ljXBlojde)][[Code](https://github.com/ziplab/MPVSS)]  **NeurIPS 2023**
 
 
 - **Efficient Test-Time Adaptation for Super-Resolution with Second-Order Degradation and Reconstruction**
@@ -126,13 +125,6 @@ author_profile: true
 **Yefei He**, Zhenyu Lou, Luoming Zhang, Jing Liu, Weijia Wu, Hong Zhou\#, Bohan Zhuang\#
 
 [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/He_BiViT_Extremely_Compressed_Binary_Vision_Transformers_ICCV_2023_paper.pdf)] **ICCV 2023**
-
-
-- **Stitchable Neural Networks**
-
-**Zizheng Pan**, Jianfei Cai, Bohan Zhuang\#
-
-[[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Pan_Stitchable_Neural_Networks_CVPR_2023_paper.pdf)][[Project](https://snnet.github.io/)][[Code](https://github.com/ziplab/SN-Net)] **CVPR 2023 (Highlight, Top 2.5%)** 
 
 
 - **Dynamic Focus-aware Positional Queries for Semantic Segmentation**
@@ -168,6 +160,13 @@ author_profile: true
 **Bohan Zhuang**\#, Jing Liu, Zizheng Pan, Haoyu He, Yuetian Weng, Chunhua Shen
 
 [[Paper](https://arxiv.org/abs/2302.01107)] **IJCAI 2023 Survey Track**
+
+
+- **SwitchGPT: Adapting Large Language Models for Non-Text Outputs**
+
+**Xinyu Wang**, Bohan Zhuang, Qi Wu
+
+[[Paper](https://arxiv.org/abs/2309.07623)]
 
 
 
