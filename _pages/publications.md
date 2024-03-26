@@ -9,11 +9,40 @@ author_profile: true
 
 **2024**
 
+
+- **MVSplat: Efficient 3D Gaussian Splatting from Sparse Multi-View Images**
+
+**Yuedong Chen**, Haofei Xu, Chuanxia Zheng, Bohan Zhuang, Marc Pollefeys, Andreas Geiger, Tat-Jen Cham, Jianfei Cai
+
+[[Paper](https://arxiv.org/abs/2403.14627)][[Project](https://donydchen.github.io/mvsplat/)][[Code](https://github.com/donydchen/mvsplat)]
+
+
 - **T-Stitch: Accelerating Sampling in Pre-Trained Diffusion Models with Trajectory Stitching**
 
 **Zizheng Pan**, Bohan Zhuang\#, De-An Huang, Weili Nie, Zhiding Yu, Chaowei Xiao, Jianfei Cai, Anima Anandkumar
 
 [[Paper](https://arxiv.org/abs/2402.14167)][[Code](https://github.com/NVlabs/T-Stitch)]
+
+
+- **Motion Mamba: Efficient and Long Sequence Motion Generation with Hierarchical and Bidirectional Selective SSM**
+
+Zeyu Zhang, Akide Liu, Ian Reid, Richard Hartley, Bohan Zhuang, Hao Tang
+
+[[Paper](https://arxiv.org/abs/2403.07487)][[Project](https://steve-zeyu-zhang.github.io/MotionMamba/)][[Code](https://github.com/steve-zeyu-zhang/MotionMamba/)]
+  
+
+- **LoRAPrune: Pruning Meets Low-Rank Parameter-Efficient Fine-Tuning**
+
+**Mingyang Zhang**, Hao Chen, Chunhua Shen, Zhen Yang, Linlin Ou, Xinyi Yu, Bohan Zhuang
+
+[[Paper](https://arxiv.org/abs/2305.18403v3)]
+
+
+- **Stitched ViTs are Flexible Vision Backbones** (SN-Net v2)
+  
+**Zizheng Pan**, Jing Liu, Haoyu He, Jianfei Cai, Bohan Zhuang\#
+
+[[Paper](https://arxiv.org/abs/2307.00154)]
 
 
 - **QLLM: Accurate and Efficient Low-Bitwidth Quantization for Large Language Models**
@@ -51,18 +80,6 @@ author_profile: true
 [[Paper](https://arxiv.org/abs/2401.06395)]  **CVPR 2024**
 
 
-- **LoRAPrune: Pruning Meets Low-Rank Parameter-Efficient Fine-Tuning**
-
-**Mingyang Zhang**, Hao Chen, Chunhua Shen, Zhen Yang, Linlin Ou, Xinyi Yu, Bohan Zhuang
-
-[[Paper](https://arxiv.org/abs/2305.18403v3)]
-
-
-- **Stitched ViTs are Flexible Vision Backbones** (SN-Net v2)
-  
-**Zizheng Pan**, Jing Liu, Haoyu He, Jianfei Cai, Bohan Zhuang\#
-
-[[Paper](https://arxiv.org/abs/2307.00154)]
 
 
 **2023**
