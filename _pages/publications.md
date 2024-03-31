@@ -23,12 +23,6 @@ author_profile: true
 
 [[Paper](https://arxiv.org/abs/2402.14167)][[Project](https://t-stitch.github.io/)][[Code](https://github.com/NVlabs/T-Stitch)]
 
-
-- **Motion Mamba: Efficient and Long Sequence Motion Generation with Hierarchical and Bidirectional Selective SSM**
-
-Zeyu Zhang, **Akide Liu**, Ian Reid, Richard Hartley, Bohan Zhuang, Hao Tang
-
-[[Paper](https://arxiv.org/abs/2403.07487)][[Project](https://steve-zeyu-zhang.github.io/MotionMamba/)][[Code](https://github.com/steve-zeyu-zhang/MotionMamba/)]
   
 
 - **LoRAPrune: Pruning Meets Low-Rank Parameter-Efficient Fine-Tuning**
