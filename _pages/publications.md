@@ -23,8 +23,14 @@ author_profile: true
 
 [[Paper](https://arxiv.org/abs/2402.14167)][[Project](https://t-stitch.github.io/)][[Code](https://github.com/NVlabs/T-Stitch)]
 
-  
 
+- **LongVLM: Efficient Long Video Understanding via Large Language Models**
+  
+**Yuetian Weng**, Mingfei Han, Haoyu He, Xiaojun Chang, Bohan Zhuang
+
+[[Paper](https://arxiv.org/abs/2404.03384)]
+
+  
 - **LoRAPrune: Pruning Meets Low-Rank Parameter-Efficient Fine-Tuning**
 
 **Mingyang Zhang**, Hao Chen, Chunhua Shen, Zhen Yang, Linlin Ou, Xinyi Yu, Bohan Zhuang
@@ -50,7 +56,7 @@ author_profile: true
 
 **Yefei He**, Jing Liu, Weijia Wu, Hong Zhou\#, Bohan Zhuang\#
 
-[[OpenReview](https://openreview.net/forum?id=UmMa3UNDAz)] **ICLR 2024 (Spotlight, Top 5%)**
+[[OpenReview](https://openreview.net/forum?id=UmMa3UNDAz)][[Code](https://github.com/ThisisBillhe/EfficientDM)] **ICLR 2024 (Spotlight, Top 5%)**
 
 
 - **Object-Aware Inversion and Reassembly for Image Editing**
