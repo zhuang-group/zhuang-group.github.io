@@ -5,11 +5,11 @@ excerpt: "People"
 author_profile: true
 ---
 
-## Lead
-<br><a href="https://bohanzhuang.github.io/">Dr. Bohan Zhuang</a>
+## PI 
+<a href="https://bohanzhuang.github.io/">Dr. Bohan Zhuang</a>
 
 ## PhD students
-<br><a href="https://zizhengpan.github.io/">Zizheng Pan</a>  PhD student @ Monash University. Upcoming Research Scientist @ DeepSeek
+<a href="https://zizhengpan.github.io/">Zizheng Pan</a>  PhD student @ Monash University. Upcoming Research Scientist @ DeepSeek
 <br><a href="https://jing-liu.com/">Jing Liu</a>  PhD student @ Monash University
 <br><a href="https://charles-haoyuhe.github.io/">Haoyu He</a>  PhD student @ Monash University
 <br><a href="https://dblp.org/pid/319/7287.html">Yuetian Weng</a>  PhD student @ Monash University
@@ -22,9 +22,8 @@ author_profile: true
 <br><a href="https://github.com/Chenfeng1271">Feng Chen</a>  PhD student @ The University of Adelaide (co-supervised with Qi Wu)
 
 
-## Collaborator & Former members
-
-<br><a href="https://scholar.google.com/citations?user=URHQRGwAAAAJ&hl=en">Dr. Yasmeen George</a>  Former Research Fellow. Now Lecturer at Monash University
+## Collaborators & Former members
+<a href="https://scholar.google.com/citations?user=URHQRGwAAAAJ&hl=en">Dr. Yasmeen George</a>  Former Research Fellow. Now Lecturer at Monash University
 <br><a href="https://scholar.google.com/citations?user=RLAgwBkAAAAJ&hl=en">Changlin Li</a> Former PhD. Now Research Fellow @ University of Technology Sydney
 <br><a href="https://scholar.google.com/citations?user=Hoh9p_kAAAAJ&hl=en">Peng Chen</a>  Now Research Scientist 
 <br><a href="https://openreview.net/profile?id=~Xinyu_Wang2">Xinyu Wang</a> Research Fellow @ The University of Adelaide
