@@ -23,7 +23,7 @@ author_profile: true
 
 
 ## Collaborators & Former members
-<a href="https://scholar.google.com/citations?user=URHQRGwAAAAJ&hl=en">Dr. Yasmeen George</a>  Former Research Fellow. Now Lecturer at Monash University
+<a href="https://scholar.google.com/citations?user=URHQRGwAAAAJ&hl=en">Dr. Yasmeen George</a>  Former Research Fellow. Now Lecture (a.k.a Assistant Professor) at Monash University
 <br><a href="https://scholar.google.com/citations?user=RLAgwBkAAAAJ&hl=en">Changlin Li</a> Former PhD. Now Research Fellow @ University of Technology Sydney
 <br><a href="https://scholar.google.com/citations?user=Hoh9p_kAAAAJ&hl=en">Peng Chen</a>  Now Research Scientist 
 <br><a href="https://openreview.net/profile?id=~Xinyu_Wang2">Xinyu Wang</a> Research Fellow @ The University of Adelaide
