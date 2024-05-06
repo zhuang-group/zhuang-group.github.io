@@ -28,5 +28,6 @@ author_profile: true
 <br><a href="https://scholar.google.com/citations?user=Hoh9p_kAAAAJ&hl=en">Peng Chen</a>  Now Research Scientist 
 <br><a href="https://openreview.net/profile?id=~Xinyu_Wang2">Xinyu Wang</a> Research Fellow @ The University of Adelaide
 <br><a href="https://openreview.net/profile?id=~Mingyang_Zhang3">Mingyang Zhang</a> Research Fellow @ Zhejiang University
+<br><a href="https://openreview.net/profile?id=~Zhen_Yang15">Zhen Yang</a> Research Assistant @ Zhejiang University
 
 
