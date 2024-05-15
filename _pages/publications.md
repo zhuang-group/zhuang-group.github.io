@@ -77,7 +77,7 @@ author_profile: true
 
 **Xinyu Wang**, Bohan Zhuang, Qi Wu 
 
-[[Paper](https://arxiv.org/abs/2401.06395)]  **CVPR 2024**
+[[Paper](https://arxiv.org/abs/2401.06395)][[Code](https://github.com/xinke-wang/ModaVerse)]   **CVPR 2024**
 
 
 
