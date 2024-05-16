@@ -35,7 +35,7 @@ author_profile: true
 
 **Mingyang Zhang**, Hao Chen, Chunhua Shen, Zhen Yang, Linlin Ou, Xinyi Yu, Bohan Zhuang
 
-[[Paper](https://arxiv.org/abs/2305.18403v3)] ACL 2024 Findings
+[[Paper](https://arxiv.org/abs/2305.18403v3)] **ACL 2024 Findings**
 
 
 - **Stitched ViTs are Flexible Vision Backbones** (SN-Net v2)
