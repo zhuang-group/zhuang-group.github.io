@@ -9,6 +9,19 @@ author_profile: true
 
 **2024**
 
+- **MiniCache: KV Cache Compression in Depth Dimension for Large Language Models**
+
+**Akide Liu**, Jing Liu, Zizheng Pan, Yefei He, Gholamreza Haffari, Bohan Zhuang
+
+[[Paper](https://arxiv.org/abs/2405.14366)]
+
+
+- **ZipCache: Accurate and Efficient KV Cache Quantization with Salient Token Identification**
+
+**Yefei He**, Luoming Zhang, Weijia Wu, Jing Liu, Hong Zhou, Bohan Zhuang
+
+[[Paper](https://arxiv.org/abs/2405.14256)]
+
 
 - **MVSplat: Efficient 3D Gaussian Splatting from Sparse Multi-View Images**
 
