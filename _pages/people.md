@@ -9,9 +9,9 @@ author_profile: true
 <a href="https://bohanzhuang.github.io/">Dr. Bohan Zhuang</a>
 
 ## PhD students
-<a href="https://zizhengpan.github.io/">Zizheng Pan</a>  PhD student @ Monash University. Upcoming Research Scientist @ DeepSeek
+<a href="https://zizhengpan.github.io/">Zizheng Pan</a>  PhD student @ Monash University. **Upcoming Research Scientist @ DeepSeek**
 <br><a href="https://jing-liu.com/">Jing Liu</a>  PhD student @ Monash University
-<br><a href="https://charles-haoyuhe.github.io/">Haoyu He</a>  PhD student @ Monash University
+<br><a href="https://charles-haoyuhe.github.io/">Haoyu He</a>  PhD student @ Monash University. **Upcoming Research Scientist @ Tiktok**
 <br><a href="https://dblp.org/pid/319/7287.html">Yuetian Weng</a>  PhD student @ Monash University
 <br><a href="https://github.com/AkideLiu">Akide Liu</a>  PhD student @ Monash University
 <br><a href="https://scholar.google.com/citations?user=UFBrJOAAAAAJ&hl=en">Jin Ye</a>  PhD student @ Monash University
