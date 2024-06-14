@@ -9,6 +9,13 @@ author_profile: true
 
 **2024**
 
+- **ME-Switch: A Memory-Efficient Expert Switching Framework for Large Language Models**
+
+**Jing Liu**, Ruihao Gong, Mingyang Zhang, Yefei He, Jianfei Cai, Bohan Zhuang\#
+
+[[Paper](https://arxiv.org/abs/2406.09041)]
+
+
 - **MiniCache: KV Cache Compression in Depth Dimension for Large Language Models**
 
 **Akide Liu**, Jing Liu, Zizheng Pan, Yefei He, Gholamreza Haffari, Bohan Zhuang\#
