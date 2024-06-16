@@ -9,8 +9,8 @@ main:
   - title: "Publication"
     url: /publications/
 
-  - title: "Software"
-    url: /research/    
+#  - title: "Software"
+ #   url: /research/    
         
  # - title: "Code & Data"
  #   url: /code_data/
