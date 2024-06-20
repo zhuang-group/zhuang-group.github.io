@@ -1,4 +1,4 @@
----
+![image](https://github.com/ziplab/ziplab.github.io/assets/15856321/fca2d642-a660-4559-8f65-fd459516328b)---
 permalink: /
 title: "Zhuang Intelligent Processing Lab (ZIP Lab)"
 # excerpt: "Home"
@@ -18,6 +18,6 @@ redirect_from:
 
 Welcome to ZIP Lab!
 
-Our group's primary research focus centers on the development of highly efficient deep learning paradigms for edge applications in Natural Language Processing, Computer Vision, and multi-modality.
+ZIP Lab is an international research lab with locations in Hangzhou and Melbourne. Our lab's primary research focus is on developing efficient machine learning systems for edge applications, particularly in the areas of large language models and multimodal large models. 
 
 
