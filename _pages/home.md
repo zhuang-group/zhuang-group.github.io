@@ -1,3 +1,4 @@
+---
 permalink: /
 title: "Zhuang Intelligent Processing Lab (ZIP Lab)"
 # excerpt: "Home"
