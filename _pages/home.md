@@ -1,4 +1,3 @@
-![image](https://github.com/ziplab/ziplab.github.io/assets/15856321/fca2d642-a660-4559-8f65-fd459516328b)---
 permalink: /
 title: "Zhuang Intelligent Processing Lab (ZIP Lab)"
 # excerpt: "Home"
