@@ -64,6 +64,11 @@ author_profile: true
 
 [[Paper](https://arxiv.org/abs/2403.07487)][[Project](https://steve-zeyu-zhang.github.io/MotionMamba/)]
 
+- **Streaming Video Diffusion: Online Video Editing with Diffusion Models**
+
+**Feng Chen**, Zhen Yang, Bohan Zhuang, Qi Wu
+
+[Paper](https://arxiv.org/abs/2405.19726)
 
 
 - **QLLM: Accurate and Efficient Low-Bitwidth Quantization for Large Language Models**
