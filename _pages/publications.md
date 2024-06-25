@@ -68,7 +68,7 @@ author_profile: true
 
 **Feng Chen**, Zhen Yang, Bohan Zhuang, Qi Wu
 
-[Paper](https://arxiv.org/abs/2405.19726)
+[[Paper](https://arxiv.org/abs/2405.19726)]
 
 
 - **QLLM: Accurate and Efficient Low-Bitwidth Quantization for Large Language Models**
