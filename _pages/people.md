@@ -9,9 +9,9 @@ author_profile: true
 <a href="https://bohanzhuang.github.io/">Dr. Bohan Zhuang</a>
 
 ## PhD students
-<a href="https://zizhengpan.github.io/">Zizheng Pan</a>  PhD student @ Monash University. **Now Research Scientist @ DeepSeek**
+<a href="https://zizhengpan.github.io/">Zizheng Pan</a>  PhD student @ Monash University. Now Research Scientist @ DeepSeek
 <br><a href="https://jing-liu.com/">Jing Liu</a>  PhD student @ Monash University
-<br><a href="https://charles-haoyuhe.github.io/">Haoyu He</a>  PhD student @ Monash University. **Now Research Scientist @ TikTok**
+<br><a href="https://charles-haoyuhe.github.io/">Haoyu He</a>  PhD student @ Monash University. Now Research Scientist @ TikTok
 <br><a href="https://dblp.org/pid/319/7287.html">Yuetian Weng</a>  PhD student @ Monash University
 <br><a href="https://github.com/AkideLiu">Akide Liu</a>  PhD student @ Monash University
 <br><a href="https://scholar.google.com/citations?user=UFBrJOAAAAAJ&hl=en">Jin Ye</a>  PhD student @ Monash University
@@ -22,7 +22,7 @@ author_profile: true
 <br><a href="https://github.com/Chenfeng1271">Feng Chen</a>  PhD student @ The University of Adelaide (co-supervised with Qi Wu)
 <br><a href="https://scholar.google.com/citations?user=RLAgwBkAAAAJ&hl=en">Changlin Li</a> PhD student @ Monash University. Now Research Fellow @ University of Technology Sydney
 
-## Collaborators & Research Fellows
+## Research Fellows & Collaborators 
 <a href="https://scholar.google.com/citations?user=URHQRGwAAAAJ&hl=en">Dr. Yasmeen George</a> Research Fellow. Now Senior Lecturer (a.k.a Assistant Professor) at Monash University
 <br><a href="https://scholar.google.com/citations?user=Hoh9p_kAAAAJ&hl=en">Peng Chen</a>  Research Scientist @ HOUMO.AI
 <br><a href="https://openreview.net/profile?id=~Xinyu_Wang2">Xinyu Wang</a> Research Fellow @ The University of Adelaide
