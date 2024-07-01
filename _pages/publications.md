@@ -30,13 +30,6 @@ author_profile: true
 [[Paper](https://arxiv.org/abs/2405.14256)]
 
 
-- **MVSplat: Efficient 3D Gaussian Splatting from Sparse Multi-View Images**
-
-**Yuedong Chen**, Haofei Xu, Chuanxia Zheng, Bohan Zhuang, Marc Pollefeys, Andreas Geiger, Tat-Jen Cham, Jianfei Cai
-
-[[Paper](https://arxiv.org/abs/2403.14627)][[Project](https://donydchen.github.io/mvsplat/)][[Code](https://github.com/donydchen/mvsplat)]
-
-
 - **T-Stitch: Accelerating Sampling in Pre-Trained Diffusion Models with Trajectory Stitching**
 
 **Zizheng Pan**, Bohan Zhuang\#, De-An Huang, Weili Nie, Zhiding Yu, Chaowei Xiao, Jianfei Cai, Anima Anandkumar
@@ -44,31 +37,33 @@ author_profile: true
 [[Paper](https://arxiv.org/abs/2402.14167)][[Project](https://t-stitch.github.io/)][[Code](https://github.com/NVlabs/T-Stitch)]
 
 
+- **MVSplat: Efficient 3D Gaussian Splatting from Sparse Multi-View Images**
+
+**Yuedong Chen**, Haofei Xu, Chuanxia Zheng, Bohan Zhuang, Marc Pollefeys, Andreas Geiger, Tat-Jen Cham, Jianfei Cai
+
+[[Paper](https://arxiv.org/abs/2403.14627)][[Project](https://donydchen.github.io/mvsplat/)][[Code](https://github.com/donydchen/mvsplat)] **ECCV 2024**
+
+
 - **LongVLM: Efficient Long Video Understanding via Large Language Models**
   
 **Yuetian Weng**, Mingfei Han, Haoyu He, Xiaojun Chang, Bohan Zhuang\#
 
-[[Paper](https://arxiv.org/abs/2404.03384)]
+[[Paper](https://arxiv.org/abs/2404.03384)] **ECCV 2024**
 
 
 - **Stitched ViTs are Flexible Vision Backbones** (SN-Net v2)
   
 **Zizheng Pan**, Jing Liu, Haoyu He, Jianfei Cai, Bohan Zhuang\#
 
-[[Paper](https://arxiv.org/abs/2307.00154)][[HuggingFace](https://huggingface.co/ziplab)][[Code](https://github.com/ziplab/SN-Netv2)]
+[[Paper](https://arxiv.org/abs/2307.00154)][[HuggingFace](https://huggingface.co/ziplab)][[Code](https://github.com/ziplab/SN-Netv2)] **ECCV 2024**
 
 
 - **Motion Mamba: Efficient and Long Sequence Motion Generation**
 
 **Zeyu Zhang**, Akide Liu, Ian Reid, Richard Hartley, Bohan Zhuang, Hao Tang
 
-[[Paper](https://arxiv.org/abs/2403.07487)][[Project](https://steve-zeyu-zhang.github.io/MotionMamba/)]
+[[Paper](https://arxiv.org/abs/2403.07487)][[Project](https://steve-zeyu-zhang.github.io/MotionMamba/)] **ECCV 2024**
 
-- **Streaming Video Diffusion: Online Video Editing with Diffusion Models**
-
-**Feng Chen**, Zhen Yang, Bohan Zhuang, Qi Wu
-
-[[Paper](https://arxiv.org/abs/2405.19726)]
 
 
 - **QLLM: Accurate and Efficient Low-Bitwidth Quantization for Large Language Models**
@@ -112,6 +107,13 @@ author_profile: true
 **Mingyang Zhang**, Hao Chen, Chunhua Shen, Zhen Yang, Linlin Ou, Xinyi Yu, Bohan Zhuang
 
 [[Paper](https://arxiv.org/abs/2305.18403v3)] **ACL 2024 Findings**
+
+
+- **Streaming Video Diffusion: Online Video Editing with Diffusion Models**
+
+**Feng Chen**, Zhen Yang, Bohan Zhuang, Qi Wu
+
+[[Paper](https://arxiv.org/abs/2405.19726)]
 
 
 
