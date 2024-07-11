@@ -109,6 +109,13 @@ author_profile: true
 [[Paper](https://arxiv.org/abs/2305.18403v3)] **ACL 2024 Findings**
 
 
+- **SAM-Med3D-MoE: Towards a Non-Forgetting Segment Anything Model via Mixture of Experts for 3D Medical Image Segmentation**
+
+Guoan Wang, **Jin Ye**, Junlong Cheng, Tianbin Li, Zhaolin Chen, Jianfei Cai, Junjun He, Bohan Zhuang\#
+
+[[Paper](https://arxiv.org/abs/2407.04938)] **MICCAI 2024**
+
+
 - **Streaming Video Diffusion: Online Video Editing with Diffusion Models**
 
 **Feng Chen**, Zhen Yang, Bohan Zhuang, Qi Wu
