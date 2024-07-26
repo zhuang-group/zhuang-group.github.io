@@ -9,9 +9,9 @@ author_profile: true
 <a href="https://bohanzhuang.github.io/">Dr. Bohan Zhuang</a>
 
 ## Co-PI
-<a href="https://zizhengpan.github.io/">Zizheng Pan</a> (PhD @ Monash University, 2021-2024). **Now Research Scientist @ DeepSeek**. 
-<br><a href="https://jing-liu.com/">Jing Liu</a> (PhD @ Monash University, 2021-2024). **Now Team Leader @ ByteDance USA** 
-<br><a href="https://charles-haoyuhe.github.io/">Haoyu He</a> (PhD @ Monash University, 2021-2024). **Now Research Scientist @ TikTok Sydney**. 
+<a href="https://zizhengpan.github.io/">Zizheng Pan</a> (PhD @ Monash University, 2021-2024), **Now Research Scientist @ DeepSeek** 
+<br><a href="https://jing-liu.com/">Jing Liu</a> (PhD @ Monash University, 2021-2024), **Now Team Leader @ ByteDance USA** 
+<br><a href="https://charles-haoyuhe.github.io/">Haoyu He</a> (PhD @ Monash University, 2021-2024), **Now Research Scientist @ TikTok Sydney** 
 
 ## PhD & Master students
 <a href="https://dblp.org/pid/319/7287.html">Yuetian Weng</a> (PhD @ Monash University, 2021-2024)
