@@ -41,14 +41,14 @@ author_profile: true
 
 **Yuedong Chen**, Haofei Xu, Chuanxia Zheng, Bohan Zhuang, Marc Pollefeys, Andreas Geiger, Tat-Jen Cham, Jianfei Cai
 
-[[Paper](https://arxiv.org/abs/2403.14627)][[Project](https://donydchen.github.io/mvsplat/)][[Code](https://github.com/donydchen/mvsplat)] **ECCV 2024**
+[[Paper](https://arxiv.org/abs/2403.14627)][[Project](https://donydchen.github.io/mvsplat/)][[Code](https://github.com/donydchen/mvsplat)] **ECCV 2024 (<span style="color: red;">Oral</span>)**
 
 
 - **LongVLM: Efficient Long Video Understanding via Large Language Models**
   
 **Yuetian Weng**, Mingfei Han, Haoyu He, Xiaojun Chang, Bohan Zhuang\#
 
-[[Paper](https://arxiv.org/abs/2404.03384)] **ECCV 2024**
+[[Paper](https://arxiv.org/abs/2404.03384)] **ECCV 2024 (<span style="color: red;">Oral</span>)**
 
 
 - **Stitched ViTs are Flexible Vision Backbones** (SN-Net v2)
@@ -77,7 +77,7 @@ author_profile: true
 
 **Yefei He**, Jing Liu, Weijia Wu, Hong Zhou\#, Bohan Zhuang\#
 
-[[OpenReview](https://openreview.net/forum?id=UmMa3UNDAz)][[Code](https://github.com/ThisisBillhe/EfficientDM)] **ICLR 2024 (Spotlight, Top 5%)**
+[[OpenReview](https://openreview.net/forum?id=UmMa3UNDAz)][[Code](https://github.com/ThisisBillhe/EfficientDM)] **ICLR 2024 (<span style="color: red;">Spotlight, Top 5%</span>)**
 
 
 - **Object-Aware Inversion and Reassembly for Image Editing**
@@ -85,7 +85,6 @@ author_profile: true
 **Zhen Yang**, Ganggui Ding, Wen Wang, Hao Chen\#, Bohan Zhuang\#, Chunhua Shen
 
 [[OpenReview](https://openreview.net/forum?id=dpcVXiMlcv)][[Project](https://github.com/aim-uofa/OIR)] **ICLR 2024**
-
 
 
 - **Efficient Stitchable Task Adaptation**
@@ -132,7 +131,7 @@ Guoan Wang, **Jin Ye**, Junlong Cheng, Tianbin Li, Zhaolin Chen, Jianfei Cai, Ju
 
 **Zizheng Pan**, Jianfei Cai, Bohan Zhuang\#
 
-[[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Pan_Stitchable_Neural_Networks_CVPR_2023_paper.pdf)][[Project](https://snnet.github.io/)][[Code](https://github.com/ziplab/SN-Net)] **CVPR 2023 (Highlight, Top 2.5%)** 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Pan_Stitchable_Neural_Networks_CVPR_2023_paper.pdf)][[Project](https://snnet.github.io/)][[Code](https://github.com/ziplab/SN-Net)] **CVPR 2023 (<span style="color: red;">Highlight, Top 2.5%</span>)** 
 
 
 - **PTQD: Accurate Post-Training Quantization for Diffusion Models**
@@ -160,7 +159,7 @@ Guoan Wang, **Jin Ye**, Junlong Cheng, Tianbin Li, Zhaolin Chen, Jianfei Cai, Ju
 
 **Haoyu He**, Jianfei Cai, Jing Zhang, Dacheng Tao, Bohan Zhuang\#
 
-[[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/He_Sensitivity-Aware_Visual_Parameter-Efficient_Fine-Tuning_ICCV_2023_paper.pdf)][[Code](https://github.com/ziplab/SPT)] **ICCV 2023 (Oral)**
+[[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/He_Sensitivity-Aware_Visual_Parameter-Efficient_Fine-Tuning_ICCV_2023_paper.pdf)][[Code](https://github.com/ziplab/SPT)] **ICCV 2023 (<span style="color: red;">Oral</span>)**
 
 
 - **BiViT: Extremely Compressed Binary Vision Transformer**
@@ -219,14 +218,14 @@ Guoan Wang, **Jin Ye**, Junlong Cheng, Tianbin Li, Zhaolin Chen, Jianfei Cai, Ju
 
 **Jing Liu**\*, **Zizheng Pan**\*, Haoyu He, Jianfei Cai, Bohan Zhuang\#
 
-[[OpenReview](https://openreview.net/forum?id=MK_130d4Y0)][[Code](https://github.com/ziplab/EcoFormer)]  **NeurIPS 2022 (Spotlight, Top 3%)**  
+[[OpenReview](https://openreview.net/forum?id=MK_130d4Y0)][[Code](https://github.com/ziplab/EcoFormer)]  **NeurIPS 2022 (<span style="color: red;">Spotlight, Top 3%</span>)**  
 
 
 - **Fast Vision Transformers with HiLo Attention**
 
 **Zizheng Pan**, Jianfei Cai, Bohan Zhuang\#
 
-[[OpenReview](https://openreview.net/forum?id=Pyd6Rh9r1OT)][[Code](https://github.com/ziplab/LITv2)]  **NeurIPS 2022 (Spotlight, Top 3%)**
+[[OpenReview](https://openreview.net/forum?id=Pyd6Rh9r1OT)][[Code](https://github.com/ziplab/LITv2)]  **NeurIPS 2022 (<span style="color: red;">Spotlight, Top 3%</span>)**
 
 
 
@@ -326,7 +325,7 @@ Guoan Wang, **Jin Ye**, Junlong Cheng, Tianbin Li, Zhaolin Chen, Jianfei Cai, Ju
 
 **Peng Chen**\*, **Jing Liu**\*, Bohan Zhuang\#, Mingkui Tan, Chunhua Shen
 
-[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_AQD_Towards_Accurate_Quantized_Object_Detection_CVPR_2021_paper.pdf)][[Code](https://github.com/zhuang-group/QTool)]  **CVPR 2021 (Oral)**
+[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_AQD_Towards_Accurate_Quantized_Object_Detection_CVPR_2021_paper.pdf)][[Code](https://github.com/zhuang-group/QTool)]  **CVPR 2021 (<span style="color: red;">Oral</span>)**
 
 
 - **SA-BNN: State-Aware Binary Neural Network**
