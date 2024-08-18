@@ -18,6 +18,7 @@ author_profile: true
 <br><a href="https://github.com/AkideLiu">Akide Liu</a> (PhD @ Monash University, 2024- )
 <br><a href="https://scholar.google.com/citations?user=UFBrJOAAAAAJ&hl=en">Jin Ye</a>  (PhD @ Monash University, 2023- )
 <br><a href="">Yuanyu He</a>  (Master @ Zhejiang University, 2024- )
+<br><a href="https://lhmd.top/">Weijie Wang</a>  (PhD @ Zhejiang University, 2024- )
 <br><a href="https://scholar.google.com/citations?user=CTEQwwwAAAAJ&hl=zh-CN">Yefei He</a> (PhD @ Zhejiang University, 2022- ), co-supervised with Hong Zhou
 <br><a href="https://donydchen.github.io/">Yuedong Chen</a> (PhD @ Monash University, 2021- ), co-supervised with Jianfei Cai
 <br><a href="https://scholar.google.com/citations?user=rGaW26gAAAAJ&hl=zh-CN">Sidong Feng</a> (PhD @ Monash University, 2023- ), co-supervised with Chunyang Chen
