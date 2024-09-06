@@ -9,12 +9,6 @@ author_profile: true
 
 **2024**
 
-- **ME-Switch: A Memory-Efficient Expert Switching Framework for Large Language Models**
-
-**Jing Liu**, Ruihao Gong, Mingyang Zhang, Yefei He, Jianfei Cai, Bohan Zhuang\#
-
-[[Paper](https://arxiv.org/abs/2406.09041)]
-
 
 - **MiniCache: KV Cache Compression in Depth Dimension for Large Language Models**
 
@@ -30,11 +24,25 @@ author_profile: true
 [[Paper](https://arxiv.org/abs/2405.14256)]
 
 
+- **ME-Switch: A Memory-Efficient Expert Switching Framework for Large Language Models**
+
+**Jing Liu**, Ruihao Gong, Mingyang Zhang, Yefei He, Jianfei Cai, Bohan Zhuang\#
+
+[[Paper](https://arxiv.org/abs/2406.09041)]
+
+
 - **T-Stitch: Accelerating Sampling in Pre-Trained Diffusion Models with Trajectory Stitching**
 
 **Zizheng Pan**, Bohan Zhuang\#, De-An Huang, Weili Nie, Zhiding Yu, Chaowei Xiao, Jianfei Cai, Anima Anandkumar
 
 [[Paper](https://arxiv.org/abs/2402.14167)][[Project](https://t-stitch.github.io/)][[Code](https://github.com/NVlabs/T-Stitch)]
+
+
+- **GMAI-MMBench: A Comprehensive Multimodal Evaluation Benchmark Towards General Medical AI**
+
+Pengcheng Chen, **Jin Ye**, Guoan Wang, Yanjun Li, Zhongying Deng, Wei Li, Tianbin Li, Haodong Duan, Ziyan Huang, Yanzhou Su, Benyou Wang, Shaoting Zhang, Bin Fu, Jianfei Cai, Bohan Zhuang, Eric J Seibel, Junjun He, Yu Qiao
+
+[[Paper](https://www.arxiv.org/abs/2408.03361)][[Project Page](https://uni-medical.github.io/GMAI-MMBench.github.io/)][[HuggingFace](https://huggingface.co/papers/2408.03361)]
 
 
 - **MVSplat: Efficient 3D Gaussian Splatting from Sparse Multi-View Images**
