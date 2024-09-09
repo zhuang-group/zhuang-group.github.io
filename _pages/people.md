@@ -10,7 +10,7 @@ author_profile: true
 
 ## Co-PI
 <a href="https://zizhengpan.github.io/">Zizheng Pan</a> (PhD @ Monash University, 2021-2024), **Now Research Scientist @ DeepSeek** 
-<br><a href="https://jing-liu.com/">Jing Liu</a> (PhD @ Monash University, 2021-2024), **Now Team Leader @ ByteDance USA**
+<br><a href="https://jing-liu.com/">Jing Liu</a> (PhD @ Monash University, 2021-2024), **Now Research Scientist @ ByteDance USA**
 <br><a href="https://charles-haoyuhe.github.io/">Haoyu He</a> (PhD @ Monash University, 2021-2024), **Now Research Scientist @ TikTok Sydney** 
 
 ## PhD & Master students
