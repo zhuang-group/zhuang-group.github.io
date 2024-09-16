@@ -167,7 +167,7 @@ Guoan Wang, **Jin Ye**, Junlong Cheng, Tianbin Li, Zhaolin Chen, Jianfei Cai, Ju
 
 **Haoyu He**, Jianfei Cai, Jing Zhang, Dacheng Tao, Bohan Zhuang\#
 
-[[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/He_Sensitivity-Aware_Visual_Parameter-Efficient_Fine-Tuning_ICCV_2023_paper.pdf)][[Code](https://github.com/ziplab/SPT)] **ICCV 2023 (<span style="color: red;">Oral</span>)**
+[[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/He_Sensitivity-Aware_Visual_Parameter-Efficient_Fine-Tuning_ICCV_2023_paper.pdf)][[Code](https://github.com/ziplab/SPT)] **ICCV 2023 (<span style="color: red;">Oral, Top 2.4%</span>)**
 
 
 - **BiViT: Extremely Compressed Binary Vision Transformer**
