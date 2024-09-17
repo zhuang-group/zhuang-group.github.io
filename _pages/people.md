@@ -19,7 +19,7 @@ author_profile: true
 ## PhD & Master students
 <br><a href="https://github.com/AkideLiu">Akide Liu</a> (PhD @ Monash University)
 <br><a href="https://scholar.google.com/citations?user=UFBrJOAAAAAJ&hl=en">Jin Ye</a>  (PhD @ Monash University)
-<br><a href="https://lhmd.top/">Weijie Wang</a>  (PhD @ Zhejiang University)
+<br><a href="https://lhmd.top/">Weijie Wang</a>  (Upcoming PhD @ Zhejiang University)
 <br><a href="https://openreview.net/profile?id=~Zhuokun_Chen1">Zhuokun Chen</a> (PhD @ Monash University)
 <br><a href="">Jiahao He</a>  (Master @ Zhejiang University)
 <br><a href="">Yuanyu He</a>  (Master @ Zhejiang University)
