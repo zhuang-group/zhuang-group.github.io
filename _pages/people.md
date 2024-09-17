@@ -13,7 +13,7 @@ author_profile: true
 <br><a href="https://jing-liu.com/">Jing Liu</a> (PhD @ Monash University, 2021-2024), **Now Research Scientist @ ByteDance USA**
 <br><a href="https://charles-haoyuhe.github.io/">Haoyu He</a> (PhD @ Monash University, 2021-2024), **Now Research Scientist @ TikTok Sydney** 
 <br><a href="https://dblp.org/pid/319/7287.html">Yuetian Weng</a> (PhD @ Monash University, 2021-2024)
-<br><a href="https://donydchen.github.io/">Yuedong Chen</a> (PhD @ Monash University, 2021-2024), **Now Research Fellow @ Monash University**.
+<br><a href="https://donydchen.github.io/">Yuedong Chen</a> (PhD @ Monash University, 2021-2024), **Now Research Fellow @ Monash University**
 
 
 ## PhD & Master students
