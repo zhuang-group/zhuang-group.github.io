@@ -24,8 +24,8 @@ author_profile: true
 <br><a href="">Jiahao He</a>  (Master @ Zhejiang University)
 <br><a href="">Yuanyu He</a>  (Master @ Zhejiang University)
 <br><a href="https://scholar.google.com/citations?user=CTEQwwwAAAAJ&hl=zh-CN">Yefei He</a> (PhD @ Zhejiang University), co-supervised with Hong Zhou
-<br><a href="https://scholar.google.com/citations?user=rGaW26gAAAAJ&hl=zh-CN">Sidong Feng</a> (PhD @ Monash University), co-supervised with Chunyang Chen
 <br><a href="https://github.com/Chenfeng1271">Feng Chen</a>  (PhD @ The University of Adelaide), co-supervised with Qi Wu
+<br><a href="https://scholar.google.com/citations?user=rGaW26gAAAAJ&hl=zh-CN">Sidong Feng</a> (PhD @ Monash University), co-supervised with Chunyang Chen
 
 
 ## Research Fellows & Collaborators 
