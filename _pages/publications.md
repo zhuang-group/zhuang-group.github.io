@@ -7,22 +7,8 @@ author_profile: true
 
 (Selected Publications. \* equal contribution, \# corresponding author)
 
-**2024**
 
-
-- **MiniCache: KV Cache Compression in Depth Dimension for Large Language Models**
-
-**Akide Liu**, Jing Liu, Zizheng Pan, Yefei He, Gholamreza Haffari, Bohan Zhuang\#
-
-[[Paper](https://arxiv.org/abs/2405.14366)]
-
-
-- **ZipCache: Accurate and Efficient KV Cache Quantization with Salient Token Identification**
-
-**Yefei He**, Luoming Zhang, Weijia Wu, Jing Liu, Hong Zhou, Bohan Zhuang\#
-
-[[Paper](https://arxiv.org/abs/2405.14256)]
-
+## Preprint
 
 - **ME-Switch: A Memory-Efficient Expert Switching Framework for Large Language Models**
 
@@ -36,6 +22,30 @@ author_profile: true
 **Zizheng Pan**, Bohan Zhuang\#, De-An Huang, Weili Nie, Zhiding Yu, Chaowei Xiao, Jianfei Cai, Anima Anandkumar
 
 [[Paper](https://arxiv.org/abs/2402.14167)][[Project](https://t-stitch.github.io/)][[Code](https://github.com/NVlabs/T-Stitch)]
+
+
+## 2024 
+
+
+- **MiniCache: KV Cache Compression in Depth Dimension for Large Language Models**
+
+**Akide Liu**, Jing Liu, Zizheng Pan, Yefei He, Gholamreza Haffari, Bohan Zhuang\#
+
+[[Paper](https://arxiv.org/abs/2405.14366)] **NeurIPS 2024**
+
+
+- **ZipCache: Accurate and Efficient KV Cache Quantization with Salient Token Identification**
+
+**Yefei He**, Luoming Zhang, Weijia Wu, Jing Liu, Hong Zhou, Bohan Zhuang\#
+
+[[Paper](https://arxiv.org/abs/2405.14256)] **NeurIPS 2024**
+
+
+- **MVSplat360: Benchmarking 360° Generalizable 3D Novel View Synthesis from Sparse Views**
+
+**Yuedong Chen**, Chuanxia Zheng, Haofei Xu, Bohan Zhuang, Andrea Vedaldi, Tat-Jen Cham, Jianfei Cai
+
+[[Paper]()] **NeurIPS 2024**
 
 
 - **GMAI-MMBench: A Comprehensive Multimodal Evaluation Benchmark Towards General Medical AI**
@@ -123,16 +133,10 @@ Guoan Wang, **Jin Ye**, Junlong Cheng, Tianbin Li, Zhaolin Chen, Jianfei Cai, Ju
 [[Paper](https://arxiv.org/abs/2407.04938)] **MICCAI 2024**
 
 
-- **Streaming Video Diffusion: Online Video Editing with Diffusion Models**
-
-**Feng Chen**, Zhen Yang, Bohan Zhuang, Qi Wu
-
-[[Paper](https://arxiv.org/abs/2405.19726)]
 
 
 
-
-**2023**
+## 2023 
 
 
 - **Stitchable Neural Networks**
@@ -220,7 +224,7 @@ Guoan Wang, **Jin Ye**, Junlong Cheng, Tianbin Li, Zhaolin Chen, Jianfei Cai, Ju
 
 
 
-**2022**
+## 2022
 
 - **EcoFormer: Energy-Saving Attention with Linear Complexity**  
 
@@ -298,7 +302,7 @@ Guoan Wang, **Jin Ye**, Junlong Cheng, Tianbin Li, Zhaolin Chen, Jianfei Cai, Ju
 
 
 
-**2021**
+## 2021 
 
 
 - **Scalable Vision Transformers with Hierarchical Pooling**
