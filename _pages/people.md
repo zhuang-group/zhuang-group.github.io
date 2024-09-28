@@ -17,15 +17,15 @@ author_profile: true
 
 
 ## PhD & Master students
-<a href="https://github.com/AkideLiu">Akide Liu</a> (PhD @ Monash University)
+<a href="http://hexy.tech/">Yefei He</a> (PhD @ Zhejiang University) 
+<br><a href="https://github.com/AkideLiu">Akide Liu</a> (PhD @ Monash University)
 <br><a href="https://scholar.google.com/citations?user=UFBrJOAAAAAJ&hl=en">Jin Ye</a>  (PhD @ Monash University)
 <br><a href="https://lhmd.top/">Weijie Wang</a>  (PhD @ Zhejiang University)
 <br><a href="https://openreview.net/profile?id=~Zhuokun_Chen1">Zhuokun Chen</a> (Upcoming PhD @ Monash University)
-<br><a href="">Yuanyu He</a>  (Master @ Zhejiang University)
-<br><a href="">Jiahao He</a>  (Master @ Zhejiang University)
-<br><a href="https://scholar.google.com/citations?user=CTEQwwwAAAAJ&hl=zh-CN">Yefei He</a> (PhD @ Zhejiang University), co-supervised with Hong Zhou
-<br><a href="https://github.com/Chenfeng1271">Feng Chen</a>  (PhD @ The University of Adelaide), co-supervised with Qi Wu
-<br><a href="https://scholar.google.com/citations?user=rGaW26gAAAAJ&hl=zh-CN">Sidong Feng</a> (PhD @ Monash University), co-supervised with Chunyang Chen
+<br><a href="">Yuanyu He</a> (Master @ Zhejiang University)
+<br><a href="">Jiahao He</a> (Master @ Zhejiang University)
+<br><a href="https://github.com/Chenfeng1271">Feng Chen</a> (PhD @ The University of Adelaide), co-supervised with Qi Wu
+<br><a href="https://sidongfeng.github.io/">Sidong Feng</a> (PhD @ Monash University), co-supervised with Chunyang Chen
 
 
 ## Research Fellows & Collaborators 
@@ -35,5 +35,13 @@ author_profile: true
 <br><a href="https://openreview.net/profile?id=~Mingyang_Zhang3">Mingyang Zhang</a> Research Scientist @ Ant Group
 <br><a href="https://openreview.net/profile?id=~Zhen_Yang15">Zhen Yang</a> PhD @ HKUST (Guangzhou)
 <br><a href="https://scholar.google.com/citations?user=Hoh9p_kAAAAJ&hl=en">Peng Chen</a>  Research Scientist @ HOUMO.AI
+
+
+## Bachelor students
+<a href="">Ruihan Zhu</a> (Chu Kochen Honors College @ Zhejiang University)
+<br><a href="">Hanxuan Li</a>  (Chu Kochen Honors College @ Zhejiang University)
+<br><a href="Xiyu Wu"></a>  (Chu Kochen Honors College @ Zhejiang University)
+<br><a href="Zhipeng Zhang"></a>  (Chu Kochen Honors College @ Zhejiang University)
+<br><a href="Yanxuan Niu"></a>  (Chu Kochen Honors College @ Zhejiang University)
 
 
