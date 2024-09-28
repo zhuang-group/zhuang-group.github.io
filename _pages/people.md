@@ -40,8 +40,8 @@ author_profile: true
 ## Bachelor students
 <a href="">Ruihan Zhu</a> (Chu Kochen Honors College @ Zhejiang University)
 <br><a href="">Hanxuan Li</a>  (Chu Kochen Honors College @ Zhejiang University)
-<br><a href="Xiyu Wu"></a>  (Chu Kochen Honors College @ Zhejiang University)
-<br><a href="Zhipeng Zhang"></a>  (Chu Kochen Honors College @ Zhejiang University)
-<br><a href="Yanxuan Niu"></a>  (Chu Kochen Honors College @ Zhejiang University)
+<br><a href="">Xiyu Wu</a>  (Chu Kochen Honors College @ Zhejiang University)
+<br><a href="">Zhipeng Zhang</a>  (Chu Kochen Honors College @ Zhejiang University)
+<br><a href="">Yanxuan Niu</a>  (Chu Kochen Honors College @ Zhejiang University)
 
 
