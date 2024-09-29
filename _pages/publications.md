@@ -41,7 +41,7 @@ author_profile: true
 [[Paper](https://arxiv.org/abs/2405.14256)] **NeurIPS 2024**
 
 
-- **MVSplat360: Benchmarking 360° Generalizable 3D Novel View Synthesis from Sparse Views**
+- **MVSplat360: Feed‑Forward 360° Scene Synthesis from Sparse Views**
 
 **Yuedong Chen**, Chuanxia Zheng, Haofei Xu, Bohan Zhuang, Andrea Vedaldi, Tat-Jen Cham, Jianfei Cai
 
