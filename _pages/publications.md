@@ -50,7 +50,7 @@ author_profile: true
 
 - **GMAI-MMBench: A Comprehensive Multimodal Evaluation Benchmark Towards General Medical AI**
 
-Pengcheng Chen, **Jin Ye**, Guoan Wang, Yanjun Li, Zhongying Deng, Wei Li, Tianbin Li, Haodong Duan, Ziyan Huang, Yanzhou Su, Benyou Wang, Shaoting Zhang, Bin Fu, Jianfei Cai, Bohan Zhuang, Eric J Seibel, Junjun He, Yu Qiao
+Pengcheng Chen*, **Jin Ye***\#, Guoan Wang*, Yanjun Li, Zhongying Deng, Wei Li, Tianbin Li, Haodong Duan, Ziyan Huang, Yanzhou Su, Benyou Wang, Shaoting Zhang, Bin Fu, Jianfei Cai, Bohan Zhuang, Eric J Seibel, Junjun He, Yu Qiao
 
 [[Paper](https://www.arxiv.org/abs/2408.03361)][[Project Page](https://uni-medical.github.io/GMAI-MMBench.github.io/)][[HuggingFace](https://huggingface.co/papers/2408.03361)] **NeurIPS 2024 Datasets and Benchmarks Track**
 
