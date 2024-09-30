@@ -119,7 +119,7 @@ Pengcheng Chen*, **Jin Ye**\*#, Guoan Wang*, Yanjun Li, Zhongying Deng, Wei Li, 
 [[Paper](https://arxiv.org/abs/2401.06395)][[Code](https://github.com/xinke-wang/ModaVerse)]   **CVPR 2024**
 
   
-- **LoRAPrune: Pruning Meets Low-Rank Parameter-Efficient Fine-Tuning**
+- **LoRAPrune: Structured Pruning Meets Low-Rank Parameter-Efficient Fine-Tuning**
 
 **Mingyang Zhang**, Hao Chen, Chunhua Shen, Zhen Yang, Linlin Ou, Xinyi Yu, Bohan Zhuang
 
