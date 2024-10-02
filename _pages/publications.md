@@ -128,7 +128,7 @@ Pengcheng Chen\*, **Jin Ye**\*#, Guoan Wang\*, Yanjun Li, Zhongying Deng, Wei Li
 
 - **SAM-Med3D-MoE: Towards a Non-Forgetting Segment Anything Model via Mixture of Experts for 3D Medical Image Segmentation**
 
-Guoan Wang, **Jin Ye**, Junlong Cheng, Tianbin Li, Zhaolin Chen, Jianfei Cai, Junjun He, Bohan Zhuang\#
+Guoan Wang\*, **Jin Ye**\*, Junlong Cheng, Tianbin Li, Zhaolin Chen, Jianfei Cai, Junjun He, Bohan Zhuang\#
 
 [[Paper](https://arxiv.org/abs/2407.04938)] **MICCAI 2024**
 
