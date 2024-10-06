@@ -59,14 +59,14 @@ Pengcheng Chen\*, **Jin Ye**\*#, Guoan Wang\*, Yanjun Li, Zhongying Deng, Wei Li
 
 **Yuedong Chen**, Haofei Xu, Chuanxia Zheng, Bohan Zhuang, Marc Pollefeys, Andreas Geiger, Tat-Jen Cham, Jianfei Cai
 
-[[Paper](https://arxiv.org/abs/2403.14627)][[Project](https://donydchen.github.io/mvsplat/)][[Code](https://github.com/donydchen/mvsplat)] **ECCV 2024 (<span style="color: red;">Oral, Top 1.5%</span>)**
+[[Paper](https://arxiv.org/abs/2403.14627)][[Project](https://donydchen.github.io/mvsplat/)][[Code](https://github.com/donydchen/mvsplat)] **ECCV 2024 (<span style="color: red;">Oral, Top 2%</span>)**
 
 
 - **LongVLM: Efficient Long Video Understanding via Large Language Models**
   
 **Yuetian Weng**, Mingfei Han, Haoyu He, Xiaojun Chang, Bohan Zhuang\#
 
-[[Paper](https://arxiv.org/abs/2404.03384)] **ECCV 2024 (<span style="color: red;">Oral, Top 1.5%</span>)**
+[[Paper](https://arxiv.org/abs/2404.03384)] **ECCV 2024 (<span style="color: red;">Oral, Top 2%</span>)**
 
 
 - **Stitched ViTs are Flexible Vision Backbones** (SN-Net v2)
