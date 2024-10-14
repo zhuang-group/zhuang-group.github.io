@@ -10,6 +10,13 @@ author_profile: true
 
 ## Preprint
 
+- **ZipVL: Efficient Large Vision-Language Models with Dynamic Token Sparsification and KV Cache Compression**
+
+**Yefei He**, Feng Chen, Jing Liu, Wenqi Shao, Hong Zhou, Kaipeng Zhang, Bohan Zhuang
+
+[[Paper](https://arxiv.org/abs/2410.08584)]
+
+
 - **ME-Switch: A Memory-Efficient Expert Switching Framework for Large Language Models**
 
 **Jing Liu**, Ruihao Gong, Mingyang Zhang, Yefei He, Jianfei Cai, Bohan Zhuang\#
