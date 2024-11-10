@@ -45,14 +45,14 @@ author_profile: true
 
 **Yefei He**, Luoming Zhang, Weijia Wu, Jing Liu, Hong Zhou, Bohan Zhuang\#
 
-[[Paper](https://arxiv.org/abs/2405.14256)] **NeurIPS 2024**
+[[Paper](https://arxiv.org/abs/2405.14256)][[Code](https://github.com/ThisisBillhe/ZipCache/)]  **NeurIPS 2024**
 
 
 - **MVSplat360: Feed‑Forward 360° Scene Synthesis from Sparse Views**
 
 **Yuedong Chen**, Chuanxia Zheng, Haofei Xu, Bohan Zhuang, Andrea Vedaldi, Tat-Jen Cham, Jianfei Cai
 
-[[Paper]()] **NeurIPS 2024**
+[[Paper](https://arxiv.org/abs/2411.04924)][[Project Page](https://donydchen.github.io/mvsplat360/)][[Code](https://github.com/donydchen/mvsplat360)] **NeurIPS 2024**
 
 
 - **GMAI-MMBench: A Comprehensive Multimodal Evaluation Benchmark Towards General Medical AI**
