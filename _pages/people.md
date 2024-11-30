@@ -33,13 +33,11 @@ author_profile: true
 <br><a href="https://scholar.google.com/citations?user=RLAgwBkAAAAJ&hl=en">Changlin Li</a>  (PhD @ Monash University, 2019-2022). Now Research Fellow @ University of Technology Sydney. 
 <br><a href="https://openreview.net/profile?id=~Xinyu_Wang2">Xinyu Wang</a> Research Fellow @ The University of Adelaide
 <br><a href="https://openreview.net/profile?id=~Mingyang_Zhang3">Mingyang Zhang</a> Research Scientist @ Ant Group
-<br><a href="https://openreview.net/profile?id=~Zhen_Yang15">Zhen Yang</a> PhD @ HKUST (Guangzhou)
 <br><a href="https://scholar.google.com/citations?user=Hoh9p_kAAAAJ&hl=en">Peng Chen</a>  Research Scientist @ HOUMO.AI
 
 
 ## Bachelor students
 
 <a href="">Ruihan Zhu</a> (Zhejiang University)
-<br><a href="">Hanxuan Li</a>  (Zhejiang University)
 <br><a href="">Xi Lin</a>  (Zhejiang University)
 
