@@ -31,6 +31,22 @@ author_profile: true
 [[Paper](https://arxiv.org/abs/2402.14167)][[Project](https://t-stitch.github.io/)][[Code](https://github.com/NVlabs/T-Stitch)]
 
 
+- **Enhancing Perception Capabilities of Multimodal LLMs with Training-Free Fusion**
+
+**Zhuokun Chen**, Jinwu Hu, Zeshuai Deng, Yufeng Wang, Bohan Zhuang\#, Mingkui Tan\#
+
+[[Paper](https://arxiv.org/abs/2412.01289)]
+
+
+- **Evaluating and Advancing Multimodal Large Language Models in Ability Lens**
+
+**Feng Chen**, Chenhui Gou, Jing Liu, Yang Yang, Zhaoyang Li, Jiyuan Zhang, Zhenbang Sun, Bohan Zhuang, Qi Wu
+
+[[Paper](https://arxiv.org/abs/2411.14725)]
+
+
+
+
 ## 2024 
 
 
