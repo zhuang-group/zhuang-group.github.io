@@ -37,7 +37,7 @@ author_profile: true
 
 
 ## Bachelor students
-
+<a href="https://steve-zeyu-zhang.github.io/">Zeyu Zhang</a> (Zhejiang University)
 <a href="">Ruihan Zhu</a> (Zhejiang University)
 <br><a href="">Xi Lin</a>  (Zhejiang University)
 
