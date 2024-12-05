@@ -12,7 +12,7 @@ author_profile: true
 <a href="https://zizhengpan.github.io/">Zizheng Pan</a> (PhD @ Monash University, 2021-2024), **Now Research Scientist @ DeepSeek** 
 <br><a href="https://jing-liu.com/">Jing Liu</a> (PhD @ Monash University, 2021-2024), **Now Research Scientist @ ByteDance USA**
 <br><a href="https://charles-haoyuhe.github.io/">Haoyu He</a> (PhD @ Monash University, 2021-2024), **Now Research Scientist @ TikTok Sydney** 
-<br><a href="https://dblp.org/pid/319/7287.html">Yuetian Weng</a> (PhD @ Monash University, 2021-2024)
+<br><a href="https://dblp.org/pid/319/7287.html">Yuetian Weng</a> (PhD @ Monash University, 2021-2024), **Now Research Scientist @ Seeing Machines, Australia**
 <br><a href="https://donydchen.github.io/">Yuedong Chen</a> (PhD @ Monash University, 2021-2024), **Now Research Scientist @ ByteDance Singapore**
 
 
@@ -37,7 +37,7 @@ author_profile: true
 
 
 ## Bachelor students
-<a href="https://steve-zeyu-zhang.github.io/">Zeyu Zhang</a> (Zhejiang University)
+<a href="https://steve-zeyu-zhang.github.io/">Zeyu Zhang</a> (The Australian National University)
 <br><a href="">Xi Lin</a>  (Zhejiang University)
 <br><a href="">Ruihan Zhu</a> (Zhejiang University)
 
