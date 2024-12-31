@@ -39,5 +39,8 @@ author_profile: true
 ## Bachelor students
 <a href="https://steve-zeyu-zhang.github.io/">Zeyu Zhang</a> (The Australian National University)
 <br><a href="">Xi Lin</a>  (Zhejiang University)
+<br><a href="">Youping Gu</a>  (Xidian University)
+<br><a href="https://github.com/lhxcs">Hanxuan Li</a> (Zhejiang University)
 <br><a href="">Ruihan Zhu</a> (Zhejiang University)
+
 
