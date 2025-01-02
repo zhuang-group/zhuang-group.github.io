@@ -18,7 +18,7 @@ author_profile: true
 [[Paper](https://arxiv.org/abs/2412.04062)][[Code](https://github.com/ThisisBillhe/ZipAR)]
 
 
-- **ZipVL: Efficient Large Vision-Language Models with Dynamic Token Sparsification and KV Cache Compression**
+- **ZipVL: Efficient Large Vision-Language Models with Dynamic Token Sparsification**
 
 **Yefei He**, Feng Chen, Jing Liu, Wenqi Shao, Hong Zhou, Kaipeng Zhang, Bohan Zhuang
 
